@@ -1,0 +1,1 @@
+<?php header('Location:' . osc_user_list_items_url()); exit; ?>

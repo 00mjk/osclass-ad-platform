@@ -1,0 +1,19 @@
+.tabberlive { margin:10px 0 0 0;float:left;width:100%;clear:both;font-family: "Open Sans",sans-serif;}
+.tabberlive .tabbertabhide { display:none; }
+.tabberlive ul.tabbernav { position:relative;margin: 0; font-size: 12px; float: left; clear: both; width: 100%; background: #f0f0f0; border-bottom: 1px solid #ddd; padding: 8px 0 0 8px; color: #333;-webkit-border-top-left-radius: 3px; -webkit-border-top-right-radius: 3px; -moz-border-radius-topleft: 3px; -moz-border-radius-topright: 3px; border-top-left-radius: 3px; border-top-right-radius: 3px;}
+.tabberlive ul.tabbernav li { list-style: none; margin: 0; display: inline;float:left;width:auto;white-space: nowrap;}
+
+ul.tabbernav li a {line-height: 16px;text-decoration:none; font-size: 13px; font-weight: 500; position: relative; cursor: pointer; color: #333; width: auto; padding: 8px; height: auto; float: left; background: #fff; border: 1px solid #ddd; margin: 0 6px 0px 0; -webkit-transition: 0s linear all; -moz-transition: 0s linear all; -ms-transition: 0s linear all; -o-transition: 0s linear all; transition: 0s linear all; -webkit-border-radius: 2px; -moz-border-radius: 2px; border-radius: 2px;}
+ul.tabbernav li.tabberactive a {cursor: default; font-weight: 600; color:#43a3da; border-bottom: 1px solid #fff; margin-bottom: -1px; padding-bottom: 16px; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; -webkit-border-bottom-right-radius: 0px; -webkit-border-bottom-left-radius: 0px; -moz-border-radius-bottomright: 0px; -moz-border-radius-bottomleft: 0px; border-bottom-right-radius: 0px; border-bottom-left-radius: 0px;}
+ul.tabbernav li:not(.tabberactive) a:hover {border-color: #bbb; color: #43a3da;}
+
+ul.tabbernav.multi-line {padding-bottom:2px;}
+ul.tabbernav.multi-line li.tabberactive a {margin:0 6px 6px 0;padding:8px;border:1px solid #ddd;-webkit-border-radius: 2px; -moz-border-radius: 2px; border-radius: 2px;}
+
+.tabberlive .tabbertab {margin:0;float: left;clear: both;width: 100%;padding:14px 12px;background:#fff;border:1px solid #ddd;border-top:none;-webkit-border-bottom-right-radius: 3px; -webkit-border-bottom-left-radius: 3px; -moz-border-radius-bottomright: 3px; -moz-border-radius-bottomleft: 3px; border-bottom-right-radius: 3px; border-bottom-left-radius: 3px;-webkit-transition:0.1s linear all;-moz-transition:0.1s linear all;-ms-transition:0.1s linear all;-o-transition:0.1s linear all;transition:0.1s linear all;}
+.tabberlive .tabbertab h2 { display:none; }
+.tabberlive .tabbertab h3 { display:none; }
+.tabberlive .tabbertab p {float:left;width:100%;clear:both;margin:5px 0;}
+
+.tabberlive#tab2 .tabbertab { height:200px; overflow:auto;}
+ul.tabbernav li .button {padding:5px}

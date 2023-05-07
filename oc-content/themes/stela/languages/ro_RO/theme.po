@@ -1,0 +1,2312 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Stela Osclass Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-01-14 20:12+0100\n"
+"PO-Revision-Date: 2020-05-30 22:35+0300\n"
+"Last-Translator: Miso <miso546@azet.sk>\n"
+"Language-Team: MB Themes <info@mb-themes.com>\n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;_m\n"
+"X-Poedit-Basepath: ../..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 2.3.1\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n==0 || (n!=1 && n%100>=1 && n"
+"%100<=19) ? 1 : 2);\n"
+"X-Poedit-SearchPath-0: languages/en_US\n"
+"X-Poedit-SearchPath-1: .\n"
+
+#: 404.php:14
+msgid "Error 404"
+msgstr "Eroare 404"
+
+#: 404.php:16
+msgid "404"
+msgstr "404"
+
+#: 404.php:18
+msgid "Whooops, page not found!"
+msgstr ""
+"Se pare ca acest anunt nu mai exista, intoarce-te pe pagina de anunturi!"
+
+#: 404.php:19
+msgid "We are sorry, but this link is not valid anymore."
+msgstr "Ne pare rau, acest anunt este dezactivat."
+
+#: 404.php:22
+msgid "Home"
+msgstr "Acasa"
+
+#: 404.php:23 inc.search.php:72 search.php:124 search.php:132 search.php:220
+#: user-alerts.php:289
+msgid "Search"
+msgstr "Cauta"
+
+#: 404.php:26 functions.php:482 header.php:122
+msgid "My account"
+msgstr "Contul meu"
+
+#: 404.php:28 header.php:124 inc.auth.php:4 inc.auth.php:24 inc.auth.php:81
+#: inc.auth.php:101 user-register.php:34 user-register.php:102
+msgid "Sign in"
+msgstr "Autentificare"
+
+#: admin/functions.php:13 admin/functions.php:22 admin/settings.php:3
+msgid "Settings"
+msgstr "Setari"
+
+#: admin/functions.php:23
+msgid "Header"
+msgstr "Antet"
+
+#: admin/functions.php:24
+msgid "OsclassPoint"
+msgstr ""
+
+#: admin/functions.php:38
+msgid "Report Bug"
+msgstr "Raporteaza eroare"
+
+#: admin/functions.php:39
+msgid "Support Forums"
+msgstr "Suport"
+
+#: admin/functions.php:40
+msgid "Contact Us"
+msgstr "Contact"
+
+#: admin/functions.php:88
+msgid "Add small image"
+msgstr "Adauga o imagine mica"
+
+#: admin/functions.php:96
+msgid "Add large image"
+msgstr "Adauga o imagine mare"
+
+#: admin/functions.php:97
+msgid "Add / remove icon"
+msgstr "Adauga / sterge imagine"
+
+#: admin/functions.php:114 admin/functions.php:116
+msgid "Add / remove color"
+msgstr "Adauga / sterge culoare"
+
+#: admin/functions.php:124 admin/settings.php:343
+msgid "Color"
+msgstr "Culoare"
+
+#: admin/header.php:3 functions.php:1676
+msgid "Header logo"
+msgstr "Logo antet"
+
+#: admin/header.php:12
+msgid "Logo preview"
+msgstr "Vizualizare logo"
+
+#: admin/header.php:23 item.php:565
+msgid "Remove"
+msgstr "Sterge"
+
+#: admin/header.php:30
+msgid "No logo has been uploaded yet"
+msgstr "Niciun logo incarcat"
+
+#: admin/header.php:40
+msgid "Logo upload"
+msgstr "Incarca logo"
+
+#: admin/header.php:47
+msgid ""
+"When new logo is uploaded, do not forget to clean your browser cache (CTRL + "
+"R or CTRL + F5)"
+msgstr ""
+
+#: admin/header.php:48
+msgid "The preferred size of the logo is 230x60px."
+msgstr ""
+
+#: admin/header.php:49
+msgid "Following formats are allowed: png, gif, jpg"
+msgstr ""
+
+#: admin/header.php:52
+msgid "Uploading another logo will overwrite the current logo."
+msgstr ""
+
+#: admin/header.php:60
+msgid "Upload"
+msgstr ""
+
+#: admin/header.php:67
+#, php-format
+msgid "The images folder <strong>%s</strong> is not writable on your server"
+msgstr ""
+
+#: admin/header.php:68
+msgid "OSClass can't upload the logo image from the administration panel."
+msgstr ""
+
+#: admin/header.php:69
+msgid "Please make the aforementioned image folder writable."
+msgstr ""
+
+#: admin/header.php:75
+msgid ""
+"To make a directory writable under UNIX execute this command from the shell:"
+msgstr ""
+
+#: admin/settings.php:26
+msgid "Font Awesome icon successfully saved for category <strong>#"
+msgstr ""
+
+#: admin/settings.php:33
+msgid "Color successfully saved for category <strong>#"
+msgstr ""
+
+#: admin/settings.php:45
+msgid "extension not allowed, only allowed extension is .png!"
+msgstr ""
+
+#: admin/settings.php:50
+msgid "Small image #"
+msgstr ""
+
+#: admin/settings.php:50 admin/settings.php:73
+msgid " uploaded successfully."
+msgstr ""
+
+#: admin/settings.php:53
+msgid "There was error when uploading small image #"
+msgstr ""
+
+#: admin/settings.php:68
+msgid "extension not allowed, only allowed extension for large images is .jpg!"
+msgstr ""
+
+#: admin/settings.php:73
+msgid "Large image #"
+msgstr ""
+
+#: admin/settings.php:76
+msgid "There was error when uploading large image #"
+msgstr ""
+
+#: admin/settings.php:88
+msgid "Plugins for this theme"
+msgstr ""
+
+#: admin/settings.php:89
+msgid ""
+"We have modified for you many plugins to fit theme design that will work "
+"without need of any modifications"
+msgstr ""
+
+#: admin/settings.php:90
+msgid ""
+"Plugins are not delivered in theme package, must be downloaded separately"
+msgstr ""
+
+#: admin/settings.php:91
+msgid "Download plugins"
+msgstr ""
+
+#: admin/settings.php:92
+msgid ""
+"upload and extract downloaded <strong>ZIP</strong> file into folder "
+"<strong>oc-content/plugins/</strong> on your hosting"
+msgstr ""
+
+#: admin/settings.php:93
+msgid "go to <strong>oc-admin > Plugins</strong> and install plugins you like"
+msgstr ""
+
+#: admin/settings.php:99
+msgid "General settings"
+msgstr "Setari generale"
+
+#: admin/settings.php:106
+msgid "Contact Number"
+msgstr "Numar contact"
+
+#: admin/settings.php:107
+msgid "Contact number"
+msgstr "Numar contact"
+
+#: admin/settings.php:109
+msgid "Leave blank to disable."
+msgstr "Lasa gol pentru dezactivare"
+
+#: admin/settings.php:113
+msgid "Category Selection on Publish"
+msgstr ""
+
+#: admin/settings.php:115
+msgid "Flat selection (icons)"
+msgstr ""
+
+#: admin/settings.php:116
+msgid "Cascading drop-downs"
+msgstr ""
+
+#: admin/settings.php:117
+msgid "One select box"
+msgstr ""
+
+#: admin/settings.php:120
+msgid "Select what type of category selection will be on publish page."
+msgstr ""
+
+#: admin/settings.php:124
+msgid "Site info"
+msgstr "Invirmatii site"
+
+#: admin/settings.php:125
+msgid "Info about your site"
+msgstr "Informatii despre site"
+
+#: admin/settings.php:127
+msgid "Leave blank to disable, will be shown in footer"
+msgstr ""
+
+#: admin/settings.php:131 admin/settings.php:132
+msgid "Website Name"
+msgstr "Nume site"
+
+#: admin/settings.php:136
+msgid "Save search parameters"
+msgstr "Salveaza cautarea"
+
+#: admin/settings.php:139
+msgid "Enable to store search parameters in cookies."
+msgstr ""
+
+#: admin/settings.php:143
+msgid "Default View on Search Page"
+msgstr ""
+
+#: admin/settings.php:145
+msgid "Gallery view"
+msgstr "Vizualizare galerie"
+
+#: admin/settings.php:146
+msgid "List view"
+msgstr "Vizualizare lista"
+
+#: admin/settings.php:151
+msgid "Show Premiums Block on Home"
+msgstr ""
+
+#: admin/settings.php:154
+msgid "Show Premium Listings block on Home Page."
+msgstr ""
+
+#: admin/settings.php:158
+msgid "Number of Premiums on Home"
+msgstr ""
+
+#: admin/settings.php:161
+msgid "How many premium listings will be shown on Home page."
+msgstr ""
+
+#: admin/settings.php:166
+msgid "Show Premiums Block on Search"
+msgstr ""
+
+#: admin/settings.php:169
+msgid "Show Premium Listings block on Search Page."
+msgstr ""
+
+#: admin/settings.php:173
+msgid "Number of Premiums on Search"
+msgstr ""
+
+#: admin/settings.php:176
+msgid "How many premium listings will be shown on Search page."
+msgstr ""
+
+#: admin/settings.php:180
+msgid "Footer Link"
+msgstr ""
+
+#: admin/settings.php:183
+msgid "Link to Osclasspoint will be shown in footer."
+msgstr ""
+
+#: admin/settings.php:187
+msgid "Use Default Logo"
+msgstr ""
+
+#: admin/settings.php:190
+msgid "If you did not upload any logo yet, osclass default logo will be used."
+msgstr ""
+
+#: admin/settings.php:195
+msgid "Category Icons Type"
+msgstr ""
+
+#: admin/settings.php:198
+msgid ""
+"Check to ON if you want to use Font-Awesome icons instead of Small images "
+"for categories."
+msgstr ""
+
+#: admin/settings.php:202
+msgid "Email Contact in Footer"
+msgstr ""
+
+#: admin/settings.php:203
+msgid "Contact email"
+msgstr ""
+
+#: admin/settings.php:208
+msgid "Currency in Search Box"
+msgstr ""
+
+#: admin/settings.php:218
+msgid "Show Latest Items in Random Order"
+msgstr ""
+
+#: admin/settings.php:223
+msgid "Latest Items Picture Only"
+msgstr ""
+
+#: admin/settings.php:228
+msgid "Latest Premium Items"
+msgstr ""
+
+#: admin/settings.php:233
+msgid "Category for Latest Items"
+msgstr ""
+
+#: admin/settings.php:235 functions.php:692 functions.php:723
+#: inc.category.php:177
+msgid "All categories"
+msgstr "Toate categoriile"
+
+#: admin/settings.php:244
+msgid "Stick Item Sidebar"
+msgstr ""
+
+#: admin/settings.php:247
+msgid "Sidebar will be on fixed position when scrolling down."
+msgstr ""
+
+#: admin/settings.php:251
+msgid "Item Autocomplete on Home Page"
+msgstr ""
+
+#: admin/settings.php:254
+msgid "Enable realtime searching for listings that match keyword."
+msgstr ""
+
+#: admin/settings.php:258
+msgid "Live Search using Ajax"
+msgstr ""
+
+#: admin/settings.php:261
+msgid "Enable live realtime search without reloading of search page."
+msgstr ""
+
+#: admin/settings.php:265
+msgid "Form submit without reload (Ajax)"
+msgstr ""
+
+#: admin/settings.php:268
+msgid ""
+"Contact seller, Add new comment & Send to friend forms will be submitted "
+"without page reload."
+msgstr ""
+
+#: admin/settings.php:272
+msgid "Required Fields on Publish"
+msgstr ""
+
+#: admin/settings.php:273
+msgid "Enter required fields delimited by comma"
+msgstr ""
+
+#: admin/settings.php:275
+msgid ""
+"Allowed fields: location, country, region, city, name, phone. Example: Enter "
+"into input: location,name - to get location and user name required"
+msgstr ""
+
+#: admin/settings.php:279
+msgid "Extra Fields exclude Categories"
+msgstr ""
+
+#: admin/settings.php:280
+msgid "Enter category IDs delimited by comma"
+msgstr ""
+
+#: admin/settings.php:282
+msgid ""
+"Enter ID of categories where you do not want to show Transaction, Condition "
+"and Status on Item Publish/Edit page"
+msgstr ""
+
+#: admin/settings.php:288 admin/settings.php:319 admin/settings.php:351
+msgid "Save"
+msgstr "Salveaza"
+
+#: admin/settings.php:297
+msgid "Banner settings"
+msgstr ""
+
+#: admin/settings.php:304
+msgid "Enable Google Adsense Banners"
+msgstr ""
+
+#: admin/settings.php:307
+msgid "When enabled, bellow banners will be shown in front page."
+msgstr ""
+
+#: admin/settings.php:313
+msgid "Will be shown"
+msgstr ""
+
+#: admin/settings.php:328
+msgid "Category icons settings"
+msgstr ""
+
+#: admin/settings.php:336
+msgid "ID"
+msgstr ""
+
+#: admin/settings.php:337 inc.auth.php:61 item-send-friend.php:144
+#: item-send-friend.php:196 user-profile.php:30 user-register.php:89
+msgid "Name"
+msgstr "Nume"
+
+#: admin/settings.php:338
+msgid "Has small image"
+msgstr ""
+
+#: admin/settings.php:339
+msgid "Small image (50x30px - png)"
+msgstr ""
+
+#: admin/settings.php:340
+msgid "Has large image"
+msgstr ""
+
+#: admin/settings.php:341
+msgid "Large image (150x250px - jpg)"
+msgstr ""
+
+#: admin/settings.php:342
+msgid "Font-Awesome icon"
+msgstr ""
+
+#: admin/settings.php:360
+msgid "Help"
+msgstr ""
+
+#: admin/settings.php:363
+msgid ""
+"Leave blank to disable contact number. This number will be shown in theme "
+"header."
+msgstr ""
+
+#: admin/settings.php:364
+msgid "Website name can be used in user menu and footer of website."
+msgstr ""
+
+#: admin/settings.php:365
+msgid ""
+"Choose which currency you want to show in search menu on category/search "
+"page."
+msgstr ""
+
+#: admin/settings.php:366
+msgid ""
+"When enabled, search parameters are stored in browser cookies so when user "
+"go back to search page, lately used parameters are restored. Following "
+"parameters are stored: Category, Country, Region, City, Gallery/List view."
+msgstr ""
+
+#: admin/settings.php:367
+msgid ""
+"Select default view type for users. Listings can be shown in grid or as "
+"list. User can change view to prefered one. Note that this setting is valid "
+"for search page only."
+msgstr ""
+
+#: admin/settings.php:368
+msgid ""
+"I want to support OsclassPoint on my site and benefit from further "
+"development"
+msgstr ""
+
+#: admin/settings.php:369
+msgid "Show default logo in case you didn't upload one previously."
+msgstr ""
+
+#: admin/settings.php:370
+msgid ""
+"Use FontAwesome icons instead of small image icons for categories on homepage"
+msgstr ""
+
+#: admin/settings.php:371
+msgid "Email that will be shown in footer"
+msgstr ""
+
+#: admin/settings.php:372
+msgid ""
+"Check if you want to show latest items on homepage in random order. "
+"Everytime you refresh your homepage, listings will be shuffled in random "
+"order."
+msgstr ""
+
+#: admin/settings.php:373
+msgid ""
+"Check if you want to show in latest items section on homepage only listings "
+"with picture."
+msgstr ""
+
+#: admin/settings.php:374
+msgid ""
+"Check if you want to show in latest items section on homepage only premium "
+"listings. When enabled, it helps to promote premium listings on your site "
+"and get more value for them."
+msgstr ""
+
+#: admin/settings.php:375
+msgid ""
+"Choose category from which latest items on homepage will be selected. You "
+"can choose All categories if you want to show all listings no matter in what "
+"category it is."
+msgstr ""
+
+#: admin/settings.php:376
+msgid "Write description of your classifieds that will be shown in footer."
+msgstr ""
+
+#: admin/settings.php:377
+msgid ""
+"It is recommended to use default Flat category selection type for best user "
+"experience."
+msgstr ""
+
+#: admin/settings.php:378
+msgid ""
+"Enable premium listings block on Home/Search page. For search page it is "
+"recommended to show this block only in case you have more than 1000 "
+"listings. Otherwise it may look that premium listings are duplicated. If "
+"there are no premiums, this block will be hidden."
+msgstr ""
+
+#: admin/settings.php:379
+msgid "Enter how many premium listings should be shown in Premiums block."
+msgstr ""
+
+#: admin/settings.php:380
+msgid ""
+"When scrolling up and down, sidebar will be on fixed position - visible in "
+"each situation."
+msgstr ""
+
+#: admin/settings.php:381 admin/settings.php:384
+msgid ""
+"Enable item ajax search for listings that match entered keyword. Available "
+"on homepage only. Search works via wildcard in title & description (in "
+"current language) of item."
+msgstr ""
+
+#: admin/settings.php:382
+msgid ""
+"Check if you want to enable Google Adsense banners on your site. You can "
+"define code for banner in bellow boxes."
+msgstr ""
+
+#: admin/settings.php:383
+msgid "Will be shown at specified position. Use responsive banners."
+msgstr ""
+
+#: admin/settings.php:385
+msgid ""
+"When enabled, Contact seller form (item / public profile), Add new comment "
+"form and Send to friend form and other forms will be submitted without page "
+"reload using Ajax."
+msgstr ""
+
+#: admin/settings.php:386
+msgid ""
+"Enter which fields should be required on item publish/edit. Note that these "
+"are extra fields, original cannot be changed (title, category, email, ...). "
+"Enter them separated by comma. Possible values: location - it is required to "
+"enter location of item; name - name of seller is required; phone - seller is "
+"required to enter phone number;"
+msgstr ""
+
+#: admin/settings.php:387
+msgid ""
+"Enter ID of categories where you want to disable using Transaction, "
+"Condition and Status fields. Note that you need to enter IDs of each "
+"category. If you enter ID just for parent category, in subcategories these "
+"fields will be still visible. List all categories & subcategories where it "
+"should be hidden. Delimit with comma, example: 1,2,5,7"
+msgstr ""
+
+#: admin/settings.php:389
+msgid ""
+"To change favicon, remove and upload yours into folder oc-content/themes/"
+"stela/images/favicons/. If you do not have specific size of favicon, just "
+"remove image. Keep naming of files!"
+msgstr ""
+
+#: alert-form.php:82 alert-form.php:96 alert-form.php:115
+msgid "Subscribe search"
+msgstr "Salveaza cautarea"
+
+#: alert-form.php:88
+msgid "You have successfully subscribed this search!"
+msgstr ""
+
+#: alert-form.php:89
+msgid ""
+"You will recieve notification to your email once there is new listing that "
+"match your search criteria."
+msgstr ""
+
+#: alert-form.php:102
+msgid "There was error during subscription process!"
+msgstr ""
+
+#: alert-form.php:105
+msgid "You must be logged in."
+msgstr ""
+
+#: alert-form.php:107
+msgid ""
+"You have entered email address in incorrect format or you did not entered "
+"email address."
+msgstr ""
+
+#: alert-form.php:121
+msgid "You have already subscribed to this search."
+msgstr ""
+
+#: alert-form.php:122
+msgid "You can find alerts you have subscribed for in your account."
+msgstr ""
+
+#: contact.php:166 footer.php:178 inc.contact.php:4
+msgid "Contact us"
+msgstr "Contact Zbeng.ro"
+
+#: contact.php:179 inc.contact.php:15 item-contact.php:32
+#: item-send-friend.php:46 item-send-friend.php:94
+msgid "Your name"
+msgstr "Nume"
+
+#: contact.php:182 inc.contact.php:18 item-contact.php:35
+#: item-send-friend.php:49 item-send-friend.php:99
+msgid "Your e-mail address"
+msgstr "Adresa ta de e-mail"
+
+#: contact.php:186 inc.contact.php:22 item-send-friend.php:105
+msgid "Subject"
+msgstr "Subiect"
+
+#: contact.php:189 inc.contact.php:25 item-send-friend.php:63
+#: item-send-friend.php:110 item-send-friend.php:160 item-send-friend.php:212
+msgid "Message"
+msgstr "Mesaj"
+
+#: contact.php:197 inc.contact.php:32 item-contact.php:49
+msgid "Upload file"
+msgstr ""
+
+#: contact.php:204
+msgid "This field is required"
+msgstr ""
+
+#: contact.php:208 inc.contact.php:42 item-contact.php:60
+#: item-send-friend.php:69 item-send-friend.php:116 item-send-friend.php:218
+#: item.php:601 item.php:612
+msgid "Send message"
+msgstr "Trimite mesaj privat"
+
+#: footer.php:3
+msgid "Search in"
+msgstr ""
+
+#: footer.php:3 inc.category.php:139
+msgid "listings"
+msgstr ""
+
+#: footer.php:26
+msgid "Recent Searches"
+msgstr ""
+
+#: footer.php:58
+msgid "Contact"
+msgstr ""
+
+#: footer.php:99
+msgid "Share us on Facebook"
+msgstr ""
+
+#: footer.php:100
+msgid "Share us on Pinterest"
+msgstr ""
+
+#: footer.php:101
+msgid "your"
+msgstr ""
+
+#: footer.php:101 footer.php:103
+msgid "classifieds"
+msgstr ""
+
+#: footer.php:101
+msgid "Tweet us"
+msgstr ""
+
+#: footer.php:102
+msgid "Share us on Google+"
+msgstr ""
+
+#: footer.php:103
+msgid "My"
+msgstr ""
+
+#: footer.php:103
+msgid "Share us on LinkedIn"
+msgstr ""
+
+#: footer.php:112
+msgid "Loading..."
+msgstr ""
+
+#: footer.php:114
+msgid "Cancel"
+msgstr ""
+
+#: footer.php:119
+msgid "Successful"
+msgstr "Succes"
+
+#: footer.php:121
+msgid "Close"
+msgstr "Inchide"
+
+#: footer.php:127
+msgid "Error"
+msgstr ""
+
+#: footer.php:129
+msgid "Try again"
+msgstr ""
+
+#: footer.php:156 functions.php:452
+msgid "Logout"
+msgstr "Deconectare"
+
+#: footer.php:160
+msgid "Add a new listing"
+msgstr "Adauga un anunt"
+
+#: footer.php:163 user-register.php:50
+msgid "Log in"
+msgstr "Conectare"
+
+#: footer.php:173
+msgid "Register a new account"
+msgstr "Inregistrare cont nou"
+
+#: footer.php:374
+msgid "more cities"
+msgstr ""
+
+#: footer.php:385
+msgid "No country match to your criteria"
+msgstr ""
+
+#: footer.php:390
+msgid "No region match to your criteria"
+msgstr ""
+
+#: footer.php:395
+msgid "No city match to your criteria"
+msgstr ""
+
+#: footer.php:401
+msgid "No location found"
+msgstr "Nu am gasit locatia"
+
+#: footer.php:412 footer.php:525
+msgid "Enter at least"
+msgstr ""
+
+#: footer.php:412 footer.php:525
+msgid "more letter(s)"
+msgstr ""
+
+#: footer.php:494 head.php:59
+msgid "Click to open listing"
+msgstr "Deschide anuntul"
+
+#: footer.php:515
+msgid "No match found"
+msgstr ""
+
+#: functions.php:49 functions.php:815 functions.php:833 functions.php:847
+msgid "Sell"
+msgstr "Vand"
+
+#: functions.php:51 functions.php:817 functions.php:834 functions.php:848
+msgid "Buy"
+msgstr "Cumpar"
+
+#: functions.php:53 functions.php:819 functions.php:835 functions.php:849
+msgid "Rent"
+msgstr "Inchiriez"
+
+#: functions.php:55 functions.php:821 functions.php:836 functions.php:850
+msgid "Exchange"
+msgstr "Schimb"
+
+#: functions.php:68 functions.php:885 functions.php:899 functions.php:911
+msgid "New"
+msgstr "Nou"
+
+#: functions.php:70 functions.php:887 functions.php:900 functions.php:912
+msgid "Used"
+msgstr "Folosit"
+
+#: functions.php:83
+#, php-format
+msgid "You have %d subscriptions"
+msgstr ""
+
+#: functions.php:91
+#, php-format
+msgid "You have %d new messages"
+msgstr ""
+
+#: functions.php:100
+#, php-format
+msgid "You have %d item(s) in your cart"
+msgstr ""
+
+#: functions.php:119
+#, php-format
+msgid "You have %d saved item(s)"
+msgstr ""
+
+#: functions.php:128
+#, php-format
+msgid "You have %d offer(s) on your items"
+msgstr ""
+
+#: functions.php:132
+#, php-format
+msgid "You have placed %d offer(s)"
+msgstr ""
+
+#: functions.php:236
+msgid "minute ago"
+msgstr "minute in urma"
+
+#: functions.php:238
+#, php-format
+msgid "%d minutes ago"
+msgstr "%d minute in urma"
+
+#: functions.php:240
+#, php-format
+msgid "%d hour ago"
+msgstr "%d ora in urma"
+
+#: functions.php:242
+#, php-format
+msgid "%d hours ago"
+msgstr "%d ore in urma"
+
+#: functions.php:244
+#, php-format
+msgid "%d day ago"
+msgstr "%d zi in urma"
+
+#: functions.php:246
+#, php-format
+msgid "%d days ago"
+msgstr "%d zile in urma"
+
+#: functions.php:248
+#, php-format
+msgid "%d week ago"
+msgstr "%d saptamana in urma"
+
+#: functions.php:250
+#, php-format
+msgid "%d weeks ago"
+msgstr "%d saptamani in urma"
+
+#: functions.php:252
+#, php-format
+msgid "%d month ago"
+msgstr "%d luna in urma"
+
+#: functions.php:254
+#, php-format
+msgid "%d months ago"
+msgstr "%d luni in urma"
+
+#: functions.php:256
+#, php-format
+msgid "%d year ago"
+msgstr "%d an in urma"
+
+#: functions.php:258
+#, php-format
+msgid "%d years ago"
+msgstr "%d ani in urma"
+
+#: functions.php:322 functions.php:348
+msgid "Select category"
+msgstr "Selecteaza categoria"
+
+#: functions.php:322
+msgid "Back"
+msgstr "Inapoi"
+
+#: functions.php:445 user-items.php:21 user-items.php:58
+msgid "Active"
+msgstr "Anunturi active"
+
+#: functions.php:446
+msgid "Not Validated"
+msgstr "Nevalidate"
+
+#: functions.php:447 user-dashboard.php:57 user-items.php:27 user-items.php:52
+msgid "Expired"
+msgstr "Expirate"
+
+#: functions.php:448 item.php:640
+msgid "Dashboard"
+msgstr "Panoul de control"
+
+#: functions.php:449 user-dashboard.php:68
+msgid "Alerts"
+msgstr "Alerte"
+
+#: functions.php:450
+msgid "My profile"
+msgstr "Profilul meu"
+
+#: functions.php:451
+msgid "Public Profile"
+msgstr "Profil public"
+
+#: functions.php:459
+msgid "My listings"
+msgstr "Anunturile mele"
+
+#: functions.php:603 functions.php:813 item-edit.php:108 item-post.php:106
+#: item.php:157 search.php:139 user-alerts.php:261 user-items.php:153
+msgid "Transaction"
+msgstr "Tranzactie"
+
+#: functions.php:608 functions.php:883 item-edit.php:113 item-post.php:111
+#: item.php:153 search.php:151 user-alerts.php:257 user-items.php:149
+msgid "Condition"
+msgstr "Stare"
+
+#: functions.php:613
+msgid "Phone"
+msgstr "Telefon"
+
+#: functions.php:618
+msgid "Item Sold"
+msgstr "Vandut"
+
+#: functions.php:689 item-edit.php:61 item-edit.php:68 item-post.php:59
+#: item-post.php:66 search.php:96
+msgid "Category"
+msgstr "Categorie"
+
+#: functions.php:691
+msgid "Choose one category"
+msgstr "Alege o categorie"
+
+#: functions.php:749 functions.php:755 functions.php:764 functions.php:778
+#: search.php:165
+msgid "Seller type"
+msgstr "Tip vanzator"
+
+#: functions.php:751 functions.php:767 functions.php:779
+msgid "Personal"
+msgstr "Persoana"
+
+#: functions.php:753 functions.php:768 functions.php:780
+msgid "Business"
+msgstr "Firma"
+
+#: functions.php:765
+msgid "All types"
+msgstr "Toate tipurile"
+
+#: functions.php:830
+msgid "Choose transaction type"
+msgstr "Alege tranzactia"
+
+#: functions.php:831 functions.php:846
+msgid "All transactions"
+msgstr "Toate tranzactiile"
+
+#: functions.php:896
+msgid "Choose condition of item"
+msgstr "Alege stare"
+
+#: functions.php:897 functions.php:910
+msgid "All conditions"
+msgstr "Toate"
+
+#: functions.php:959
+msgid "Currency"
+msgstr "Moneda"
+
+#: functions.php:981 functions.php:993 functions.php:1002
+msgid "Fixed price"
+msgstr "Pret fix"
+
+#: functions.php:984 functions.php:1004 functions.php:1545 functions.php:1560
+#: item.php:13
+msgid "Check with seller"
+msgstr "Fara pret"
+
+#: functions.php:987 functions.php:1003 functions.php:1546 functions.php:1561
+#: item.php:15
+msgid "Free"
+msgstr "Negociabil"
+
+#: functions.php:1000
+msgid "Choose price type"
+msgstr ""
+
+#: functions.php:1018 search.php:158
+msgid "Period"
+msgstr "Periada"
+
+#: functions.php:1020 functions.php:1042 functions.php:1057
+msgid "1 day old"
+msgstr ""
+
+#: functions.php:1022 functions.php:1043 functions.php:1058
+msgid "2 days old"
+msgstr ""
+
+#: functions.php:1024 functions.php:1044 functions.php:1059
+msgid "1 week old"
+msgstr ""
+
+#: functions.php:1026 functions.php:1045 functions.php:1060
+msgid "2 weeks old"
+msgstr ""
+
+#: functions.php:1028 functions.php:1046 functions.php:1061
+msgid "1 month old"
+msgstr ""
+
+#: functions.php:1030
+msgid "Other age"
+msgstr ""
+
+#: functions.php:1039
+msgid "Choose period"
+msgstr ""
+
+#: functions.php:1040 functions.php:1056
+msgid "All listings"
+msgstr "Toate anunturile"
+
+#: functions.php:1296 functions.php:1302 functions.php:1310
+msgid "in"
+msgstr ""
+
+#: functions.php:1318
+msgid "Location not entered"
+msgstr "Introdu locatia"
+
+#: functions.php:1625
+msgid "Theme settings updated correctly"
+msgstr ""
+
+#: functions.php:1639
+msgid "Banner settings updated correctly"
+msgstr ""
+
+#: functions.php:1649
+msgid "The logo image has been uploaded correctly"
+msgstr ""
+
+#: functions.php:1651 functions.php:1654
+msgid "An error has occurred, please try again"
+msgstr ""
+
+#: functions.php:1662
+msgid "The logo image has been removed"
+msgstr ""
+
+#: functions.php:1664
+msgid "Image not found"
+msgstr ""
+
+#: functions.php:1674
+msgid "Theme Setting"
+msgstr ""
+
+#: functions.php:1675
+msgid "Theme Settings"
+msgstr ""
+
+#: functions.php:1677
+msgid "Theme settings"
+msgstr ""
+
+#: functions.php:1700
+msgid "+1 (800) 228-5651"
+msgstr ""
+
+#: functions.php:1702
+msgid ""
+"Widely known as Worlds no. 1 online classifieds platform, our is all about "
+"you. Our aim is to empower every person in the country to independently "
+"connect with buyers and sellers online. We care about you ďż˝ and the "
+"transactions that bring you closer to your dreams. Want to buy your first "
+"car? We are here for you. Want to sell commercial property to buy your dream "
+"home? We are here for you. Whatever job you have got, we promise to get it "
+"done."
+msgstr ""
+
+#: functions.php:1842
+msgid ""
+"Error creating tables for Stela theme. Check if these tables exists, if yes, "
+"drop them: t_item_stela, t_category_stela, t_item_stats_stela."
+msgstr ""
+
+#: functions.php:2179
+msgid "You can define your own banner code from theme settings"
+msgstr ""
+
+#: functions.php:2188
+msgid "Banner space"
+msgstr ""
+
+#: functions.php:2202
+msgid "Top of home page"
+msgstr ""
+
+#: functions.php:2203
+msgid "Bottom of home page"
+msgstr ""
+
+#: functions.php:2204
+msgid "Bottom of search sidebar"
+msgstr ""
+
+#: functions.php:2205
+msgid "Top of search page"
+msgstr ""
+
+#: functions.php:2206
+msgid "Bottom of search page"
+msgstr ""
+
+#: functions.php:2207
+msgid "On third position between search listings (list view)"
+msgstr ""
+
+#: functions.php:2208
+msgid "Top of item page"
+msgstr ""
+
+#: functions.php:2209
+msgid "Bottom of item page"
+msgstr ""
+
+#: functions.php:2210
+msgid "Bottom of item sidebar"
+msgstr ""
+
+#: functions.php:2211
+msgid "Under item description"
+msgstr ""
+
+#: head.php:43
+msgid "No file selected"
+msgstr ""
+
+#: head.php:44
+msgid "Choose File"
+msgstr ""
+
+#: head.php:60
+msgid "No listing match to your criteria"
+msgstr ""
+
+#: head.php:62
+msgid "Location not found"
+msgstr "Nu am gasit locatia"
+
+#: header.php:22 inc.search.php:35 inc.search.php:46
+msgid "Ex: car, phone, house"
+msgstr "Ex: masini, telefoane, imobiliare"
+
+#: header.php:69
+msgid "Select language"
+msgstr ""
+
+#: header.php:92 search.php:88 search.php:90
+msgid "Keyword"
+msgstr "Cauta"
+
+#: header.php:107 inc.category.php:143
+msgid "Add listing"
+msgstr "Adauga anunt"
+
+#: header.php:113 item-send-friend.php:232
+msgid "Notifications"
+msgstr "Notificari"
+
+#: header.php:136
+msgid "Cart"
+msgstr ""
+
+#: header.php:181
+msgid ""
+"You have enabled DEBUG MODE, autocomplete for locations and items will not "
+"work! Disable it in your config.php."
+msgstr ""
+
+#: inc.auth.php:11 inc.auth.php:64 inc.auth.php:94 item-edit.php:195
+#: item-post.php:197 item-send-friend.php:149 item-send-friend.php:201
+#: user-profile.php:46 user-recover.php:20 user-register.php:40
+#: user-register.php:92
+msgid "E-mail"
+msgstr ""
+
+#: inc.auth.php:14 inc.auth.php:67 user-register.php:41 user-register.php:90
+msgid "Password"
+msgstr "Parola"
+
+#: inc.auth.php:20
+msgid "Keep me signed in"
+msgstr "Pastreaza-ma autentificat"
+
+#: inc.auth.php:27 user-register.php:53
+msgid "No account?"
+msgstr "Nu ai cont?"
+
+#: inc.auth.php:27 inc.auth.php:51 user-register.php:53 user-register.php:80
+msgid "Sign up"
+msgstr "Inregistreaza-te"
+
+#: inc.auth.php:28 user-register.php:54
+msgid "Lost password?"
+msgstr "Parola pierduta?"
+
+#: inc.auth.php:32
+msgid "Connect with social network"
+msgstr ""
+
+#: inc.auth.php:38 user-register.php:64
+msgid "Facebook"
+msgstr ""
+
+#: inc.auth.php:43 user-register.php:69
+msgid "Google"
+msgstr ""
+
+#: inc.auth.php:70 user-register.php:91
+msgid "Re-type password"
+msgstr "Rescrie parola"
+
+#: inc.auth.php:78 user-register.php:99
+msgid "Create account"
+msgstr "Creaza un cont"
+
+#: inc.auth.php:81 inc.auth.php:101 user-register.php:102
+msgid "Already registered?"
+msgstr "Deja inregistrat?"
+
+#: inc.auth.php:88
+msgid "Recover password"
+msgstr "Parola pierduta"
+
+#: inc.auth.php:98 user-recover.php:22
+msgid "Send a new password"
+msgstr "Trimite o parola noua"
+
+#: inc.auth.php:132 inc.contact.php:59 item-contact.php:72
+#: item-send-friend.php:254
+msgid "Error: Please fill recaptcha correctly!"
+msgstr "Eroare: Verifica testul de securitate."
+
+#: inc.category.php:36
+msgid "Subcategories"
+msgstr "Subcategorii"
+
+#: inc.category.php:38 user-alerts.php:182
+msgid "Categories"
+msgstr "Categorii"
+
+#: inc.category.php:137
+msgid "there are no listings yet"
+msgstr "Niciun anunt inca"
+
+#: inc.category.php:139
+msgid "browse in"
+msgstr "Cauta in"
+
+#: inc.search.php:12
+msgid "your area"
+msgstr "Zona ta"
+
+#: inc.search.php:16
+msgid "Discover"
+msgstr "Cauta in"
+
+#: inc.search.php:17
+msgid "Easily buy or sell items in your city!"
+msgstr "Cauta anunturi din orasul tau sau selecteaza orasul dorit!"
+
+#: inc.search.php:31
+msgid "What?"
+msgstr "Ce cauti?"
+
+#: inc.search.php:39
+msgid "Type keyword"
+msgstr "Tasteaza..."
+
+#: inc.search.php:52
+msgid "Where?"
+msgstr "Locatie"
+
+#: inc.search.php:56
+msgid "Get my location"
+msgstr "Locatia mea"
+
+#: inc.search.php:58
+msgid "Your city..."
+msgstr "Localitate...."
+
+#: inc.search.php:61 item-edit.php:155 item-post.php:157 search.php:111
+#: user-profile.php:86
+msgid "Type country, region or city"
+msgstr "Scrie tara, judet sau oras"
+
+#: item-contact.php:4 item-send-friend.php:81 item-send-friend.php:186
+#: item.php:604 user-public-profile.php:130
+msgid "Contact seller"
+msgstr "Contacteaza vanzatorul"
+
+#: item-contact.php:16
+msgid "This listing expired, you cannot contact seller."
+msgstr ""
+
+#: item-contact.php:20
+msgid "It is your own listing, you cannot contact yourself."
+msgstr ""
+
+#: item-contact.php:24
+msgid ""
+"You must log in or register a new account in order to contact the advertiser."
+msgstr ""
+
+#: item-contact.php:39
+msgid "Your phone"
+msgstr "Numarul tau de tel."
+
+#: item-contact.php:42
+msgid "Your message"
+msgstr "Mesajul tau"
+
+#: item-edit.php:35 item-post.php:34
+msgid "General"
+msgstr ""
+
+#: item-edit.php:36 item-edit.php:230 item-edit.php:257 item-post.php:35
+#: item-post.php:232 item-post.php:259
+msgid "Step"
+msgstr "Pasul"
+
+#: item-edit.php:62 item-edit.php:69 item-post.php:60 item-post.php:67
+msgid "Select a category"
+msgstr "Selecteaza categoria"
+
+#: item-edit.php:88 item-edit.php:323 item-edit.php:347 item-post.php:86
+#: item-post.php:322 item-post.php:346 search.php:173
+msgid "Price"
+msgstr "Pret"
+
+#: item-edit.php:97 item-post.php:95
+msgid "Price type"
+msgstr "Pretul este"
+
+#: item-edit.php:145 item-post.php:147 search.php:104 search.php:108
+#: user-alerts.php:250 user-profile.php:80
+msgid "Location"
+msgstr "Locatie"
+
+#: item-edit.php:152 item-post.php:154 user-profile.php:83
+msgid "Country, Region or City"
+msgstr "Tara, judet, oras"
+
+#: item-edit.php:164 item-post.php:166 user-profile.php:95
+msgid "City Area"
+msgstr "adresa"
+
+#: item-edit.php:169 item-post.php:171 user-profile.php:105
+msgid "ZIP"
+msgstr "Cod postal"
+
+#: item-edit.php:174 item-post.php:176
+msgid "Address"
+msgstr "Detalii adresa"
+
+#: item-edit.php:184 item-post.php:186
+msgid "Your Name"
+msgstr "Nume"
+
+#: item-edit.php:189 item-post.php:191 user-register.php:93
+msgid "Mobile Phone"
+msgstr "Numar de telefon"
+
+#: item-edit.php:201 item-edit.php:212 item-post.php:203 item-post.php:214
+msgid "Show email on listing page"
+msgstr "Afiseaza adresa de e-mail in anunt"
+
+#: item-edit.php:220 item-edit.php:247 item-post.php:222 item-post.php:249
+msgid "Next step"
+msgstr "Pasul urmator"
+
+#: item-edit.php:229 item-post.php:231
+msgid "Pictures"
+msgstr "Imagini anunt"
+
+#: item-edit.php:246 item-edit.php:265 item-post.php:248 item-post.php:267
+msgid "Previous step"
+msgstr "Inapoi"
+
+#: item-edit.php:256 item-post.php:258
+msgid "Details"
+msgstr "Detalii"
+
+#: item-edit.php:280
+msgid "Save item"
+msgstr "Salveaza anunt"
+
+#: item-edit.php:444 item-post.php:443
+msgid "Click to upload"
+msgstr "Incarca imagine"
+
+#: item-edit.php:444 item-post.php:443
+#, php-format
+msgid "You can upload up to %d pictures per listing"
+msgstr "Poti incarca %d imagini la fiecare anunt"
+
+#: item-edit.php:444 item-post.php:443
+#, php-format
+msgid "Minimum: %d picture(s)"
+msgstr "Numarul minim este de %d imagini"
+
+#: item-edit.php:459 item-edit.php:472 item-edit.php:486 item-edit.php:504
+#: item-edit.php:517 item-edit.php:532 item-post.php:458 item-post.php:471
+#: item-post.php:485 item-post.php:503 item-post.php:516 item-post.php:531
+msgid "more"
+msgstr "mai mult"
+
+#: item-edit.php:661 item-post.php:660
+msgid "Title: this field is required."
+msgstr "Titlu: acest camp este obligatoriu."
+
+#: item-edit.php:662 item-post.php:661
+msgid "Title: enter at least 5 characters."
+msgstr "Titlu: introdu minim 5 caractere."
+
+#: item-edit.php:666 item-post.php:665
+msgid "Description: this field is required."
+msgstr "Descriere: acest camp este obligatoriu."
+
+#: item-edit.php:667 item-post.php:666
+msgid "Description: enter at least 10 characters."
+msgstr "Descriere: minim 10 caractere."
+
+#: item-edit.php:672 item-post.php:671
+msgid "Location: select country, region or city."
+msgstr "Locatie: seleacteaza tara, judet sau oras."
+
+#: item-edit.php:673 item-post.php:672
+msgid "Location: enter at least 3 characters to get list."
+msgstr "Locatie: introdu cel putin 3 caractere pentru a selecta din lista."
+
+#: item-edit.php:679 item-post.php:678
+msgid "Location: select country from location field."
+msgstr "Locatie: selecteaza tara."
+
+#: item-edit.php:685 item-post.php:684
+msgid "Location: select region from location field."
+msgstr "Locatie: selecteaza judetul."
+
+#: item-edit.php:691 item-post.php:690
+msgid "Location: select city from location field."
+msgstr "Locatie: selecteaza orasul."
+
+#: item-edit.php:697 item-post.php:696
+msgid "Pictures: you need to upload pictures."
+msgstr "Imagini: incarca o imagine."
+
+#: item-edit.php:698 item-post.php:697
+msgid "Pictures: upload at least."
+msgstr "Imagini: minim o imagine."
+
+#: item-edit.php:698 item-post.php:697
+msgid "picture(s)."
+msgstr "poza(e)."
+
+#: item-edit.php:702 item-post.php:701
+msgid "Category: this field is required."
+msgstr "Categorie: selecteaza o categorie pentru anunt."
+
+#: item-edit.php:705 item-post.php:704
+msgid "Photo: must be png,gif,jpg,jpeg."
+msgstr "Imaginea: trebuie sa fie png,gif,jpg,jpeg."
+
+#: item-edit.php:710 item-post.php:709
+msgid "Phone: this field is required."
+msgstr "Telefon: acest camp este obligatoriu."
+
+#: item-edit.php:711 item-post.php:710
+msgid "Phone: enter at least 6 characters."
+msgstr "Telefon: minim 6 caractere."
+
+#: item-edit.php:717 item-post.php:716
+msgid "Your Name: this field is required."
+msgstr "Nume: acest camp este obligatoriu."
+
+#: item-edit.php:718 item-post.php:717
+msgid "Your Name: enter at least 3 characters."
+msgstr ""
+
+#: item-edit.php:723 item-post.php:722
+msgid "Email: this field is required."
+msgstr "E-mail: acest camp este obligatoriu."
+
+#: item-edit.php:724 item-post.php:723
+msgid "Email: invalid format of email address."
+msgstr ""
+
+#: item-post.php:282
+msgid "Publish item"
+msgstr "Publica anunt"
+
+#: item-send-friend.php:31 item.php:457
+msgid "Send to friend"
+msgstr "Trimite prin e-mail"
+
+#: item-send-friend.php:55
+msgid "Your friend's name"
+msgstr ""
+
+#: item-send-friend.php:58
+msgid "Your friend's e-mail address"
+msgstr ""
+
+#: item-send-friend.php:135 item.php:356
+msgid "Add new comment"
+msgstr "Adauga un comentariu"
+
+#: item-send-friend.php:155
+msgid "Title"
+msgstr "Titlu"
+
+#: item-send-friend.php:164
+msgid "Send comment"
+msgstr "Trimite comentariu"
+
+#: item-send-friend.php:207
+msgid "Phone number"
+msgstr "Numar de telefon"
+
+#: item-send-friend.php:239
+msgid "No new notifications"
+msgstr "Nu aveti notificari noi"
+
+#: item.php:52 item.php:404 item.php:690
+msgid "No phone number"
+msgstr "Niciun numar de telefon"
+
+#: item.php:99
+msgid "This listing is expired."
+msgstr "Anuntul este expirat."
+
+#: item.php:141 item.php:589
+msgid "Sold"
+msgstr "Vandut"
+
+#: item.php:143 item.php:590
+msgid "Reserved"
+msgstr "Rezervat"
+
+#: item.php:147 user-dashboard.php:254 user-items.php:84
+msgid "Premium"
+msgstr ""
+
+#: item.php:187
+#, php-format
+msgid "+ %d more image"
+msgstr "+ %d imagine"
+
+#: item.php:189
+#, php-format
+msgid "+ %d more images"
+msgstr "+ %d imagini"
+
+#: item.php:238 user-items.php:161
+msgid "Published"
+msgstr "Publicat"
+
+#: item.php:241 user-items.php:164
+msgid "Modified"
+msgstr "Modificat"
+
+#: item.php:244
+msgid "views"
+msgstr "vizualizari"
+
+#: item.php:245
+msgid "calls"
+msgstr "Nr tel"
+
+#: item.php:253
+msgid "Additional information"
+msgstr "Informatii suplimentare"
+
+#: item.php:296
+#, php-format
+msgid "%d review for %s"
+msgstr "%d comentariu pentru %s"
+
+#: item.php:298
+#, php-format
+msgid "%d reviews for %s"
+msgstr "%d comentarii pentru %s"
+
+#: item.php:300
+#, php-format
+msgid "No reviews for %s"
+msgstr "Niciun comentariu pentru %s"
+
+#: item.php:313
+msgid "This listing has not been reviewed yet, be first!"
+msgstr "Acest anunt nu are niciun comentariu inca! Adauga un comentariu!"
+
+#: item.php:328
+msgid "Review"
+msgstr "Comentarii"
+
+#: item.php:329 item.php:527 item.php:536
+msgid "Anonymous"
+msgstr ""
+
+#: item.php:329
+msgid "on"
+msgstr "pe"
+
+#: item.php:333
+msgid "Delete your comment"
+msgstr ""
+
+#: item.php:334
+msgid "Delete this comment"
+msgstr "Sterge acest comentariu"
+
+#: item.php:372
+msgid "Open listing"
+msgstr "Vezi Anuntul"
+
+#: item.php:384
+msgid "Get directions"
+msgstr "Vezi Pe Harta"
+
+#: item.php:401
+msgid "Click to show phone number"
+msgstr "Vezi numarul de telefon"
+
+#: item.php:425
+msgid "Click to show email address"
+msgstr "Vezi adresa de e-mail"
+
+#: item.php:470
+msgid "Download PDF"
+msgstr "Descarca pdf"
+
+#: item.php:476
+msgid "Show more"
+msgstr "Arata tot"
+
+#: item.php:496
+msgid "Report item"
+msgstr ""
+
+#: item.php:500
+msgid "spam"
+msgstr "Reporteaza anuntul"
+
+#: item.php:501
+msgid "misclassified"
+msgstr "Categorie gresita"
+
+#: item.php:502
+msgid "duplicated"
+msgstr "Duplicat"
+
+#: item.php:503
+msgid "expired"
+msgstr "Expirat"
+
+#: item.php:504
+msgid "offensive"
+msgstr "Ofensiv"
+
+#: item.php:514 item.php:541
+msgid "Check profile of this user"
+msgstr ""
+
+#: item.php:554 user-public-profile.php:75
+msgid "Share on Facebook"
+msgstr ""
+
+#: item.php:555 user-public-profile.php:76
+msgid "Share on Google Plus"
+msgstr ""
+
+#: item.php:556 user-public-profile.php:77
+msgid "Share on Twitter"
+msgstr ""
+
+#: item.php:557 user-public-profile.php:78
+msgid "Share on Pinterest"
+msgstr ""
+
+#: item.php:564 user-items.php:94
+msgid "Edit"
+msgstr ""
+
+#: item.php:565 user-items.php:130
+msgid ""
+"Are you sure you want to delete this listing? This action cannot be undone."
+msgstr ""
+
+#: item.php:589
+msgid "Not sold"
+msgstr ""
+
+#: item.php:590
+msgid "Unreserve"
+msgstr ""
+
+#: item.php:650 user-public-profile.php:101
+msgid "Company"
+msgstr ""
+
+#: item.php:652 user-public-profile.php:103
+msgid "Private person"
+msgstr "Persoana privata"
+
+#: item.php:664 user-public-profile.php:113
+msgid "Registered on"
+msgstr ""
+
+#: item.php:666 user-public-profile.php:115
+msgid "Unknown registration date"
+msgstr ""
+
+#: item.php:670
+msgid "Unregistered user"
+msgstr "Utilizator neinregistrat"
+
+#: item.php:699
+msgid "Click to call"
+msgstr ""
+
+#: item.php:723
+msgid "Click to mail"
+msgstr ""
+
+#: loop-single-premium.php:25 loop-single.php:25
+msgid "sold"
+msgstr "vandut"
+
+#: loop-single-premium.php:29 loop-single.php:29
+msgid "reserved"
+msgstr "rezervat"
+
+#: loop-single-premium.php:34 loop-single.php:35
+msgid "premium"
+msgstr ""
+
+#: loop-single-premium.php:47 loop-single.php:49
+msgid "Preview"
+msgstr "Previzualizare"
+
+#: loop-single-premium.php:57 loop-single.php:59 user-alerts.php:241
+#, php-format
+msgid "%d review"
+msgstr "%d comentariu"
+
+#: loop-single-premium.php:59 loop-single.php:61 user-alerts.php:243
+#, php-format
+msgid "%d reviews"
+msgstr "%d comentarii"
+
+#: main.php:35
+msgid "Premium listings"
+msgstr "Anunturi PREMIUM "
+
+#: main.php:64
+msgid "Latest listings"
+msgstr "Anunturi online gratuite"
+
+#: main.php:82
+msgid "See all offers"
+msgstr ""
+
+#: main.php:86
+msgid "No latest listings"
+msgstr ""
+
+#: page.php:16
+msgid "Navigation"
+msgstr "Navigare"
+
+#: search.php:108
+msgid "City, Region or Country"
+msgstr ""
+
+#: search.php:125 search.php:133
+msgid "Show more filters"
+msgstr "Mai multe filtre"
+
+#: search.php:146 search.php:198
+msgid "Subscribe"
+msgstr "Salveaza"
+
+#: search.php:175
+msgid "Min"
+msgstr ""
+
+#: search.php:180
+msgid "Max"
+msgstr ""
+
+#: search.php:191
+msgid "Only items with picture"
+msgstr "Doar cu poze"
+
+#: search.php:199 search.php:304
+msgid "Reset filter"
+msgstr "Reseteaza filtrele"
+
+#: search.php:240
+msgid "result"
+msgstr "anunt"
+
+#: search.php:240
+msgid "results"
+msgstr "anunturi"
+
+#: search.php:245
+msgid "Switch to list view"
+msgstr "Schimba in lista"
+
+#: search.php:246
+msgid "Switch to grid view"
+msgstr "Schimba in galerie"
+
+#: search.php:266
+msgid "Select sorting"
+msgstr "Selecteaza ordonare"
+
+#: search.php:284
+msgid "Filters"
+msgstr "Filtre"
+
+#: search.php:297
+msgid "Loading listings..."
+msgstr "Se incarca anunturi..."
+
+#: search.php:301
+msgid "Whooops"
+msgstr "Zbeeeeeeng"
+
+#: search.php:303
+msgid "No results found for your search."
+msgstr "cauta anunturi pentru tine......dar nimic in aceasta gategorie :("
+
+#: user-alerts.php:95
+msgid "result(s)"
+msgstr "rezultat/e"
+
+#: user-alerts.php:96
+msgid "This action can't be undone. Are you sure you want to continue?"
+msgstr "Esti sigur ca doresti sa continui?"
+
+#: user-alerts.php:96
+msgid "Unsubscribe"
+msgstr "Sterge cautarea"
+
+#: user-alerts.php:101
+msgid "Pattern"
+msgstr ""
+
+#: user-alerts.php:102 user-alerts.php:107 user-alerts.php:112
+msgid "None"
+msgstr ""
+
+#: user-alerts.php:106
+msgid "Min. price"
+msgstr "min."
+
+#: user-alerts.php:111
+msgid "Max. price"
+msgstr "max."
+
+#: user-alerts.php:116
+msgid "Country"
+msgstr "Tara"
+
+#: user-alerts.php:120 user-alerts.php:142 user-alerts.php:164
+#: user-alerts.php:186
+msgid "All"
+msgstr "Toate"
+
+#: user-alerts.php:138
+msgid "Region"
+msgstr "Judet"
+
+#: user-alerts.php:160
+msgid "City"
+msgstr "Oras"
+
+#: user-alerts.php:227
+msgid "No picture"
+msgstr "Fara poza"
+
+#: user-alerts.php:253
+msgid "Publish date"
+msgstr "Data publicata"
+
+#: user-alerts.php:288
+msgid "You have no subscriptions yet"
+msgstr ""
+
+#: user-alerts.php:289
+#, php-format
+msgid "To create one go to %s and click on \"Subscribe\" button."
+msgstr ""
+
+#: user-dashboard.php:35
+msgid "Active items"
+msgstr "Anunturi active"
+
+#: user-dashboard.php:36
+msgid ""
+"Listings that are visible in front and customer can view and share them."
+msgstr "Aici se afla anunturile tale active."
+
+#: user-dashboard.php:46
+msgid "Validation pending"
+msgstr "In curs de validare"
+
+#: user-dashboard.php:47
+msgid ""
+"Listings that are hidden and waiting for yours or administrator's validation."
+msgstr "Anunturi in asteptare de validare."
+
+#: user-dashboard.php:58
+msgid ""
+"Listings that are expired and are not visible in front. You can renew or "
+"recreate them."
+msgstr "Anunturile expirate, le puteti reactiva cu un click."
+
+#: user-dashboard.php:69
+msgid "Notifications you have subscribed to based on specific search criteria."
+msgstr "Alerte si notificari."
+
+#: user-dashboard.php:90
+msgid "Profile"
+msgstr "Profilul meu"
+
+#: user-dashboard.php:93
+msgid ""
+"Your personal information, picture or avatar, location, business type and "
+"others"
+msgstr ""
+
+#: user-dashboard.php:95
+#, php-format
+msgid ""
+"Your profile is not complete, you did not filled %s or more information "
+"about you."
+msgstr "Profilul tau nu este complet. Actualizeaza %s informatii care lipsesc."
+
+#: user-dashboard.php:113
+msgid "Messages"
+msgstr "Mesaje"
+
+#: user-dashboard.php:114
+msgid "Instant messages you have recieved & sent to other users."
+msgstr "Mesajele tale la articolele de pe Zbeng.ro"
+
+#: user-dashboard.php:185
+msgid "Your listing views in last 12 months"
+msgstr "Vizualizarile anunturilor tale pe 12 luni."
+
+#: user-dashboard.php:194
+msgid "Views in last 12 months"
+msgstr "Vizualizari in ultimele 12 luni"
+
+#: user-dashboard.php:213
+msgid "# views"
+msgstr "# vizualizari"
+
+#: user-dashboard.php:223
+msgid "# clicks"
+msgstr "# clickuri"
+
+#: user-dashboard.php:247
+msgid "Normal"
+msgstr ""
+
+#: user-dashboard.php:250 user-dashboard.php:257
+msgid "viewed"
+msgstr "Vizualizari"
+
+#: user-dashboard.php:261
+msgid "Phone Clicks"
+msgstr "Tel. click"
+
+#: user-dashboard.php:264
+msgid "clicked"
+msgstr "Clickuri"
+
+#: user-forgot_password.php:12
+msgid "Reset"
+msgstr "Resetare"
+
+#: user-forgot_password.php:12
+msgid "password"
+msgstr "Parola"
+
+#: user-forgot_password.php:23 user-profile.php:167
+msgid "New password"
+msgstr ""
+
+#: user-forgot_password.php:27
+msgid "Repeat password"
+msgstr "Repeta  parola"
+
+#: user-forgot_password.php:31
+msgid "Submit"
+msgstr "Trimite"
+
+#: user-items.php:20
+msgid "Active listings"
+msgstr "Anunturi active"
+
+#: user-items.php:23
+msgid "Not validated listings"
+msgstr "Anunturi nevalidate"
+
+#: user-items.php:24 user-items.php:55
+msgid "Not validated"
+msgstr "Nevaidat:"
+
+#: user-items.php:26
+msgid "Expired listings"
+msgstr ""
+
+#: user-items.php:29
+msgid "Your listings"
+msgstr ""
+
+#: user-items.php:93
+msgid "Open"
+msgstr ""
+
+#: user-items.php:97
+msgid "Validate"
+msgstr ""
+
+#: user-items.php:120
+msgid "Unmark as sold"
+msgstr ""
+
+#: user-items.php:120
+msgid "Mark as sold"
+msgstr ""
+
+#: user-items.php:121
+msgid "Cancel reservation"
+msgstr ""
+
+#: user-items.php:121
+msgid "Reserve"
+msgstr ""
+
+#: user-items.php:127
+msgid "Republish"
+msgstr ""
+
+#: user-items.php:130
+msgid "Delete"
+msgstr ""
+
+#: user-items.php:142
+msgid "Sold!"
+msgstr ""
+
+#: user-items.php:144
+msgid "Reserved!"
+msgstr ""
+
+#: user-items.php:160
+msgid "Expire"
+msgstr ""
+
+#: user-items.php:160
+msgid "Never"
+msgstr ""
+
+#: user-items.php:183
+msgid "regular views"
+msgstr ""
+
+#: user-items.php:184
+msgid "premium views"
+msgstr ""
+
+#: user-items.php:185
+msgid "phone clicks"
+msgstr ""
+
+#: user-items.php:191
+#, php-format
+msgid "%s listings not found"
+msgstr "%s anunturi negasite"
+
+#: user-profile.php:28
+msgid "Personal information"
+msgstr ""
+
+#: user-profile.php:36
+msgid "Avatar"
+msgstr ""
+
+#: user-profile.php:41
+msgid "Update avatar"
+msgstr "Actualizeaza poza"
+
+#: user-profile.php:53
+msgid "Mobile phone"
+msgstr ""
+
+#: user-profile.php:58
+msgid "Land Phone"
+msgstr ""
+
+#: user-profile.php:63
+msgid "Some info about you"
+msgstr ""
+
+#: user-profile.php:68 user-profile.php:122 user-profile.php:147
+#: user-profile.php:178
+msgid "Update"
+msgstr ""
+
+#: user-profile.php:73
+msgid "Business & location"
+msgstr ""
+
+#: user-profile.php:100
+msgid "Street"
+msgstr ""
+
+#: user-profile.php:110
+msgid "User type"
+msgstr ""
+
+#: user-profile.php:115
+msgid "Website"
+msgstr ""
+
+#: user-profile.php:130
+msgid "Change email"
+msgstr ""
+
+#: user-profile.php:137
+msgid "Current e-mail"
+msgstr ""
+
+#: user-profile.php:142
+msgid "New e-mail"
+msgstr ""
+
+#: user-profile.php:155
+msgid "Change password"
+msgstr ""
+
+#: user-profile.php:162
+msgid "Current password"
+msgstr ""
+
+#: user-profile.php:172
+msgid "Repeat new password"
+msgstr ""
+
+#: user-profile.php:184
+msgid ""
+"Are you sure you want to delete your account? This action cannot be undone"
+msgstr ""
+
+#: user-profile.php:184
+msgid "Delete account"
+msgstr ""
+
+#: user-public-profile.php:30
+#, php-format
+msgid "Latest %s's listings"
+msgstr " Anunturile utilizatorului %s"
+
+#: user-public-profile.php:50
+msgid "No listings posted by this seller"
+msgstr ""
+
+#: user-public-profile.php:78
+#, php-format
+msgid "%s' listings"
+msgstr ""
+
+#: user-public-profile.php:127
+msgid "This is your public profile, contact form is disabled for you"
+msgstr ""
+
+#: user-recover.php:14
+msgid "Recover"
+msgstr ""
+
+#: user-recover.php:14
+msgid "your password"
+msgstr ""
+
+#: user-register.php:46
+msgid "Remember me"
+msgstr ""

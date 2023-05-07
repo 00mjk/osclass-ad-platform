@@ -1,0 +1,4 @@
+.vscode
+os-content/uploads/temp/*
+config.php
+sitemap-*.xml

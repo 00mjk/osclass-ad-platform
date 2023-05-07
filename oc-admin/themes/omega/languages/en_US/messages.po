@@ -1,0 +1,6055 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Omega Backoffice Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-04-29 09:46+0200\n"
+"PO-Revision-Date: 2022-04-29 09:46+0200\n"
+"Last-Translator: Miso <miso546@azet.sk>\n"
+"Language-Team: MB Themes <info@mb-themes.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-KeywordsList: __;_e;_m\n"
+"X-Poedit-Basepath: ../..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: languages/en_US\n"
+"X-Poedit-SearchPath-1: .\n"
+
+#: admins/frm.php:29
+msgid "Edit admin"
+msgstr ""
+
+#: admins/frm.php:31
+msgid "Save"
+msgstr ""
+
+#: admins/frm.php:34 admins/index.php:39
+msgid "Add admin"
+msgstr ""
+
+#: admins/frm.php:36 categories/index.php:34 comments/frm.php:34
+#: settings/currencies.php:31 settings/currency_form.php:73
+#: settings/locations.php:138 users/index.php:32
+msgid "Add"
+msgstr ""
+
+#: admins/frm.php:44 admins/index.php:37
+msgid "Admins"
+msgstr ""
+
+#: admins/frm.php:79
+msgid "Name <em>(required)</em>"
+msgstr ""
+
+#: admins/frm.php:86
+msgid "Username <em>(required)</em>"
+msgstr ""
+
+#: admins/frm.php:91
+msgid "E-mail <em>(required)</em>"
+msgstr ""
+
+#: admins/frm.php:97
+msgid "Admin type <em>(required)</em>"
+msgstr ""
+
+#: admins/frm.php:100
+msgid ""
+"Administrators have total control over all aspects of your installation, "
+"while moderators are only allowed to moderate listings, comments and media "
+"files"
+msgstr ""
+
+#: admins/frm.php:107
+msgid "Moderator extra access"
+msgstr ""
+
+#: admins/frm.php:112
+msgid ""
+"Allow moderator to access plugin pages. Enter plugin file path (from URL) or "
+"route (from URL). Separate by comma."
+msgstr ""
+
+#: admins/frm.php:113
+msgid "File examples"
+msgstr ""
+
+#: admins/frm.php:114
+msgid "Route examples"
+msgstr ""
+
+#: admins/frm.php:122 gui/forgot_password.php:35 users/frm.php:401
+msgid "New password"
+msgstr ""
+
+#: admins/frm.php:131 users/frm.php:410
+msgid "Type your new password again"
+msgstr ""
+
+#: admins/frm.php:141
+msgid "Your current password"
+msgstr ""
+
+#: admins/frm.php:144
+msgid "For security, type <b>your current password</b>"
+msgstr ""
+
+#: admins/frm.php:155 admins/index.php:191 admins/index.php:202
+#: appearance/add.php:114 appearance/index.php:271 appearance/index.php:292
+#: appearance/widgets.php:139 categories/iframe.php:63 categories/index.php:397
+#: comments/frm.php:127 comments/index.php:194 comments/index.php:205
+#: fields/iframe.php:86 fields/index.php:313 items/frm.php:379
+#: items/index.php:420 items/index.php:431 items/reported.php:207
+#: items/reported.php:218 languages/index.php:191 languages/index.php:203
+#: languages/index.php:243 market/languages.php:225
+#: market/languages_plugins.php:221 market/languages_themes.php:214
+#: market/locations.php:197 market/plugins.php:290 market/themes.php:305
+#: media/index.php:187 media/index.php:198 pages/frm.php:181
+#: pages/index.php:213 pages/index.php:224 plugins/add.php:115
+#: plugins/index.php:393 plugins/index.php:410 plugins/index.php:421
+#: settings/currencies.php:187 settings/currencies.php:198
+#: settings/currency_form.php:147 settings/locations.php:139
+#: settings/locations.php:217 settings/locations.php:260
+#: settings/locations.php:286 settings/locations.php:318
+#: settings/locations.php:346 settings/locations.php:386
+#: settings/locations.php:475 settings/locations.php:508 users/alerts.php:218
+#: users/alerts.php:229 users/ban.php:234 users/ban.php:246 users/frm.php:510
+#: users/index.php:353 users/index.php:364
+msgid "Cancel"
+msgstr ""
+
+#: admins/index.php:21
+msgid ""
+"Add users who can manage your page. You can add admins or moderators: admins "
+"have access to the whole admin panel while moderators can only modify "
+"listings and see stats."
+msgstr ""
+
+#: admins/index.php:28
+#, php-format
+msgid "Admins - %s"
+msgstr ""
+
+#: admins/index.php:118
+msgid "Manage admins"
+msgstr ""
+
+#: admins/index.php:118 appearance/index.php:109 fields/index.php:270
+#: items/index.php:309 languages/index.php:117 pages/index.php:151
+#: settings/currencies.php:130 settings/locations.php:402
+#: settings/locations.php:438 settings/locations.php:454 users/ban.php:32
+#: users/ban.php:126 users/index.php:263
+msgid "Add new"
+msgstr ""
+
+#: admins/index.php:129 comments/index.php:141 items/index.php:366
+#: items/reported.php:159 languages/index.php:131 media/index.php:134
+#: pages/index.php:160 plugins/index.php:226 settings/currencies.php:143
+#: users/alerts.php:164 users/ban.php:159 users/index.php:300
+msgid "Apply"
+msgstr ""
+
+#: admins/index.php:137 gui/login.php:45 settings/mailserver.php:136
+#: users/frm.php:309 users/index.php:190
+msgid "Username"
+msgstr ""
+
+#: admins/index.php:138 appearance/add.php:93 appearance/index.php:244
+#: emails/index.php:54 fields/iframe.php:35 items/frm.php:292
+#: languages/frm.php:61 languages/index.php:142 languages/index.php:219
+#: market/languages.php:204 market/languages_plugins.php:196
+#: market/languages_themes.php:189 market/locations.php:176
+#: market/plugins.php:265 market/themes.php:280 plugins/add.php:94
+#: plugins/index.php:242 plugins/index.php:325 plugins/index.php:367
+#: settings/currencies.php:153 settings/currency_form.php:138
+#: stats/users.php:254 users/frm.php:302 users/index.php:182
+msgid "Name"
+msgstr ""
+
+#: admins/index.php:139 gui/recover.php:37 items/frm.php:296 users/frm.php:316
+msgid "E-mail"
+msgstr ""
+
+#: admins/index.php:140 fields/iframe.php:39
+msgid "Type"
+msgstr ""
+
+#: admins/index.php:161 comments/index.php:165 emails/index.php:72
+#: items/index.php:390 items/reported.php:183 languages/index.php:166
+#: media/index.php:159 pages/index.php:184 users/alerts.php:188
+#: users/ban.php:183 users/index.php:324
+msgid "No data available in table"
+msgstr ""
+
+#: admins/index.php:180
+msgid "Delete admin"
+msgstr ""
+
+#: admins/index.php:186
+msgid "Are you sure you want to delete this admin?"
+msgstr ""
+
+#: admins/index.php:190 admins/index.php:201 appearance/index.php:208
+#: appearance/index.php:291 appearance/widgets.php:97
+#: appearance/widgets.php:138 categories/index.php:350 categories/index.php:396
+#: comments/index.php:193 comments/index.php:204 fields/index.php:204
+#: fields/index.php:292 fields/index.php:312 items/index.php:419
+#: items/index.php:430 items/reported.php:152 items/reported.php:206
+#: items/reported.php:217 languages/index.php:190 languages/index.php:202
+#: media/index.php:186 media/index.php:197 pages/index.php:212
+#: pages/index.php:223 plugins/index.php:420 settings/currencies.php:118
+#: settings/currencies.php:142 settings/currencies.php:188
+#: settings/currencies.php:199 settings/locations.php:474 users/alerts.php:163
+#: users/alerts.php:217 users/alerts.php:228 users/ban.php:233
+#: users/ban.php:245 users/frm.php:471 users/frm.php:511 users/index.php:352
+#: users/index.php:363
+msgid "Delete"
+msgstr ""
+
+#: admins/index.php:196 comments/index.php:199 items/index.php:425
+#: items/reported.php:151 items/reported.php:212 languages/index.php:197
+#: media/index.php:192 pages/index.php:218 plugins/index.php:415
+#: settings/currencies.php:141 settings/currencies.php:193 users/alerts.php:223
+#: users/ban.php:240 users/index.php:358
+msgid "Bulk actions"
+msgstr ""
+
+#: appearance/add.php:21
+msgid ""
+"Manually add Osclass themes in .zip format. If you prefer, you can manually "
+"upload the decompressed theme to <em>oc-content/themes</em>."
+msgstr ""
+
+#: appearance/add.php:29 appearance/customization.php:28
+#: appearance/index.php:58 appearance/view.php:23 appearance/widgets.php:34
+msgid "Appearance"
+msgstr ""
+
+#: appearance/add.php:39
+#, php-format
+msgid "Add theme - %s"
+msgstr ""
+
+#: appearance/add.php:50
+msgid "Add new theme"
+msgstr ""
+
+#: appearance/add.php:55
+#, php-format
+msgid "You can download and install new themes directly in %s section."
+msgstr ""
+
+#: appearance/add.php:55
+#, fuzzy
+#| msgid "Latest themes"
+msgid "Market > Themes"
+msgstr "Latest themes tranlsation test"
+
+#: appearance/add.php:61
+msgid "Theme package (.zip)"
+msgstr ""
+
+#: appearance/add.php:67 languages/add.php:57 plugins/add.php:67
+msgid "Upload"
+msgstr ""
+
+#: appearance/add.php:73
+msgid "Can't install a new theme"
+msgstr ""
+
+#: appearance/add.php:76
+msgid ""
+"The theme folder is not writable on your server so you can't upload themes "
+"from the administration panel. Please make the theme folder writable and try "
+"again."
+msgstr ""
+
+#: appearance/add.php:79 languages/add.php:69 plugins/add.php:79
+msgid ""
+"To make the directory writable under UNIX execute this command from the "
+"shell:"
+msgstr ""
+
+#: appearance/add.php:94 appearance/add.php:98 appearance/add.php:102
+#: appearance/index.php:245 appearance/index.php:249 appearance/index.php:253
+#: appearance/index.php:257 languages/index.php:220 languages/index.php:224
+#: languages/index.php:228 market/languages.php:205 market/languages.php:209
+#: market/languages.php:213 market/languages_plugins.php:197
+#: market/languages_plugins.php:201 market/languages_plugins.php:205
+#: market/languages_plugins.php:209 market/languages_themes.php:190
+#: market/languages_themes.php:194 market/languages_themes.php:198
+#: market/languages_themes.php:202 market/locations.php:177
+#: market/locations.php:181 market/locations.php:185 market/plugins.php:266
+#: market/plugins.php:270 market/plugins.php:274 market/plugins.php:278
+#: market/themes.php:281 market/themes.php:285 market/themes.php:289
+#: market/themes.php:293 plugins/add.php:95 plugins/add.php:99
+#: plugins/add.php:103 plugins/index.php:368 plugins/index.php:372
+#: plugins/index.php:376 plugins/index.php:380
+msgid "Loading data"
+msgstr ""
+
+#: appearance/add.php:97 appearance/index.php:248 languages/index.php:223
+#: market/languages.php:208 market/languages_plugins.php:204
+#: market/languages_themes.php:197 market/locations.php:180
+#: market/overview.php:50 market/plugins.php:269 market/themes.php:284
+#: plugins/add.php:98 plugins/index.php:371
+msgid "Version"
+msgstr ""
+
+#: appearance/add.php:101 comments/frm.php:79 market/overview.php:45
+#: plugins/add.php:102 stats/comments.php:196
+msgid "Author"
+msgstr ""
+
+#: appearance/add.php:105 appearance/index.php:260 languages/index.php:231
+#: market/languages.php:216 market/languages_plugins.php:212
+#: market/languages_themes.php:205 market/locations.php:188
+#: market/plugins.php:281 market/themes.php:296 plugins/add.php:106
+#: plugins/index.php:383
+msgid "URL"
+msgstr ""
+
+#: appearance/add.php:106 appearance/index.php:261 languages/index.php:232
+#: market/languages.php:217 market/languages_plugins.php:213
+#: market/languages_themes.php:206 market/locations.php:189
+#: market/plugins.php:282 market/themes.php:297 plugins/add.php:107
+#: plugins/index.php:384
+msgid "Download manually"
+msgstr ""
+
+#: appearance/add.php:115 appearance/index.php:270 market/languages.php:226
+#: market/languages_plugins.php:222 market/languages_themes.php:215
+#: market/locations.php:198 market/plugins.php:291 market/themes.php:306
+#: plugins/add.php:116 plugins/index.php:392
+msgid "Continue install"
+msgstr ""
+
+#: appearance/add_widget.php:27 appearance/add_widget.php:38
+#: appearance/add_widget.php:58
+msgid "Edit widget"
+msgstr ""
+
+#: appearance/add_widget.php:29 appearance/add_widget.php:60
+#: appearance/customization.php:80 categories/iframe.php:62 emails/frm.php:154
+#: fields/iframe.php:85 items/settings.php:291 languages/frm.php:152
+#: main/settings.php:259 pages/frm.php:37 settings/advanced.php:113
+#: settings/breadcrumbs.php:250 settings/comments.php:177
+#: settings/index.php:628 settings/mailserver.php:188 settings/media.php:376
+#: settings/optimization.php:138 settings/permalinks.php:711
+#: settings/searches.php:156 settings/spamNbots.php:90
+#: settings/spamNbots.php:131 users/settings.php:149
+msgid "Save changes"
+msgstr ""
+
+#: appearance/add_widget.php:31 appearance/add_widget.php:33
+#: appearance/add_widget.php:40 appearance/add_widget.php:62
+#: appearance/add_widget.php:64
+msgid "Add widget"
+msgstr ""
+
+#: appearance/add_widget.php:49 appearance/index.php:66 appearance/view.php:28
+#: appearance/widgets.php:66
+#, php-format
+msgid "Appearance - %s"
+msgstr ""
+
+#: appearance/add_widget.php:104
+msgid "Description: this field is required"
+msgstr ""
+
+#: appearance/add_widget.php:138
+msgid "Description (for internal purposes only)"
+msgstr ""
+
+#: appearance/add_widget.php:144
+msgid "HTML Code for the Widget"
+msgstr ""
+
+#: appearance/customization.php:20
+msgid ""
+"Enter your custom CSS code to modify design of your theme. Code will not be "
+"affected by theme or osclass updates. Code will be inserted into footer "
+"between &lt;style&gt;&lt;/style&gt; tags."
+msgstr ""
+
+#: appearance/customization.php:38
+#, php-format
+msgid "Customization - %s"
+msgstr ""
+
+#: appearance/customization.php:50
+msgid "Theme Customization"
+msgstr ""
+
+#: appearance/customization.php:58
+msgid "Your CSS"
+msgstr ""
+
+#: appearance/customization.php:61
+msgid ""
+"Do not enter &lt;style&gt;&lt;/style&gt; tags. You may check following CSS "
+"guide:"
+msgstr ""
+
+#: appearance/customization.php:68
+msgid "Your HTML code"
+msgstr ""
+
+#: appearance/customization.php:71
+msgid ""
+"You may enter any HTML or JavaScript code. Code will be added into footer. "
+"Do not add PHP code."
+msgstr ""
+
+#: appearance/index.php:34
+msgid "Delete theme"
+msgstr ""
+
+#: appearance/index.php:50
+#, php-format
+msgid ""
+"Change your site's look and feel by activating a theme among those "
+"available. You can download new themes from the <a href=\"%s\">market</a>. "
+"<strong>Be careful</strong>: if your theme has been customized, you'll lose "
+"all changes if you change to a new theme."
+msgstr ""
+
+#: appearance/index.php:60
+msgid "Add theme"
+msgstr ""
+
+#: appearance/index.php:109
+msgid "Current theme"
+msgstr ""
+
+#: appearance/index.php:128 appearance/index.php:220
+msgid "by"
+msgstr ""
+
+#: appearance/index.php:140 appearance/index.php:213 appearance/index.php:347
+#: languages/index.php:242 market/languages.php:155 market/plugins.php:174
+#: market/themes.php:174 plugins/configuration.php:96 plugins/index.php:513
+msgid "Update"
+msgstr ""
+
+#: appearance/index.php:147 appearance/index.php:149
+msgid "Configure"
+msgstr ""
+
+#: appearance/index.php:153 appearance/index.php:155
+msgid "Logo"
+msgstr ""
+
+#: appearance/index.php:159
+msgid "Icons"
+msgstr ""
+
+#: appearance/index.php:163
+msgid "Advertisement"
+msgstr ""
+
+#: appearance/index.php:167 market/plugins.php:35 market/plugins.php:45
+#: plugins/add.php:29 plugins/configuration.php:28 plugins/view.php:23
+#: tools/info.php:120
+msgid "Plugins"
+msgstr ""
+
+#: appearance/index.php:175
+msgid "Available themes"
+msgstr ""
+
+#: appearance/index.php:206 comments/frm.php:101 market/languages.php:164
+#: market/themes.php:186 users/alerts.php:161
+msgid "Activate"
+msgstr ""
+
+#: appearance/index.php:207 settings/index.php:138 settings/index.php:152
+msgid "Preview"
+msgstr ""
+
+#: appearance/index.php:229
+msgid "No other themes found"
+msgstr ""
+
+#: appearance/index.php:252 market/plugins.php:273 market/themes.php:288
+#: plugins/index.php:375
+msgid "Changes"
+msgstr ""
+
+#: appearance/index.php:256 gui/forgot_password.php:15 gui/login.php:29
+#: gui/login.php:91 gui/recover.php:15 market/languages.php:212
+#: market/languages_plugins.php:208 market/languages_themes.php:201
+#: market/locations.php:184 market/plugins.php:277 market/themes.php:292
+#: parts/footer.php:8 plugins/index.php:379
+msgid "Osclass"
+msgstr ""
+
+#: appearance/index.php:287
+msgid ""
+"This action can not be undone. Are you sure you want to delete the theme?"
+msgstr ""
+
+#: appearance/index.php:310 languages/index.php:258 market/languages.php:265
+#: market/languages_plugins.php:261 market/languages_themes.php:254
+#: market/locations.php:237 market/plugins.php:330 market/themes.php:345
+#: plugins/index.php:444
+msgid "Please wait until the download is completed"
+msgstr ""
+
+#: appearance/index.php:310 languages/index.php:258 market/languages.php:265
+#: market/languages_plugins.php:261 market/languages_themes.php:254
+#: market/locations.php:237 market/plugins.php:330 market/themes.php:345
+#: plugins/index.php:444
+msgid "Downloading"
+msgstr ""
+
+#: appearance/index.php:319 market/themes.php:358
+msgid "Theme has been downloaded correctly."
+msgstr ""
+
+#: appearance/index.php:321 languages/index.php:269 plugins/index.php:457
+#: plugins/index.php:474
+msgid "Ok"
+msgstr ""
+
+#: appearance/index.php:322 appearance/index.php:326 languages/index.php:270
+#: languages/index.php:274 market/languages.php:283 market/languages.php:287
+#: market/languages_plugins.php:278 market/languages_plugins.php:282
+#: market/languages_themes.php:271 market/languages_themes.php:275
+#: market/locations.php:255 market/locations.php:259 market/plugins.php:348
+#: market/plugins.php:352 market/themes.php:363 market/themes.php:367
+#: plugins/index.php:458 plugins/index.php:462 plugins/index.php:475
+#: plugins/index.php:479 settings/locations.php:136 settings/locations.php:416
+#: settings/media.php:426
+msgid "Close"
+msgstr ""
+
+#: appearance/index.php:358 market/themes.php:405
+msgid "Update theme from OsclassPoint"
+msgstr ""
+
+#: appearance/widgets.php:25
+msgid ""
+"Modify your site's header or footer here. Only works with compatible themes, "
+"such as those available in the market."
+msgstr ""
+
+#: appearance/widgets.php:48
+msgid "Delete widget"
+msgstr ""
+
+#: appearance/widgets.php:76
+msgid "Manage Widgets"
+msgstr ""
+
+#: appearance/widgets.php:84
+#, php-format
+msgid "Section: %s"
+msgstr ""
+
+#: appearance/widgets.php:84
+msgid "Add HTML widget"
+msgstr ""
+
+#: appearance/widgets.php:93
+msgid "Widget"
+msgstr ""
+
+#: appearance/widgets.php:94
+#, php-format
+msgid "Description: %s"
+msgstr ""
+
+#: appearance/widgets.php:96 categories/index.php:346 fields/index.php:202
+#: fields/index.php:290 settings/currencies.php:119 settings/locations.php:140
+msgid "Edit"
+msgstr ""
+
+#: appearance/widgets.php:116 appearance/widgets.php:118
+msgid "Current theme does not support widgets"
+msgstr ""
+
+#: appearance/widgets.php:134
+msgid "Are you sure you want to delete this widget?"
+msgstr ""
+
+#: categories/iframe.php:26
+#, php-format
+msgid "Edit category ID: %s"
+msgstr ""
+
+#: categories/iframe.php:35
+msgid "Expiration days"
+msgstr ""
+
+#: categories/iframe.php:38
+msgid "If the value is zero, it means this category doesn't have an expiration"
+msgstr ""
+
+#: categories/iframe.php:39
+msgid "Enable / Disable the price field"
+msgstr ""
+
+#: categories/iframe.php:43
+msgid ""
+"Apply the expiration date and price field changes to children categories"
+msgstr ""
+
+#: categories/iframe.php:54
+msgid "Icon"
+msgstr ""
+
+#: categories/iframe.php:55 settings/media.php:326
+msgid "Color"
+msgstr ""
+
+#: categories/iframe.php:99 categories/index.php:157 fields/index.php:94
+msgid "Ajax error, please try again."
+msgstr ""
+
+#: categories/index.php:26
+msgid ""
+"Add, edit or delete the categories or subcategories in which users can post "
+"listings. Reorder sections by dragging and dropping, or nest a subcategory "
+"in an expanded category. <strong>Be careful</strong>: If you delete a "
+"category, all listings associated will also be deleted!"
+msgstr ""
+
+#: categories/index.php:32
+msgid "Categories"
+msgstr ""
+
+#: categories/index.php:43
+#, php-format
+msgid "Categories - %s"
+msgstr ""
+
+#: categories/index.php:106
+msgid "Note: You must expand the category in order to make it a subcategory."
+msgstr ""
+
+#: categories/index.php:112 categories/index.php:261 fields/index.php:67
+msgid "This action could take a while."
+msgstr ""
+
+#: categories/index.php:217 categories/index.php:314 fields/iframe.php:144
+#: fields/index.php:180
+msgid "Ajax error, try again."
+msgstr ""
+
+#: categories/index.php:284 categories/index.php:289 categories/index.php:348
+#: market/plugins.php:186 users/frm.php:476
+msgid "Enable"
+msgstr ""
+
+#: categories/index.php:294 categories/index.php:300 categories/index.php:348
+#: users/frm.php:474
+msgid "Disable"
+msgstr ""
+
+#: categories/index.php:343
+#, php-format
+msgid "Category ID: %s"
+msgstr ""
+
+#: categories/index.php:374
+msgid ""
+"Drag&drop the categories to reorder them the way you like. Click on edit "
+"link to edit the category"
+msgstr ""
+
+#: categories/index.php:389
+msgid "Delete category"
+msgstr ""
+
+#: categories/index.php:392
+msgid ""
+"<strong>WARNING</strong>: This will also delete the listings under that "
+"category. This action cannot be undone. Are you sure you want to continue?"
+msgstr ""
+
+#: comments/frm.php:27
+msgid "Edit comment"
+msgstr ""
+
+#: comments/frm.php:29 market/overview.php:87
+msgid "Update comment"
+msgstr ""
+
+#: comments/frm.php:32
+msgid "Add comment"
+msgstr ""
+
+#: comments/frm.php:39 items/frm.php:35 items/frm.php:39 main/index.php:725
+#: main/index.php:730 settings/breadcrumbs.php:154
+msgid "Listing"
+msgstr ""
+
+#: comments/frm.php:47
+#, php-format
+msgid "Edit comment - %s"
+msgstr ""
+
+#: comments/frm.php:73 emails/index.php:55 functions.php:240
+#: stats/comments.php:195
+msgid "Title"
+msgstr ""
+
+#: comments/frm.php:85
+msgid "Registered user"
+msgstr ""
+
+#: comments/frm.php:86 users/frm.php:37
+msgid "Edit user"
+msgstr ""
+
+#: comments/frm.php:92
+msgid "Author's e-mail"
+msgstr ""
+
+#: comments/frm.php:98 comments/frm.php:106 languages/index.php:140
+msgid "Status"
+msgstr ""
+
+#: comments/frm.php:101 items/index.php:261 main/index.php:420
+#: main/index.php:492 main/index.php:559 market/locations.php:137
+#: market/themes.php:201 market/themes.php:203 users/index.php:198
+msgid "Active"
+msgstr ""
+
+#: comments/frm.php:101
+msgid "Inactive"
+msgstr ""
+
+#: comments/frm.php:101 users/alerts.php:162
+msgid "Deactivate"
+msgstr ""
+
+#: comments/frm.php:109
+msgid "Unblocked"
+msgstr ""
+
+#: comments/frm.php:109 main/index.php:429 main/index.php:501
+#: main/index.php:565
+msgid "Blocked"
+msgstr ""
+
+#: comments/frm.php:109 items/index.php:273 users/index.php:241
+msgid "Block"
+msgstr ""
+
+#: comments/frm.php:109
+msgid "Unblock"
+msgstr ""
+
+#: comments/frm.php:114
+msgid "Rating"
+msgstr ""
+
+#: comments/frm.php:120 stats/comments.php:197
+msgid "Comment"
+msgstr ""
+
+#: comments/index.php:21
+msgid ""
+"Manage the comments that users publish on the listings on your site. You can "
+"also edit, delete, activate or block comments."
+msgstr ""
+
+#: comments/index.php:29 fields/index.php:31 items/index.php:29
+#: items/reported.php:29 items/settings.php:57 main/index.php:127
+#: main/index.php:725 main/index.php:730 media/index.php:30
+msgid "Listings"
+msgstr ""
+
+#: comments/index.php:30 emails/frm.php:24 emails/index.php:29
+#: items/settings.php:85 languages/add.php:22 languages/frm.php:25
+#: languages/index.php:29 main/index.php:43 settings/advanced.php:47
+#: settings/breadcrumbs.php:80 settings/comments.php:90
+#: settings/currencies.php:29 settings/currency_form.php:71
+#: settings/index.php:179 settings/locations.php:174 settings/mailserver.php:74
+#: settings/media.php:160 settings/optimization.php:36
+#: settings/permalinks.php:391 settings/searches.php:83
+#: settings/spamNbots.php:33 users/settings.php:55
+msgid "Settings"
+msgstr ""
+
+#: comments/index.php:40
+#, php-format
+msgid "Comments - %s"
+msgstr ""
+
+#: comments/index.php:124 main/index.php:152 stats/comments.php:87
+#: stats/comments.php:172
+msgid "Comments"
+msgstr ""
+
+#: comments/index.php:129
+msgid "Hidden comments"
+msgstr ""
+
+#: comments/index.php:131
+msgid "All comments"
+msgstr ""
+
+#: comments/index.php:183
+msgid "Delete comment"
+msgstr ""
+
+#: comments/index.php:189
+msgid "Are you sure you want to delete this comment?"
+msgstr ""
+
+#: emails/frm.php:65 emails/frm.php:168
+msgid "Send email"
+msgstr ""
+
+#: emails/frm.php:100
+#, php-format
+msgid "Edit email template - %s"
+msgstr ""
+
+#: emails/frm.php:116
+msgid "Edit email template"
+msgstr ""
+
+#: emails/frm.php:132 pages/frm.php:142
+msgid "Internal name"
+msgstr ""
+
+#: emails/frm.php:135
+msgid "Used to identify the email template"
+msgstr ""
+
+#: emails/frm.php:145
+msgid "Legend"
+msgstr ""
+
+#: emails/frm.php:155
+msgid "Test it"
+msgstr ""
+
+#: emails/index.php:21
+msgid ""
+"Modify the emails your site's users receive when they join your site, when "
+"someone shows interest in their ad, to recover their password... <strong>Be "
+"careful</strong>: don't modify any of the words that appear within brackets."
+msgstr ""
+
+#: emails/index.php:39
+#, php-format
+msgid "Email templates - %s"
+msgstr ""
+
+#: emails/index.php:49
+msgid "Emails templates"
+msgstr ""
+
+#: fields/iframe.php:33
+msgid "Edit custom field"
+msgstr ""
+
+#: fields/iframe.php:43
+msgid "Options"
+msgstr ""
+
+#: fields/iframe.php:46
+msgid "Separate options with commas"
+msgstr ""
+
+#: fields/iframe.php:51
+msgid "This field is required"
+msgstr ""
+
+#: fields/iframe.php:54
+msgid "Select the categories where you want to apply this attribute:"
+msgstr ""
+
+#: fields/iframe.php:57 plugins/configuration.php:85
+msgid "Check all"
+msgstr ""
+
+#: fields/iframe.php:58 plugins/configuration.php:86
+msgid "Uncheck all"
+msgstr ""
+
+#: fields/iframe.php:69
+msgid "Advanced options"
+msgstr ""
+
+#: fields/iframe.php:73
+msgid "Identifier name"
+msgstr ""
+
+#: fields/iframe.php:76
+msgid "Only alphanumeric characters are allowed [a-z0-9_-]"
+msgstr ""
+
+#: fields/iframe.php:81
+msgid "Tick to allow searches by this field"
+msgstr ""
+
+#: fields/iframe.php:114
+msgid "At least one option is required."
+msgstr ""
+
+#: fields/index.php:25
+msgid ""
+"Create new fields for users to fill out when they publish a listing. You can "
+"require extra  information such as the number of bedrooms in real estate "
+"listings or fuel type in car listings, for example."
+msgstr ""
+
+#: fields/index.php:33
+msgid "Add custom field"
+msgstr ""
+
+#: fields/index.php:214
+msgid "Custom field could not be added"
+msgstr ""
+
+#: fields/index.php:258
+#, php-format
+msgid "Custom fields - %s"
+msgstr ""
+
+#: fields/index.php:266
+msgid ""
+"Drag & drop the custom fields to reorder them the way you like. Click on "
+"edit link to edit the custom field"
+msgstr ""
+
+#: fields/index.php:270
+msgid "Custom fields"
+msgstr ""
+
+#: fields/index.php:280
+msgid "You don't have any custom fields yet"
+msgstr ""
+
+#: fields/index.php:307
+msgid "Delete custom field"
+msgstr ""
+
+#: fields/index.php:309
+msgid "Are you sure you want to delete this custom field?"
+msgstr ""
+
+#: functions.php:24
+msgid "Default"
+msgstr ""
+
+#: functions.php:25
+msgid "Light"
+msgstr ""
+
+#: functions.php:26
+msgid "Modern"
+msgstr ""
+
+#: functions.php:27
+msgid "Blue"
+msgstr ""
+
+#: functions.php:28
+msgid "Coffee"
+msgstr ""
+
+#: functions.php:29
+msgid "Ectoplasm"
+msgstr ""
+
+#: functions.php:30
+msgid "Midnight"
+msgstr ""
+
+#: functions.php:31
+msgid "Ocean"
+msgstr ""
+
+#: functions.php:32
+msgid "Sunrise"
+msgstr ""
+
+#: functions.php:219 functions.php:254
+msgid "Enter title here"
+msgstr ""
+
+#: functions.php:267 functions.php:300 languages/frm.php:75
+#: languages/index.php:144 plugins/index.php:243 plugins/index.php:326
+#: settings/currencies.php:154
+msgid "Description"
+msgstr ""
+
+#: gui/forgot_password.php:7 gui/forgot_password.php:23
+msgid "Change your password"
+msgstr ""
+
+#: gui/forgot_password.php:26
+msgid "Type your new password"
+msgstr ""
+
+#: gui/forgot_password.php:40
+msgid "Repeat new password"
+msgstr ""
+
+#: gui/forgot_password.php:45
+msgid "Change password"
+msgstr ""
+
+#: gui/forgot_password.php:50 gui/login.php:21 gui/login.php:77
+#: gui/recover.php:49
+msgid "Log in"
+msgstr ""
+
+#: gui/login.php:50 settings/mailserver.php:142 users/frm.php:399
+msgid "Password"
+msgstr ""
+
+#: gui/login.php:54
+msgid "Show/hide password"
+msgstr ""
+
+#: gui/login.php:65 market/languages_plugins.php:200
+#: market/languages_themes.php:193 settings/permalinks.php:525
+msgid "Language"
+msgstr ""
+
+#: gui/login.php:82
+msgid "Remember me"
+msgstr ""
+
+#: gui/login.php:85
+msgid "Forgot your password?"
+msgstr ""
+
+#: gui/recover.php:7
+msgid "Lost your password"
+msgstr ""
+
+#: gui/recover.php:23
+msgid "Recover admin password"
+msgstr ""
+
+#: gui/recover.php:28
+msgid "Please enter your username or e-mail address"
+msgstr ""
+
+#: gui/recover.php:29
+msgid "You will receive a new password via e-mail"
+msgstr ""
+
+#: gui/recover.php:44
+msgid "Get new password"
+msgstr ""
+
+#: items/frm.php:36 items/frm.php:37 items/index.php:32
+msgid "Add listing"
+msgstr ""
+
+#: items/frm.php:40
+msgid "Edit listing"
+msgstr ""
+
+#: items/frm.php:41
+msgid "Update listing"
+msgstr ""
+
+#: items/frm.php:193
+msgid "View listing on front"
+msgstr ""
+
+#: items/frm.php:235 items/index.php:204 items/settings.php:243
+msgid "Category"
+msgstr ""
+
+#: items/frm.php:245 items/settings.php:274
+msgid "Price"
+msgstr ""
+
+#: items/frm.php:253
+msgid "Photos"
+msgstr ""
+
+#: items/frm.php:258
+msgid "optional"
+msgstr ""
+
+#: items/frm.php:263
+msgid "Add new photo"
+msgstr ""
+
+#: items/frm.php:276
+msgid "User information"
+msgstr ""
+
+#: items/frm.php:280
+#, php-format
+msgid "Edit %s's profile"
+msgstr ""
+
+#: items/frm.php:301
+msgid "Phone"
+msgstr ""
+
+#: items/frm.php:306
+msgid "Other contact"
+msgstr ""
+
+#: items/frm.php:312
+msgid "Ip Address"
+msgstr ""
+
+#: items/frm.php:318
+msgid "Show e-mail"
+msgstr ""
+
+#: items/frm.php:322
+msgid "Show phone"
+msgstr ""
+
+#: items/frm.php:328
+msgid "Item location"
+msgstr ""
+
+#: items/frm.php:330 items/index.php:212 settings/locations.php:207
+#: settings/locations.php:231 stats/users.php:146 users/frm.php:359
+#: users/index.php:214
+msgid "Country"
+msgstr ""
+
+#: items/frm.php:334 items/index.php:220 settings/locations.php:279
+#: settings/locations.php:302 stats/users.php:158 users/frm.php:366
+#: users/index.php:223
+msgid "Region"
+msgstr ""
+
+#: items/frm.php:338 items/index.php:228 settings/locations.php:339
+#: settings/locations.php:362 users/frm.php:373 users/index.php:232
+msgid "City"
+msgstr ""
+
+#: items/frm.php:342 users/frm.php:380
+msgid "City area"
+msgstr ""
+
+#: items/frm.php:346 users/frm.php:387
+msgid "Zip code"
+msgstr ""
+
+#: items/frm.php:350 users/frm.php:393
+msgid "Address"
+msgstr ""
+
+#: items/frm.php:356
+msgid "Expiration"
+msgstr ""
+
+#: items/frm.php:361 items/frm.php:369
+msgid ""
+"It could be an integer (days from original publishing date it will be "
+"expired, 0 to never expire) or a date in the format \"yyyy-mm-dd hh:mm:ss\""
+msgstr ""
+
+#: items/frm.php:364
+msgid "Update expiration?"
+msgstr ""
+
+#: items/index.php:23
+msgid ""
+"Manage all the listings on your site: edit, delete or block the latest "
+"listings published. You can also filter by several parameters: user, region, "
+"city, etc."
+msgstr ""
+
+#: items/index.php:40
+#, php-format
+msgid "Manage listings - %s"
+msgstr ""
+
+#: items/index.php:89 items/reported.php:66
+msgid "Delete listing"
+msgstr ""
+
+#: items/index.php:136 users/index.php:99
+msgid "Filters"
+msgstr ""
+
+#: items/index.php:196 items/index.php:340
+msgid "Pattern"
+msgstr ""
+
+#: items/index.php:240 items/index.php:341 users/index.php:174
+msgid "Email"
+msgstr ""
+
+#: items/index.php:249 market/plugins.php:84 market/section.php:58
+#: market/themes.php:85
+msgid "Premium"
+msgstr ""
+
+#: items/index.php:253 items/index.php:265 items/index.php:277
+#: items/index.php:289 users/index.php:202 users/index.php:245
+msgid "Choose an option"
+msgstr ""
+
+#: items/index.php:254 items/index.php:266 items/index.php:278
+#: items/index.php:290 tools/maintenance.php:57 users/index.php:203
+#: users/index.php:246
+msgid "ON"
+msgstr ""
+
+#: items/index.php:255 items/index.php:267 items/index.php:279
+#: items/index.php:291 tools/maintenance.php:57 users/index.php:204
+#: users/index.php:247
+msgid "OFF"
+msgstr ""
+
+#: items/index.php:285 main/index.php:426 main/index.php:498
+#: stats/reports.php:85
+msgid "Spam"
+msgstr ""
+
+#: items/index.php:303 users/index.php:258
+msgid "Apply filters"
+msgstr ""
+
+#: items/index.php:304 items/index.php:330 items/reported.php:141
+#: users/index.php:259 users/index.php:284
+msgid "Reset filters"
+msgstr ""
+
+#: items/index.php:309
+msgid "Manage listings"
+msgstr ""
+
+#: items/index.php:319 items/index.php:320 items/index.php:321
+#: items/index.php:322 items/index.php:323 items/reported.php:133
+#: items/reported.php:134 items/reported.php:135 items/reported.php:136
+#: items/reported.php:137
+#, php-format
+msgid "%d Listings"
+msgstr ""
+
+#: items/index.php:332 users/index.php:287
+msgid "Show filters"
+msgstr ""
+
+#: items/index.php:342
+msgid "Item ID"
+msgstr ""
+
+#: items/index.php:356 plugins/index.php:208 users/alerts.php:148
+#: users/ban.php:140 users/index.php:290
+msgid "Find"
+msgstr ""
+
+#: items/index.php:415 items/reported.php:202
+msgid "Are you sure you want to delete this listing?"
+msgstr ""
+
+#: items/reported.php:21
+msgid ""
+"From here, you can edit or delete the listings reported by users (spam, "
+"misclassified, duplicate, expired, offensive). You can also delete the "
+"report if you consider it mistaken."
+msgstr ""
+
+#: items/reported.php:39
+#, php-format
+msgid "Reported listings - %s"
+msgstr ""
+
+#: items/reported.php:123
+msgid "Reported listings"
+msgstr ""
+
+#: items/reported.php:152
+#, php-format
+msgid "Are you sure you want to %s the selected items?"
+msgstr ""
+
+#: items/reported.php:153
+msgid ""
+"Are you sure you want to clear all the reportings of the selected items?"
+msgstr ""
+
+#: items/reported.php:153
+msgid "Clear All"
+msgstr ""
+
+#: items/reported.php:154
+msgid ""
+"Are you sure you want to clear the spam reportings of the selected items?"
+msgstr ""
+
+#: items/reported.php:154
+msgid "Clear Spam"
+msgstr ""
+
+#: items/reported.php:155
+msgid ""
+"Are you sure you want to clear the misclassified reportings of the selected "
+"items?"
+msgstr ""
+
+#: items/reported.php:155
+msgid "Clear Missclassified"
+msgstr ""
+
+#: items/reported.php:156
+msgid ""
+"Are you sure you want to clear the duplicated reportings of the selected "
+"items?"
+msgstr ""
+
+#: items/reported.php:156
+msgid "Clear Duplicated"
+msgstr ""
+
+#: items/reported.php:157
+msgid ""
+"Are you sure you want to clear the expired reportings of the selected items?"
+msgstr ""
+
+#: items/reported.php:157
+msgid "Clear Expired"
+msgstr ""
+
+#: items/reported.php:158
+msgid ""
+"Are you sure you want to clear the offensive reportings of the selected "
+"items?"
+msgstr ""
+
+#: items/reported.php:158
+msgid "Clear Offensive"
+msgstr ""
+
+#: items/settings.php:21
+msgid ""
+"Modify the general settings for your listings. Decide if users have to "
+"register in order to publish something, the number of pictures allowed for "
+"each listing, etc."
+msgstr ""
+
+#: items/settings.php:67
+#, php-format
+msgid "Listing Settings - %s"
+msgstr ""
+
+#: items/settings.php:78
+msgid "Listing Settings"
+msgstr ""
+
+#: items/settings.php:90
+msgid "Only logged in users can post listings"
+msgstr ""
+
+#: items/settings.php:94
+#, php-format
+msgid "An user has to wait %s seconds between each listing added"
+msgstr ""
+
+#: items/settings.php:96
+msgid "If the value is set to zero, there is no wait period"
+msgstr ""
+
+#: items/settings.php:102
+msgid "Users have to validate their listings"
+msgstr ""
+
+#: items/settings.php:108
+msgid "Users can disable / de-activate listing"
+msgstr ""
+
+#: items/settings.php:113
+#, php-format
+msgid ""
+"After %s validated listings the user doesn't need to validate the listings "
+"any more"
+msgstr ""
+
+#: items/settings.php:115
+msgid "If the value is zero, it means that each listing must be validated"
+msgstr ""
+
+#: items/settings.php:121
+msgid "Logged in users don't need to validate their listings"
+msgstr ""
+
+#: items/settings.php:128
+msgid "Show reCAPTCHA in add/edit listing form"
+msgstr ""
+
+#: items/settings.php:130
+msgid "<strong>Remember</strong> that you must configure reCAPTCHA first"
+msgstr ""
+
+#: items/settings.php:135
+msgid "Enable TinyMCE on add/edit listing form in front/back office"
+msgstr ""
+
+#: items/settings.php:137
+msgid "TinyMCE enable to format description of listings"
+msgstr ""
+
+#: items/settings.php:144
+msgid "Renewal"
+msgstr ""
+
+#: items/settings.php:149
+msgid ""
+"User can renew its listings once expired. This feature is available only to "
+"registered users."
+msgstr ""
+
+#: items/settings.php:156
+msgid "Publish date of renewed listing is updated to current date"
+msgstr ""
+
+#: items/settings.php:161
+#, php-format
+msgid "Listing can be republished %s times at maximum"
+msgstr ""
+
+#: items/settings.php:163
+msgid "If the value is set to zero, there is no renewal limit"
+msgstr ""
+
+#: items/settings.php:171
+msgid "Contact publisher"
+msgstr ""
+
+#: items/settings.php:176
+msgid "Disable contact publisher form"
+msgstr ""
+
+#: items/settings.php:183
+msgid "Only allow registered users to contact publisher"
+msgstr ""
+
+#: items/settings.php:190
+msgid "Only allow registered users to see contact phone number"
+msgstr ""
+
+#: items/settings.php:197
+msgid "Allow attached files in contact publisher form"
+msgstr ""
+
+#: items/settings.php:204 settings/comments.php:154
+msgid "Notifications"
+msgstr ""
+
+#: items/settings.php:209
+msgid "Notify admin when a new listing is added"
+msgstr ""
+
+#: items/settings.php:215
+msgid "Send admin a copy of the \"contact publisher\" email"
+msgstr ""
+
+#: items/settings.php:221
+msgid "Send admin a copy to \"share listing\" email"
+msgstr ""
+
+#: items/settings.php:228
+msgid "Warn about expiration"
+msgstr ""
+
+#: items/settings.php:231
+msgid "days"
+msgstr ""
+
+#: items/settings.php:232
+msgid ""
+"This option will send an email X days before an ad expires to the author. 0 "
+"for no email."
+msgstr ""
+
+#: items/settings.php:237
+msgid "Redirect priority after publish"
+msgstr ""
+
+#: items/settings.php:241
+msgid "Dashboard > Listing > Category"
+msgstr ""
+
+#: items/settings.php:242
+msgid "Listing > Category"
+msgstr ""
+
+#: items/settings.php:245
+msgid ""
+"Redirect priority once item is published. I.e. Dashboard > Listing > Search "
+"means, that if user is logged in, will be redirected to user listings page "
+"in account. If is not logged and item is active, will be redirected to "
+"listing page. Otherwise will go to category page."
+msgstr ""
+
+#: items/settings.php:251
+msgid "Title length"
+msgstr ""
+
+#: items/settings.php:254 items/settings.php:263
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: items/settings.php:254 items/settings.php:263
+msgid "characters"
+msgstr ""
+
+#: items/settings.php:260
+msgid "Description length"
+msgstr ""
+
+#: items/settings.php:269
+msgid "Optional fields"
+msgstr ""
+
+#: items/settings.php:279
+msgid "Attach images"
+msgstr ""
+
+#: items/settings.php:283
+#, php-format
+msgid "Attach %s images per listing"
+msgstr ""
+
+#: items/settings.php:284
+msgid "If the value is zero, it means an unlimited number of images is allowed"
+msgstr ""
+
+#: languages/add.php:30
+#, php-format
+msgid "Add language - %s"
+msgstr ""
+
+#: languages/add.php:39 languages/index.php:31
+msgid "Add language"
+msgstr ""
+
+#: languages/add.php:44
+#, php-format
+msgid "You can import new languages and translations directly in %s section."
+msgstr ""
+
+#: languages/add.php:44
+msgid "Market > Languages"
+msgstr ""
+
+#: languages/add.php:51
+msgid "Language package (.zip)"
+msgstr ""
+
+#: languages/add.php:63
+msgid "Can't install a new language"
+msgstr ""
+
+#: languages/add.php:66
+msgid ""
+"The translations folder is not writable on your server so you can't upload "
+"translations from the administration panel. Please make the translation "
+"folder writable and try again."
+msgstr ""
+
+#: languages/frm.php:33
+#, php-format
+msgid "Edit language - %s"
+msgstr ""
+
+#: languages/frm.php:51
+msgid "Edit language"
+msgstr ""
+
+#: languages/frm.php:68 languages/index.php:143
+msgid "Short name"
+msgstr ""
+
+#: languages/frm.php:82
+msgid "Currency format"
+msgstr ""
+
+#: languages/frm.php:89
+msgid "Number of decimals"
+msgstr ""
+
+#: languages/frm.php:96
+msgid "Decimal point"
+msgstr ""
+
+#: languages/frm.php:103
+msgid "Thousands separator"
+msgstr ""
+
+#: languages/frm.php:110
+msgid "Date format"
+msgstr ""
+
+#: languages/frm.php:117
+msgid "Stopwords"
+msgstr ""
+
+#: languages/frm.php:124
+msgid "Font-office"
+msgstr ""
+
+#: languages/frm.php:126
+msgid "Enabled for the public website"
+msgstr ""
+
+#: languages/frm.php:131 languages/index.php:146
+msgid "Back-office"
+msgstr ""
+
+#: languages/frm.php:133
+msgid "Enabled for the backoffice (oc-admin)"
+msgstr ""
+
+#: languages/frm.php:138
+msgid "Native location names"
+msgstr ""
+
+#: languages/frm.php:140
+msgid "Location names will be shown in their native form"
+msgstr ""
+
+#: languages/frm.php:145
+msgid "Text direction"
+msgstr ""
+
+#: languages/frm.php:147
+msgid "Is RTL language"
+msgstr ""
+
+#: languages/index.php:21
+msgid ""
+"Add, edit or delete the language in which your Osclass is displayed, both "
+"the part that's viewable by users and the admin panel."
+msgstr ""
+
+#: languages/index.php:40
+#, php-format
+msgid "Languages - %s"
+msgstr ""
+
+#: languages/index.php:67
+msgid "Delete language"
+msgstr ""
+
+#: languages/index.php:117
+msgid "Manage Languages"
+msgstr ""
+
+#: languages/index.php:145
+msgid "Front-office"
+msgstr ""
+
+#: languages/index.php:147
+msgid "Native loc."
+msgstr ""
+
+#: languages/index.php:148
+msgid "Direction"
+msgstr ""
+
+#: languages/index.php:186
+msgid "Are you sure you want to delete this language?"
+msgstr ""
+
+#: languages/index.php:227 main/index.php:126 main/index.php:151
+#: main/index.php:176 stats/comments.php:86 stats/items.php:105
+#: stats/items.php:107 stats/items.php:113 stats/items.php:115
+#: stats/reports.php:84 stats/users.php:85
+msgid "Date"
+msgstr ""
+
+#: languages/index.php:267 market/languages.php:278
+msgid "Language has been downloaded correctly."
+msgstr ""
+
+#: languages/index.php:311 market/languages.php:321
+#: market/languages_plugins.php:321 market/languages_themes.php:314
+msgid "Update language from OsclassPoint"
+msgstr ""
+
+#: main/index.php:42
+msgid "Dashboard"
+msgstr ""
+
+#: main/index.php:52
+#, php-format
+msgid "Dashboard - %s"
+msgstr ""
+
+#: main/index.php:177 users/frm.php:51 users/index.php:29 users/settings.php:29
+msgid "Users"
+msgstr ""
+
+#: main/index.php:265
+msgid "Nothing to show there, you've hidden all dashboard columns."
+msgstr ""
+
+#: main/index.php:266
+msgid ""
+"To configure columns & widgets, click on \"Settings\" button in top right "
+"corner."
+msgstr ""
+
+#: main/index.php:280 main/settings.php:74
+msgid "At a glance"
+msgstr ""
+
+#: main/index.php:281 main/index.php:317 main/index.php:348 main/index.php:379
+#: main/index.php:452 main/index.php:524 main/index.php:588 main/index.php:625
+#: main/index.php:652 main/index.php:670 main/index.php:688 main/index.php:706
+#: main/index.php:762 main/index.php:793 main/index.php:824 main/index.php:855
+msgid "Collapse"
+msgstr ""
+
+#: main/index.php:305
+#, php-format
+msgid ""
+"Running on osclass v%s, using %s for front office and %s for backoffice."
+msgstr ""
+
+#: main/index.php:306
+#, php-format
+msgid ""
+"This website is using %s plugins, %s are active, %s are disabled and %s are "
+"not installed."
+msgstr ""
+
+#: main/index.php:316 main/settings.php:84 tools/info.php:123
+msgid "Optimization"
+msgstr ""
+
+#: main/index.php:322
+msgid "CSS style sheets optimization is enabled."
+msgstr ""
+
+#: main/index.php:324
+msgid "CSS style sheets optimization is disabled."
+msgstr ""
+
+#: main/index.php:328
+msgid "JS scripts optimization is enabled."
+msgstr ""
+
+#: main/index.php:330
+msgid "JS scripts optimization is disabled."
+msgstr ""
+
+#: main/index.php:334
+#, php-format
+msgid "Optimized files has size %s."
+msgstr ""
+
+#: main/index.php:337
+msgid "Optimization settings"
+msgstr ""
+
+#: main/index.php:347 main/settings.php:94
+msgid "Market accessibility"
+msgstr ""
+
+#: main/index.php:353 main/index.php:354 main/index.php:767 main/index.php:768
+#: main/index.php:798 main/index.php:799 main/index.php:829 main/index.php:830
+#: main/index.php:860 main/index.php:861
+msgid "Loading..."
+msgstr ""
+
+#: main/index.php:367 main/index.php:781 main/index.php:812 main/index.php:843
+#: main/index.php:874
+msgid "Unable to load data"
+msgstr ""
+
+#: main/index.php:378 main/settings.php:104
+msgid "Listings activity"
+msgstr ""
+
+#: main/index.php:390 main/index.php:466
+#, php-format
+msgid "Published in last 24 hours: %s"
+msgstr ""
+
+#: main/index.php:394 main/index.php:470
+#, php-format
+msgid "Published in last 7 days: %s"
+msgstr ""
+
+#: main/index.php:398 main/index.php:474
+#, php-format
+msgid "Overall published: %s"
+msgstr ""
+
+#: main/index.php:403 main/index.php:483
+msgid "Recently published"
+msgstr ""
+
+#: main/index.php:414
+msgid "No listings has been found"
+msgstr ""
+
+#: main/index.php:423 main/index.php:495 main/index.php:562
+msgid "Not validated"
+msgstr ""
+
+#: main/index.php:451 main/settings.php:114
+msgid "Comments activity"
+msgstr ""
+
+#: main/index.php:478
+#, php-format
+msgid "Pending validation: %s"
+msgstr ""
+
+#: main/index.php:486
+msgid "No comments has been found"
+msgstr ""
+
+#: main/index.php:523 main/settings.php:124
+msgid "Users activity"
+msgstr ""
+
+#: main/index.php:537
+#, php-format
+msgid "Registered in last 24 hours: %s"
+msgstr ""
+
+#: main/index.php:541
+#, php-format
+msgid "Registered in last 7 days: %s"
+msgstr ""
+
+#: main/index.php:545
+#, php-format
+msgid "Overall registered: %s"
+msgstr ""
+
+#: main/index.php:550
+msgid "Recently registered"
+msgstr ""
+
+#: main/index.php:553
+msgid "No users has been found"
+msgstr ""
+
+#: main/index.php:587 users/ban.php:29 users/ban_frm.php:45
+msgid "Ban rules"
+msgstr ""
+
+#: main/index.php:598
+#, php-format
+msgid "Total number of ban rules: %s"
+msgstr ""
+
+#: main/index.php:601
+#, fuzzy
+#| msgid "Latest themes"
+msgid "Latest rules"
+msgstr "Latest themes tranlsation test"
+
+#: main/index.php:604
+msgid "No ban rules has been found"
+msgstr ""
+
+#: main/index.php:624 main/settings.php:134
+msgid "Useful links"
+msgstr ""
+
+#: main/index.php:630 main/widget/update.php:54
+msgid "Download osclass"
+msgstr ""
+
+#: main/index.php:631
+msgid "Market"
+msgstr ""
+
+#: main/index.php:632 parts/footer.php:10
+msgid "Forums"
+msgstr ""
+
+#: main/index.php:633 parts/footer.php:9
+msgid "Documentation"
+msgstr ""
+
+#: main/index.php:651 main/settings.php:168
+msgid "Listing statistics"
+msgstr ""
+
+#: main/index.php:651 main/index.php:669 main/index.php:687
+msgid "last 14 days"
+msgstr ""
+
+#: main/index.php:658
+#, php-format
+msgid "Total number of listings: %s"
+msgstr ""
+
+#: main/index.php:669 main/settings.php:178
+msgid "Comments statistics"
+msgstr ""
+
+#: main/index.php:676
+#, php-format
+msgid "Total number of comments: %s"
+msgstr ""
+
+#: main/index.php:687 main/settings.php:188
+msgid "User statistics"
+msgstr ""
+
+#: main/index.php:694
+#, php-format
+msgid "Total number of users: %s"
+msgstr ""
+
+#: main/index.php:705 main/settings.php:198
+msgid "Listings by category"
+msgstr ""
+
+#: main/index.php:743
+msgid "There aren't any uploaded listing yet"
+msgstr ""
+
+#: main/index.php:761 main/settings.php:223
+msgid "News on blog"
+msgstr ""
+
+#: main/index.php:792 main/settings.php:233
+msgid "Osclass update"
+msgstr ""
+
+#: main/index.php:823 main/settings.php:243
+#, fuzzy
+#| msgid "Latest themes"
+msgid "Latest products"
+msgstr "Latest themes tranlsation test"
+
+#: main/index.php:854 main/settings.php:253
+msgid "Product updates"
+msgstr ""
+
+#: main/settings.php:21
+msgid "Manage backoffice home page widgets"
+msgstr ""
+
+#: main/settings.php:30
+msgid "Backoffice widget settings"
+msgstr ""
+
+#: main/settings.php:37
+#, php-format
+msgid "Backoffice Widget Settings - %s"
+msgstr ""
+
+#: main/settings.php:56 main/settings.php:151 main/settings.php:206
+#, php-format
+msgid "Column #%s setup"
+msgstr ""
+
+#: main/settings.php:60 main/settings.php:154 main/settings.php:209
+msgid "Column"
+msgstr ""
+
+#: main/settings.php:64 main/settings.php:158 main/settings.php:213
+msgid "Hide this column"
+msgstr ""
+
+#: main/settings.php:70 main/settings.php:164 main/settings.php:219
+msgid "Widgets"
+msgstr ""
+
+#: main/settings.php:74 main/settings.php:84 main/settings.php:94
+#: main/settings.php:104 main/settings.php:114 main/settings.php:124
+#: main/settings.php:134 main/settings.php:144 main/settings.php:168
+#: main/settings.php:178 main/settings.php:188 main/settings.php:198
+#: main/settings.php:223 main/settings.php:233 main/settings.php:243
+#: main/settings.php:253
+#, php-format
+msgid "Hide \"%s\" widget"
+msgstr ""
+
+#: main/settings.php:144
+msgid "Ban Rules"
+msgstr ""
+
+#: main/widget/api.php:25 main/widget/blog.php:24
+#: main/widget/product_updates.php:21 main/widget/products.php:24
+#: main/widget/update.php:24
+#, php-format
+msgid "Data were cached on %s"
+msgstr ""
+
+#: main/widget/api.php:28 main/widget/blog.php:27
+#: main/widget/product_updates.php:24 main/widget/products.php:27
+#: main/widget/update.php:27
+msgid "Uncached data"
+msgstr ""
+
+#: main/widget/api.php:38
+msgid "API key has not been defined"
+msgstr ""
+
+#: main/widget/api.php:39
+#, php-format
+msgid ""
+"In order to be able to download data from OsclassPoint, you must define your "
+"API key in %s section"
+msgstr ""
+
+#: main/widget/api.php:39
+msgid "Settings > General > Software updates"
+msgstr ""
+
+#: main/widget/api.php:42
+#, php-format
+msgid "API key validation error: %s"
+msgstr ""
+
+#: main/widget/api.php:44
+msgid "API key is valid, automatic updates & market functions are available"
+msgstr ""
+
+#: main/widget/blog.php:37
+msgid "No articles has been found"
+msgstr ""
+
+#: main/widget/blog.php:49
+msgid "More news"
+msgstr ""
+
+#: main/widget/product_updates.php:35
+msgid "No updates has been found"
+msgstr ""
+
+#: main/widget/product_updates.php:41
+msgid "all osclass versions"
+msgstr ""
+
+#: main/widget/product_updates.php:43
+#, php-format
+msgid "osclass %s or lower"
+msgstr ""
+
+#: main/widget/product_updates.php:47
+#, php-format
+msgid "osclass %s or higher"
+msgstr ""
+
+#: main/widget/product_updates.php:49
+#, php-format
+msgid "osclass %s to %s"
+msgstr ""
+
+#: main/widget/product_updates.php:56
+#, php-format
+msgid "Updated on %s, compatible with %s"
+msgstr ""
+
+#: main/widget/product_updates.php:67
+#, fuzzy
+#| msgid "Latest themes"
+msgid "All updates"
+msgstr "Latest themes tranlsation test"
+
+#: main/widget/products.php:36
+msgid "No products has been found"
+msgstr ""
+
+#: main/widget/products.php:47
+msgid "More products"
+msgstr ""
+
+#: main/widget/update.php:47
+#, php-format
+msgid "You are using latest osclass version %s"
+msgstr ""
+
+#: main/widget/update.php:49
+#, php-format
+msgid "There is osclass update available. Your version: %s, latest version: %s"
+msgstr ""
+
+#: main/widget/update.php:52
+msgid ""
+"Running website on latest version is important to keep your osclass fast and "
+"secure."
+msgstr ""
+
+#: market/header.php:4
+#, php-format
+msgid ""
+"<b>downloads</b> folder has to be writable, i.e.: <b>chmod a+w %soc-content/"
+"downloads/</b>"
+msgstr ""
+
+#: market/header.php:9
+msgid ""
+"You need to enable <b>allow_url_fopen = On</b> at php.ini, if you need more "
+"information please contact your hosting provider."
+msgstr ""
+
+#: market/languages.php:28 market/languages_plugins.php:28
+#: market/languages_themes.php:28 market/locations.php:28 market/plugins.php:28
+#: market/themes.php:28
+msgid "Download themes, plugins, languages or locations from OsclassPoint"
+msgstr ""
+
+#: market/languages.php:35 market/languages_plugins.php:35
+#: market/languages_themes.php:35 market/locations.php:35 market/plugins.php:35
+#: market/themes.php:35
+#, php-format
+msgid "%s on market"
+msgstr ""
+
+#: market/languages.php:35 market/languages.php:45 tools/info.php:119
+msgid "Languages"
+msgstr ""
+
+#: market/languages.php:45 market/languages_plugins.php:45
+#: market/languages_themes.php:45 market/locations.php:45 market/plugins.php:45
+#: market/themes.php:45
+#, php-format
+msgid "%s on market - %s"
+msgstr ""
+
+#: market/languages.php:67 market/languages_plugins.php:72
+#: market/languages_themes.php:65 market/locations.php:66 market/plugins.php:73
+#: market/themes.php:74
+#, fuzzy
+#| msgid "Latest themes"
+msgid "Latest"
+msgstr "Latest themes tranlsation test"
+
+#: market/languages.php:68 market/languages_plugins.php:73
+#: market/languages_themes.php:66 market/locations.php:67
+msgid "By name"
+msgstr ""
+
+#: market/languages.php:69 market/languages_plugins.php:74
+#: market/languages_themes.php:67 market/locations.php:68
+msgid "By version"
+msgstr ""
+
+#: market/languages.php:74 market/languages_plugins.php:79
+#: market/languages_themes.php:72
+msgid "Search language..."
+msgstr ""
+
+#: market/languages.php:77 market/languages_plugins.php:82
+#: market/languages_themes.php:75
+msgid "Osclass translations"
+msgstr ""
+
+#: market/languages.php:78 market/languages_plugins.php:83
+#: market/languages_themes.php:35 market/languages_themes.php:45
+#: market/languages_themes.php:76
+msgid "Themes translations"
+msgstr ""
+
+#: market/languages.php:79 market/languages_plugins.php:35
+#: market/languages_plugins.php:45 market/languages_plugins.php:84
+#: market/languages_themes.php:77
+msgid "Plugins translations"
+msgstr ""
+
+#: market/languages.php:82 market/languages_plugins.php:87
+#: market/languages_themes.php:80 market/locations.php:75 market/plugins.php:90
+#: market/themes.php:91
+msgid "Filter"
+msgstr ""
+
+#: market/languages.php:87 market/languages_plugins.php:92
+#: market/languages_themes.php:85
+#, php-format
+msgid ""
+"Translations helps you to localize website into language you need. You may "
+"automatically install languages from the %s or upload a translation in .zip "
+"format."
+msgstr ""
+
+#: market/languages.php:87 market/languages_plugins.php:92
+#: market/languages_themes.php:85
+msgid "OsclassPoint Translations Directory"
+msgstr ""
+
+#: market/languages.php:110 market/languages_plugins.php:114
+#: market/languages_themes.php:107 market/locations.php:99
+#: market/plugins.php:118 market/themes.php:117
+msgid "all versions"
+msgstr ""
+
+#: market/languages.php:112 market/languages_plugins.php:116
+#: market/languages_themes.php:109 market/locations.php:101
+#: market/overview.php:63 market/plugins.php:120 market/themes.php:119
+#, php-format
+msgid "%s or higher"
+msgstr ""
+
+#: market/languages.php:148 market/languages_plugins.php:140
+#: market/languages_themes.php:133 market/locations.php:125
+msgid "File name"
+msgstr ""
+
+#: market/languages.php:149 market/languages_plugins.php:141
+#: market/languages_themes.php:134 market/locations.php:126
+msgid "Updated on"
+msgstr ""
+
+#: market/languages.php:150 market/languages_plugins.php:142
+#: market/languages_themes.php:135
+msgid "Size"
+msgstr ""
+
+#: market/languages.php:158 market/locations.php:134 market/themes.php:180
+msgid "Not compatible with your osclass version"
+msgstr ""
+
+#: market/languages.php:158 market/plugins.php:177 market/themes.php:177
+#: market/themes.php:180
+msgid "Can't update"
+msgstr ""
+
+#: market/languages.php:161 market/languages_plugins.php:147
+#: market/languages_themes.php:140 market/locations.php:131
+#: market/plugins.php:180 market/plugins.php:199 market/themes.php:183
+#: market/themes.php:214 tools/debug.php:105
+msgid "Download"
+msgstr ""
+
+#: market/languages.php:167
+msgid "Click to open language configuration"
+msgstr ""
+
+#: market/languages.php:167 market/plugins.php:189
+msgid "Ready"
+msgstr ""
+
+#: market/languages.php:175 market/languages_plugins.php:161
+#: market/languages_themes.php:154 market/locations.php:145
+#: market/plugins.php:236 market/themes.php:251
+#, php-format
+msgid "updated %s"
+msgstr ""
+
+#: market/languages.php:181 market/locations.php:151 market/plugins.php:239
+#: market/themes.php:254
+#, php-format
+msgid "Not compatible, require at least osclass %s"
+msgstr ""
+
+#: market/languages.php:183 market/locations.php:153 market/plugins.php:243
+#: market/themes.php:258
+msgid "Compatible with your osclass"
+msgstr ""
+
+#: market/languages.php:191 market/languages_plugins.php:179
+#: market/languages_themes.php:172 market/locations.php:161
+#: market/plugins.php:251 market/themes.php:266
+#, php-format
+msgid "No %s found. Try a different search."
+msgstr ""
+
+#: market/languages.php:191 market/languages_plugins.php:179
+#: market/languages_themes.php:172
+msgid "language"
+msgstr ""
+
+#: market/languages.php:276
+msgid "Language has been updated correctly."
+msgstr ""
+
+#: market/languages.php:282
+msgid "Go to language page"
+msgstr ""
+
+#: market/languages.php:308 market/languages_plugins.php:303
+#: market/languages_themes.php:296 market/locations.php:280
+#: market/overview.php:59 market/plugins.php:374 market/themes.php:389
+#: plugins/index.php:499
+msgid "All versions"
+msgstr ""
+
+#: market/languages.php:310 market/languages_plugins.php:305
+#: market/languages_themes.php:298 market/locations.php:282
+#: market/plugins.php:376 market/themes.php:391 plugins/index.php:501
+msgid "and higher"
+msgstr ""
+
+#: market/languages.php:322 market/languages_plugins.php:322
+#: market/languages_themes.php:315 market/locations.php:295
+#: market/plugins.php:391 market/themes.php:406
+msgid "Update now"
+msgstr ""
+
+#: market/languages.php:325 market/languages_plugins.php:325
+#: market/languages_themes.php:318
+msgid "Download language from OsclassPoint"
+msgstr ""
+
+#: market/languages.php:326 market/languages_plugins.php:326
+#: market/languages_themes.php:319 market/locations.php:299
+#: market/plugins.php:395 market/themes.php:410
+msgid "Download now"
+msgstr ""
+
+#: market/languages_plugins.php:150 market/languages_themes.php:143
+#, php-format
+msgid "Not compatible with your product version (Your version is %s)"
+msgstr ""
+
+#: market/languages_plugins.php:150 market/languages_themes.php:143
+msgid "Incompatible"
+msgstr ""
+
+#: market/languages_plugins.php:153 market/languages_themes.php:146
+msgid "You do not have this product"
+msgstr ""
+
+#: market/languages_plugins.php:153 market/languages_themes.php:146
+msgid "Unavailable"
+msgstr ""
+
+#: market/languages_plugins.php:167 market/languages_themes.php:160
+msgid "Product not installed"
+msgstr ""
+
+#: market/languages_plugins.php:169 market/languages_themes.php:162
+#, php-format
+msgid "Not compatible, require at least %s"
+msgstr ""
+
+#: market/languages_plugins.php:171 market/languages_themes.php:164
+msgid "Compatible with your product"
+msgstr ""
+
+#: market/languages_plugins.php:272 market/languages_themes.php:265
+msgid "Product language has been updated correctly."
+msgstr ""
+
+#: market/languages_plugins.php:274 market/languages_themes.php:267
+msgid "Product language has been downloaded correctly."
+msgstr ""
+
+#: market/locations.php:35 market/locations.php:45 settings/locations.php:193
+msgid "Locations"
+msgstr ""
+
+#: market/locations.php:74
+msgid "Search location..."
+msgstr ""
+
+#: market/locations.php:80
+#, php-format
+msgid ""
+"Locations contains country, region and city data those are used in diffrent "
+"situations by osclass. You may automatically install locations from the %s "
+"or upload a location in .sql format."
+msgstr ""
+
+#: market/locations.php:80
+msgid "OsclassPoint Locations Directory"
+msgstr ""
+
+#: market/locations.php:124
+msgid "Contains"
+msgstr ""
+
+#: market/locations.php:124
+msgid "regions"
+msgstr ""
+
+#: market/locations.php:124
+msgid "cities"
+msgstr ""
+
+#: market/locations.php:134
+msgid "Can't download"
+msgstr ""
+
+#: market/locations.php:137
+msgid "Click to open country configuration"
+msgstr ""
+
+#: market/locations.php:161
+msgid "location"
+msgstr ""
+
+#: market/locations.php:248
+msgid "Location has been updated correctly."
+msgstr ""
+
+#: market/locations.php:250
+msgid "Location has been downloaded correctly."
+msgstr ""
+
+#: market/locations.php:254
+msgid "Go to locations page"
+msgstr ""
+
+#: market/locations.php:294
+msgid "Update location from OsclassPoint"
+msgstr ""
+
+#: market/locations.php:298
+msgid "Download location from OsclassPoint"
+msgstr ""
+
+#: market/overview.php:18 market/plugins.php:444 market/themes.php:460
+msgid "There was problem loading product details"
+msgstr ""
+
+#: market/overview.php:27
+msgid "Pictures"
+msgstr ""
+
+#: market/overview.php:41 market/plugins.php:85 market/plugins.php:165
+#: market/themes.php:86 market/themes.php:164
+msgid "Free"
+msgstr ""
+
+#: market/overview.php:55
+msgid "Require Osclass version"
+msgstr ""
+
+#: market/overview.php:61 market/plugins.php:124 market/themes.php:123
+#, php-format
+msgid "up to %s"
+msgstr ""
+
+#: market/overview.php:70 tools/info.php:118
+msgid "Downloads"
+msgstr ""
+
+#: market/overview.php:76
+msgid "Orders"
+msgstr ""
+
+#: market/overview.php:82
+msgid "Last update"
+msgstr ""
+
+#: market/overview.php:92
+msgid "Theme home page"
+msgstr ""
+
+#: market/overview.php:95
+msgid "Support forums"
+msgstr ""
+
+#: market/overview.php:99
+msgid "Front-office demo"
+msgstr ""
+
+#: market/overview.php:103
+msgid "Back-office demo"
+msgstr ""
+
+#: market/overview.php:108
+msgid "Average rating"
+msgstr ""
+
+#: market/overview.php:122
+#, php-format
+msgid "Based on %d ratings"
+msgstr ""
+
+#: market/overview.php:128
+msgid "Purchase theme"
+msgstr ""
+
+#: market/overview.php:128
+msgid "Purchase plugin"
+msgstr ""
+
+#: market/overview.php:132
+msgid "Download theme"
+msgstr ""
+
+#: market/overview.php:132
+msgid "Download plugin"
+msgstr ""
+
+#: market/plugins.php:70 market/themes.php:71
+msgid "By rating"
+msgstr ""
+
+#: market/plugins.php:71 market/themes.php:72
+msgid "By downloads"
+msgstr ""
+
+#: market/plugins.php:72 market/themes.php:73
+msgid "Best seller"
+msgstr ""
+
+#: market/plugins.php:80
+msgid "Search plugin..."
+msgstr ""
+
+#: market/plugins.php:83 market/themes.php:84
+msgid "Type of product"
+msgstr ""
+
+#: market/plugins.php:86 market/plugins.php:168 market/themes.php:87
+#: market/themes.php:167
+msgid "Purchased"
+msgstr ""
+
+#: market/plugins.php:87 market/themes.php:88
+msgid "Not purchased"
+msgstr ""
+
+#: market/plugins.php:95
+#, php-format
+msgid ""
+"Plugins extend and expand the functionality of Osclass. You may "
+"automatically install plugins from the %s or upload a plugin in .zip format."
+msgstr ""
+
+#: market/plugins.php:95
+msgid "OsclassPoint Plugins Directory"
+msgstr ""
+
+#: market/plugins.php:126 market/themes.php:125
+msgid "% - %s"
+msgstr ""
+
+#: market/plugins.php:177
+msgid "No compatible with your osclass version"
+msgstr ""
+
+#: market/plugins.php:183
+msgid "Install"
+msgstr ""
+
+#: market/plugins.php:189
+msgid "Click to open plugin configuration"
+msgstr ""
+
+#: market/plugins.php:192 market/plugins.php:197 market/themes.php:207
+#: market/themes.php:212
+msgid "Purchase"
+msgstr ""
+
+#: market/plugins.php:203 market/themes.php:218
+msgid "More details"
+msgstr ""
+
+#: market/plugins.php:227 market/themes.php:242
+#, php-format
+msgid "%s orders"
+msgstr ""
+
+#: market/plugins.php:229 market/themes.php:244
+#, php-format
+msgid "%s downloads"
+msgstr ""
+
+#: market/plugins.php:241 market/themes.php:256
+#, php-format
+msgid "Not compatible, require osclass not higher than %s"
+msgstr ""
+
+#: market/plugins.php:251
+msgid "plugin"
+msgstr ""
+
+#: market/plugins.php:341
+msgid "Plugin has been updated correctly."
+msgstr ""
+
+#: market/plugins.php:343 plugins/index.php:455 plugins/index.php:472
+msgid "Plugin has been downloaded correctly."
+msgstr ""
+
+#: market/plugins.php:347
+msgid "Go to plugins page"
+msgstr ""
+
+#: market/plugins.php:378 market/themes.php:393 plugins/index.php:503
+msgid "up to"
+msgstr ""
+
+#: market/plugins.php:390 plugins/index.php:523
+msgid "Update plugin from OsclassPoint"
+msgstr ""
+
+#: market/plugins.php:394
+msgid "Download plugin from OsclassPoint"
+msgstr ""
+
+#: market/section.php:18
+msgid ""
+"Browse and download available Osclass plugins, from a constantly-updated "
+"selection. After downloading a plugin, you have to install it and configure "
+"it to get it up and running."
+msgstr ""
+
+#: market/section.php:43
+msgid "Featured"
+msgstr ""
+
+#: market/section.php:49
+msgid "The connection with the Osclass market has failed. Try it later."
+msgstr ""
+
+#: market/section.php:55
+msgid "and counting"
+msgstr ""
+
+#: market/section.php:59
+msgid "All"
+msgstr ""
+
+#: market/section.php:84
+#, php-format
+msgid "There are no %s that matches your search"
+msgstr ""
+
+#: market/section.php:90
+msgid ""
+"Cannot get information from market.osclass.org, sorry for the inconvenience"
+msgstr ""
+
+#: market/themes.php:35 market/themes.php:45 tools/info.php:121
+msgid "Themes"
+msgstr ""
+
+#: market/themes.php:81
+msgid "Search theme..."
+msgstr ""
+
+#: market/themes.php:96
+#, php-format
+msgid ""
+"Themes provide design, user experience and is place of first touch for your "
+"visitors. You may automatically install themes from the %s or upload a theme "
+"in .zip format."
+msgstr ""
+
+#: market/themes.php:96
+msgid "OsclassPoint Themes Directory"
+msgstr ""
+
+#: market/themes.php:177
+msgid "Theme must be deactivated before update"
+msgstr ""
+
+#: market/themes.php:201
+msgid "Click to open theme configuration"
+msgstr ""
+
+#: market/themes.php:266
+#, fuzzy
+#| msgid "Latest themes"
+msgid "theme"
+msgstr "Latest themes tranlsation test"
+
+#: market/themes.php:356
+msgid "Theme has been updated correctly."
+msgstr ""
+
+#: market/themes.php:362
+msgid "Go to appearance page"
+msgstr ""
+
+#: market/themes.php:409
+msgid "Download theme from OsclassPoint"
+msgstr ""
+
+#: media/index.php:21
+msgid ""
+"Manage the images that users have uploaded along with their listings. You "
+"can delete them without deleting the whole listing if the image is "
+"inappropriate or doesn’t match the listing."
+msgstr ""
+
+#: media/index.php:41
+#, php-format
+msgid "Media - %s"
+msgstr ""
+
+#: media/index.php:68
+msgid "Delete media"
+msgstr ""
+
+#: media/index.php:124
+msgid "Manage media"
+msgstr ""
+
+#: media/index.php:182
+msgid "Are you sure you want to delete this media file?"
+msgstr ""
+
+#: pages/frm.php:35
+msgid "Edit page"
+msgstr ""
+
+#: pages/frm.php:40 pages/frm.php:42
+msgid "Add page"
+msgstr ""
+
+#: pages/frm.php:48 pages/index.php:28
+msgid "Pages"
+msgstr ""
+
+#: pages/frm.php:145
+msgid "Used to quickly identify this page"
+msgstr ""
+
+#: pages/frm.php:152
+msgid "Page template"
+msgstr ""
+
+#: pages/frm.php:154
+msgid "Default template"
+msgstr ""
+
+#: pages/frm.php:168
+msgid "Add link to footer in front-office"
+msgstr ""
+
+#: pages/frm.php:172
+msgid "Allow search engines to index this page"
+msgstr ""
+
+#: pages/index.php:21
+msgid ""
+"With Osclass you can create static pages on which information can be stored, "
+"such as \"About Us\" or \"Info\" pages. From here you can create, edit or "
+"delete your site's static pages."
+msgstr ""
+
+#: pages/index.php:30
+msgid "Create page"
+msgstr ""
+
+#: pages/index.php:38
+#, php-format
+msgid "Pages - %s"
+msgstr ""
+
+#: pages/index.php:151
+msgid "Manage pages"
+msgstr ""
+
+#: pages/index.php:202
+msgid "Delete page"
+msgstr ""
+
+#: pages/index.php:208
+msgid "Are you sure you want to delete this page?"
+msgstr ""
+
+#: parts/footer.php:9
+msgid "Docs"
+msgstr ""
+
+#: parts/footer.php:11
+msgid "Official Market"
+msgstr ""
+
+#: parts/footer.php:13
+#, php-format
+msgid "Logged in as %s"
+msgstr ""
+
+#: parts/header.php:15
+msgid "No change expiration"
+msgstr ""
+
+#: parts/header.php:16
+msgid "Without expiration"
+msgstr ""
+
+#: parts/header.php:17
+msgid "1 day"
+msgstr ""
+
+#: parts/header.php:18
+#, php-format
+msgid "%d days"
+msgstr ""
+
+#: parts/header.php:19
+msgid "Select category"
+msgstr ""
+
+#: parts/header.php:20
+msgid "No subcategory"
+msgstr ""
+
+#: parts/header.php:21
+msgid "Select subcategory"
+msgstr ""
+
+#: plugins/add.php:21
+msgid ""
+"Manually upload Osclass plugins in .zip format. If you prefer, you can "
+"manually upload the decompressed plugin to <em>oc-content/plugins</em>."
+msgstr ""
+
+#: plugins/add.php:39
+#, php-format
+msgid "Add plugin - %s"
+msgstr ""
+
+#: plugins/add.php:49 plugins/index.php:40
+msgid "Add plugin"
+msgstr ""
+
+#: plugins/add.php:54
+#, php-format
+msgid "You can download and install new plugins directly in %s section."
+msgstr ""
+
+#: plugins/add.php:54
+msgid "Market > Plugins"
+msgstr ""
+
+#: plugins/add.php:61
+msgid "Plugin package (.zip)"
+msgstr ""
+
+#: plugins/add.php:73
+msgid "Cannot install new plugin"
+msgstr ""
+
+#: plugins/add.php:76
+msgid ""
+"The plugin folder is not writable on your server so you cannot upload "
+"plugins from the administration panel. Please make the folder writable and "
+"try again."
+msgstr ""
+
+#: plugins/configuration.php:63 plugins/index.php:57 plugins/view.php:29
+#, php-format
+msgid "Plugins - %s"
+msgstr ""
+
+#: plugins/configuration.php:82
+msgid "Select the categories where you want to apply these attribute:"
+msgstr ""
+
+#: plugins/index.php:21
+msgid ""
+"Install or uninstall the plugins available in your installation. In some "
+"cases, you'll have to configure the plugin in order to get it to work."
+msgstr ""
+
+#: plugins/index.php:38
+msgid "Manage Plugins"
+msgstr ""
+
+#: plugins/index.php:47
+msgid ""
+"Plugin couldn't be installed because it triggered a <strong>fatal error</"
+"strong>"
+msgstr ""
+
+#: plugins/index.php:91
+msgid "Uninstall plugin"
+msgstr ""
+
+#: plugins/index.php:95
+msgid "Go to support forums"
+msgstr ""
+
+#: plugins/index.php:207
+msgid "Search for plugin"
+msgstr ""
+
+#: plugins/index.php:211 plugins/index.php:212 plugins/index.php:213
+#: plugins/index.php:214 plugins/index.php:215 plugins/index.php:295
+#: plugins/index.php:296 plugins/index.php:297 plugins/index.php:298
+#: plugins/index.php:299
+#, php-format
+msgid "%d plugins"
+msgstr ""
+
+#: plugins/index.php:229
+msgid "Show all plugins"
+msgstr ""
+
+#: plugins/index.php:232
+msgid "Show plugins to update"
+msgstr ""
+
+#: plugins/index.php:265 plugins/index.php:349
+msgid "No plugins has been found"
+msgstr ""
+
+#: plugins/index.php:405
+msgid ""
+"This action can not be undone. Uninstalling plugins may result in a "
+"permanent loss of data. Are you sure you want to continue?"
+msgstr ""
+
+#: plugins/index.php:409
+msgid "Uninstall"
+msgstr ""
+
+#: plugins/index.php:534
+msgid ""
+"You are about to delete the files of the plugin. Do you want to continue?"
+msgstr ""
+
+#: plugins/view.php:46
+msgid ""
+"Plugin page does not exists or is incorrect. Discuss following path with "
+"plugin author:"
+msgstr ""
+
+#: plugins/view.php:49
+msgid ""
+"If you see something extra before \"oc-content\", disucuss default path "
+"settings on server with your hosting provider. Expected form of file path."
+msgstr ""
+
+#: settings/advanced.php:38
+msgid ""
+"Change advanced configuration of your Osclass. <strong>Be careful</strong> "
+"when modifying default values if you're not sure what you're doing!"
+msgstr ""
+
+#: settings/advanced.php:54
+#, php-format
+msgid "Advanced Settings - %s"
+msgstr ""
+
+#: settings/advanced.php:69 settings/advanced.php:76 settings/advanced.php:77
+msgid "Flush cache"
+msgstr ""
+
+#: settings/advanced.php:78
+msgid "Remove all data from cache."
+msgstr ""
+
+#: settings/advanced.php:85
+msgid "Advanced Settings"
+msgstr ""
+
+#: settings/advanced.php:93
+msgid "Subdomain type"
+msgstr ""
+
+#: settings/advanced.php:96
+msgid "No subdomains"
+msgstr ""
+
+#: settings/advanced.php:97
+msgid "Category based"
+msgstr ""
+
+#: settings/advanced.php:98
+msgid "Country based"
+msgstr ""
+
+#: settings/advanced.php:99
+msgid "Region based"
+msgstr ""
+
+#: settings/advanced.php:100
+msgid "City based"
+msgstr ""
+
+#: settings/advanced.php:101
+msgid "User based"
+msgstr ""
+
+#: settings/advanced.php:106
+msgid "Host"
+msgstr ""
+
+#: settings/advanced.php:108
+msgid "Your host is required to know the subdomain."
+msgstr ""
+
+#: settings/advanced.php:108
+#, php-format
+msgid "Your current host is \"%s\". Add it without \"www\"."
+msgstr ""
+
+#: settings/advanced.php:108
+msgid "Remember to enable cookies for the subdomains too."
+msgstr ""
+
+#: settings/breadcrumbs.php:44 settings/searches.php:47
+msgid "Custom number: this field must only contain numeric characters"
+msgstr ""
+
+#: settings/breadcrumbs.php:45 settings/searches.php:48
+msgid "Custom number: this field cannot be left empty"
+msgstr ""
+
+#: settings/breadcrumbs.php:72
+msgid ""
+"Modify breadcrumbs section shown bellow header, customize it or hide on "
+"particular pages"
+msgstr ""
+
+#: settings/breadcrumbs.php:90
+#, php-format
+msgid "Breadcrumbs Settings - %s"
+msgstr ""
+
+#: settings/breadcrumbs.php:101
+msgid "Breadcrumbs Settings"
+msgstr ""
+
+#: settings/breadcrumbs.php:109
+msgid "Breadcrumb elements on listings page"
+msgstr ""
+
+#: settings/breadcrumbs.php:113
+msgid "Website (Page) title"
+msgstr ""
+
+#: settings/breadcrumbs.php:118
+msgid "Country name"
+msgstr ""
+
+#: settings/breadcrumbs.php:123
+msgid "Region name"
+msgstr ""
+
+#: settings/breadcrumbs.php:128
+msgid "City name"
+msgstr ""
+
+#: settings/breadcrumbs.php:133
+msgid "Category name"
+msgstr ""
+
+#: settings/breadcrumbs.php:138
+msgid "Parent listing categories"
+msgstr ""
+
+#: settings/breadcrumbs.php:145
+msgid "Hide breadcrumbs on specific page"
+msgstr ""
+
+#: settings/breadcrumbs.php:149
+msgid "Search"
+msgstr ""
+
+#: settings/breadcrumbs.php:149 settings/breadcrumbs.php:154
+#: settings/breadcrumbs.php:159 settings/breadcrumbs.php:164
+#: settings/breadcrumbs.php:169 settings/breadcrumbs.php:174
+#: settings/breadcrumbs.php:179 settings/breadcrumbs.php:184
+#: settings/breadcrumbs.php:189 settings/breadcrumbs.php:194
+#: settings/breadcrumbs.php:199 settings/breadcrumbs.php:204
+#: settings/breadcrumbs.php:209 settings/breadcrumbs.php:214
+#: settings/breadcrumbs.php:219 settings/breadcrumbs.php:224
+#: settings/breadcrumbs.php:234
+msgid "page"
+msgstr ""
+
+#: settings/breadcrumbs.php:159
+msgid "Send friend"
+msgstr ""
+
+#: settings/breadcrumbs.php:164
+msgid "Contact seller"
+msgstr ""
+
+#: settings/breadcrumbs.php:169
+msgid "Item publish"
+msgstr ""
+
+#: settings/breadcrumbs.php:174
+msgid "Item edit"
+msgstr ""
+
+#: settings/breadcrumbs.php:179
+msgid "User items"
+msgstr ""
+
+#: settings/breadcrumbs.php:184 settings/permalinks.php:639
+msgid "User alerts"
+msgstr ""
+
+#: settings/breadcrumbs.php:189 settings/permalinks.php:627
+msgid "User profile"
+msgstr ""
+
+#: settings/breadcrumbs.php:194 settings/permalinks.php:663
+msgid "User change email"
+msgstr ""
+
+#: settings/breadcrumbs.php:199 settings/permalinks.php:657
+msgid "User change password"
+msgstr ""
+
+#: settings/breadcrumbs.php:204 settings/permalinks.php:675
+msgid "User change username"
+msgstr ""
+
+#: settings/breadcrumbs.php:209
+msgid "Login"
+msgstr ""
+
+#: settings/breadcrumbs.php:214
+msgid "Recover password"
+msgstr ""
+
+#: settings/breadcrumbs.php:219
+msgid "Forgot password"
+msgstr ""
+
+#: settings/breadcrumbs.php:224
+msgid "Register"
+msgstr ""
+
+#: settings/breadcrumbs.php:229
+msgid "Static page"
+msgstr ""
+
+#: settings/breadcrumbs.php:234 settings/permalinks.php:513
+msgid "Contact"
+msgstr ""
+
+#: settings/breadcrumbs.php:241
+msgid "Custom hide rules"
+msgstr ""
+
+#: settings/breadcrumbs.php:244
+msgid ""
+"Enter custom pages where to hide breadcrumbs, i.e. for plugin pages, in "
+"format: location-section. Delimit with comma (,). Example: osp-cart, osp-"
+"promote, blg-home"
+msgstr ""
+
+#: settings/comments.php:41
+msgid "Moderated comments: this field is required"
+msgstr ""
+
+#: settings/comments.php:42
+msgid "Moderated comments: this field must only contain numeric characters"
+msgstr ""
+
+#: settings/comments.php:45
+msgid "Comments per page: this field is required"
+msgstr ""
+
+#: settings/comments.php:46
+msgid "Comments per page: this field must only contain numeric characters"
+msgstr ""
+
+#: settings/comments.php:82
+msgid ""
+"Modify the options that allow your users to publish comments on your site's "
+"listings."
+msgstr ""
+
+#: settings/comments.php:100
+#, php-format
+msgid "Comment Settings - %s"
+msgstr ""
+
+#: settings/comments.php:115
+msgid "Comment Settings"
+msgstr ""
+
+#: settings/comments.php:118
+msgid "Default comment settings"
+msgstr ""
+
+#: settings/comments.php:122
+msgid "Allow people to post comments on listings"
+msgstr ""
+
+#: settings/comments.php:127
+msgid "Users must be registered and logged in to comment"
+msgstr ""
+
+#: settings/comments.php:132
+msgid "Enable rating on comments"
+msgstr ""
+
+#: settings/comments.php:137
+msgid "A comment is being held for moderation"
+msgstr ""
+
+#: settings/comments.php:141
+#, php-format
+msgid ""
+"Before a comment appears, comment author must have at least %s previously "
+"approved comments"
+msgstr ""
+
+#: settings/comments.php:142
+msgid "If the value is zero, an administrator must always approve comments"
+msgstr ""
+
+#: settings/comments.php:147
+msgid "Other comment settings"
+msgstr ""
+
+#: settings/comments.php:149
+#, php-format
+msgid "Break comments into pages with %s comments per page"
+msgstr ""
+
+#: settings/comments.php:150
+msgid "If the value is zero all comments are shown"
+msgstr ""
+
+#: settings/comments.php:157
+msgid "E-mail admin whenever"
+msgstr ""
+
+#: settings/comments.php:161
+msgid "A new comment is posted"
+msgstr ""
+
+#: settings/comments.php:167
+msgid "E-mail user whenever"
+msgstr ""
+
+#: settings/comments.php:171
+msgid "There's a new comment on his listing"
+msgstr ""
+
+#: settings/currencies.php:21
+msgid ""
+"Add new currencies or edit existing currencies so users can publish listings "
+"in their country's currency."
+msgstr ""
+
+#: settings/currencies.php:39
+#, php-format
+msgid "Currencies - %s"
+msgstr ""
+
+#: settings/currencies.php:130
+msgid "Currencies"
+msgstr ""
+
+#: settings/currencies.php:142
+#, php-format
+msgid "Are you sure you want to %s the selected currencies?"
+msgstr ""
+
+#: settings/currencies.php:152
+msgid "Code"
+msgstr ""
+
+#: settings/currencies.php:176
+msgid "Delete currency"
+msgstr ""
+
+#: settings/currencies.php:183
+msgid "Are you sure you want to delete this currency?"
+msgstr ""
+
+#: settings/currency_form.php:42 settings/currency_form.php:43
+#: settings/currency_form.php:44
+msgid "Currency code: this field is required"
+msgstr ""
+
+#: settings/currency_form.php:47 settings/currency_form.php:48
+msgid "Name: this field is required"
+msgstr ""
+
+#: settings/currency_form.php:87 settings/currency_form.php:88
+msgid "Add currency"
+msgstr ""
+
+#: settings/currency_form.php:91
+msgid "Edit currency"
+msgstr ""
+
+#: settings/currency_form.php:92
+msgid "Update currency"
+msgstr ""
+
+#: settings/currency_form.php:125
+msgid "Currency Code"
+msgstr ""
+
+#: settings/currency_form.php:128
+#, php-format
+msgid ""
+"Must be a three-character code according to the <a href=\"%s\" target="
+"\"_blank\">ISO 4217</a>"
+msgstr ""
+
+#: settings/currency_form.php:132
+msgid "Currency symbol"
+msgstr ""
+
+#: settings/index.php:44
+msgid "Save changes before validating API key"
+msgstr ""
+
+#: settings/index.php:92 settings/index.php:93
+msgid "Page title: this field is required"
+msgstr ""
+
+#: settings/index.php:96
+msgid "Email: this field is required"
+msgstr ""
+
+#: settings/index.php:97
+msgid "Invalid email address"
+msgstr ""
+
+#: settings/index.php:100
+msgid "Listings shown in RSS feed: this field is required"
+msgstr ""
+
+#: settings/index.php:101
+msgid ""
+"Listings shown in RSS feed: this field must only contain numeric characters"
+msgstr ""
+
+#: settings/index.php:104
+msgid "Latest listings shown: this field is required"
+msgstr ""
+
+#: settings/index.php:105
+msgid "Latest listings shown: this field must only contain numeric characters"
+msgstr ""
+
+#: settings/index.php:108
+msgid "The search page shows: this field is required"
+msgstr ""
+
+#: settings/index.php:109
+msgid "The search page shows: this field must only contain numeric characters"
+msgstr ""
+
+#: settings/index.php:124
+msgid ""
+"You are going to be disconnected from the Market, all your plugins and "
+"themes downloaded will remain installed and configured but you will not be "
+"able to update or download new plugins and themes. Are you sure?"
+msgstr ""
+
+#: settings/index.php:171
+msgid ""
+"Change the basic configuration of your Osclass. From here, you can modify "
+"variables such as the site’s name, the default currency or how lists of "
+"listings are displayed. <strong>Be careful</strong> when modifying default "
+"values if you're not sure what you're doing!"
+msgstr ""
+
+#: settings/index.php:189
+#, php-format
+msgid "General Settings - %s"
+msgstr ""
+
+#: settings/index.php:200
+msgid "General Settings"
+msgstr ""
+
+#: settings/index.php:208
+msgid "Page title"
+msgstr ""
+
+#: settings/index.php:212
+msgid "Page description"
+msgstr ""
+
+#: settings/index.php:215
+msgid "Contact e-mail"
+msgstr ""
+
+#: settings/index.php:218
+msgid "Default language"
+msgstr ""
+
+#: settings/index.php:228
+msgid "Default currency"
+msgstr ""
+
+#: settings/index.php:239
+msgid "Backoffice Theme"
+msgstr ""
+
+#: settings/index.php:252
+msgid "Backoffice Color Scheme"
+msgstr ""
+
+#: settings/index.php:270
+msgid "jQuery Version"
+msgstr ""
+
+#: settings/index.php:277
+msgid ""
+"jQuery 3.x.x may not be compatible with your theme or plugins, make sure to "
+"do proper testing before using it in production website!"
+msgstr ""
+
+#: settings/index.php:282
+msgid "Structured data"
+msgstr ""
+
+#: settings/index.php:287
+msgid ""
+"Allow osclass to generate structured data (microdata) for google, facebook, "
+"twitter, ..."
+msgstr ""
+
+#: settings/index.php:294
+msgid "Generator tag"
+msgstr ""
+
+#: settings/index.php:299
+msgid "Hide generator meta tag added to website head"
+msgstr ""
+
+#: settings/index.php:306
+msgid "Week starts on"
+msgstr ""
+
+#: settings/index.php:309
+msgid "Sunday"
+msgstr ""
+
+#: settings/index.php:310
+msgid "Monday"
+msgstr ""
+
+#: settings/index.php:311
+msgid "Tuesday"
+msgstr ""
+
+#: settings/index.php:312
+msgid "Wednesday"
+msgstr ""
+
+#: settings/index.php:313
+msgid "Thursday"
+msgstr ""
+
+#: settings/index.php:314
+msgid "Friday"
+msgstr ""
+
+#: settings/index.php:315
+msgid "Saturday"
+msgstr ""
+
+#: settings/index.php:320
+msgid "Timezone"
+msgstr ""
+
+#: settings/index.php:325
+msgid "Select a timezone..."
+msgstr ""
+
+#: settings/index.php:333
+msgid "Date & time format"
+msgstr ""
+
+#: settings/index.php:381
+msgid "Documentation on date and time formatting"
+msgstr ""
+
+#: settings/index.php:385
+msgid "RSS shows"
+msgstr ""
+
+#: settings/index.php:388 settings/index.php:402
+msgid "listings at most"
+msgstr ""
+
+#: settings/index.php:392
+msgid "Latest listings shown"
+msgstr ""
+
+#: settings/index.php:395
+msgid "at most"
+msgstr ""
+
+#: settings/index.php:399
+msgid "Search page shows"
+msgstr ""
+
+#: settings/index.php:405
+msgid "Search settings"
+msgstr ""
+
+#: settings/index.php:407
+msgid "Pattern filter method"
+msgstr ""
+
+#: settings/index.php:410
+msgid "Full-text search (default)"
+msgstr ""
+
+#: settings/index.php:411
+msgid "Enhanced full-text search (with NLP)"
+msgstr ""
+
+#: settings/index.php:412
+msgid "Title/Description contains pattern"
+msgstr ""
+
+#: settings/index.php:417
+msgid "Category settings"
+msgstr ""
+
+#: settings/index.php:419
+msgid "Parent categories"
+msgstr ""
+
+#: settings/index.php:424
+msgid ""
+"Allow users to select a parent category as a category when inserting or "
+"editing a listing "
+msgstr ""
+
+#: settings/index.php:430
+msgid "Contact Settings"
+msgstr ""
+
+#: settings/index.php:432
+msgid "Disable contact form"
+msgstr ""
+
+#: settings/index.php:437
+msgid "Customers will not be able to user web contact form"
+msgstr ""
+
+#: settings/index.php:444
+msgid "Attachments"
+msgstr ""
+
+#: settings/index.php:449
+msgid "Allow people to attach a file to the contact form"
+msgstr ""
+
+#: settings/index.php:455
+msgid "Cron Settings"
+msgstr ""
+
+#: settings/index.php:457
+msgid "Automatic cron process"
+msgstr ""
+
+#: settings/index.php:462
+#, php-format
+msgid ""
+"Allow Osclass to run a built-in <a href=\"%s\" target=\"_blank\">cron</a> "
+"automatically without setting crontab"
+msgstr ""
+
+#: settings/index.php:465
+msgid ""
+"<b>For testing purpose only!</b> On live/production websites never use this "
+"feature and setup cron via cron panel on your hosting."
+msgstr ""
+
+#: settings/index.php:470
+msgid "Cron execution history (last/next)"
+msgstr ""
+
+#: settings/index.php:482
+msgid "Minutely"
+msgstr ""
+
+#: settings/index.php:483 settings/index.php:484 settings/index.php:489
+#: settings/index.php:490 settings/index.php:495 settings/index.php:496
+#: settings/index.php:501 settings/index.php:502 settings/index.php:507
+#: settings/index.php:508 settings/index.php:513 settings/index.php:514
+msgid "Never"
+msgstr ""
+
+#: settings/index.php:488
+msgid "Hourly"
+msgstr ""
+
+#: settings/index.php:494
+msgid "Daily"
+msgstr ""
+
+#: settings/index.php:500
+msgid "Weekly"
+msgstr ""
+
+#: settings/index.php:506
+msgid "Monthly"
+msgstr ""
+
+#: settings/index.php:512
+msgid "Yearly"
+msgstr ""
+
+#: settings/index.php:522
+msgid "Software updates"
+msgstr ""
+
+#: settings/index.php:524
+msgid "Core updates"
+msgstr ""
+
+#: settings/index.php:527 tools/debug.php:79 tools/debug.php:80
+#: tools/debug.php:81 tools/info.php:94 tools/info.php:162 tools/info.php:163
+#: tools/info.php:164 tools/info.php:165
+msgid "Disabled"
+msgstr ""
+
+#: settings/index.php:528
+msgid "New branch (new osclass version - 4.x.x) + Major + Minor"
+msgstr ""
+
+#: settings/index.php:529
+msgid "Major updates (new features - x.4.x) + Minor"
+msgstr ""
+
+#: settings/index.php:530
+msgid "Minor updates (bug fixes - x.x.4)"
+msgstr ""
+
+#: settings/index.php:536
+msgid "OsclassPoint API Key"
+msgstr ""
+
+#: settings/index.php:541 settings/index.php:543
+msgid "Validate"
+msgstr ""
+
+#: settings/index.php:543
+msgid "Enter and save your api key before you validate it"
+msgstr ""
+
+#: settings/index.php:546
+#, php-format
+msgid "You can find your API key at %s section"
+msgstr ""
+
+#: settings/index.php:546
+msgid "OsclassPoint > Account > My profile"
+msgstr ""
+
+#: settings/index.php:551
+msgid "Plugin updates"
+msgstr ""
+
+#: settings/index.php:556
+msgid "Allow auto-updates of plugins"
+msgstr ""
+
+#: settings/index.php:562
+msgid "Theme updates"
+msgstr ""
+
+#: settings/index.php:567
+msgid "Allow auto-updates of themes"
+msgstr ""
+
+#: settings/index.php:574
+msgid "Language updates"
+msgstr ""
+
+#: settings/index.php:579
+msgid "Allow auto-updates of languages"
+msgstr ""
+
+#: settings/index.php:586
+msgid "Oc-content updates"
+msgstr ""
+
+#: settings/index.php:591
+msgid "Allow updates of oc-content folder"
+msgstr ""
+
+#: settings/index.php:595
+msgid ""
+"Include update of default theme (sigma), languages folder (replace en_US) "
+"etc. Applicable for manual & auto update."
+msgstr ""
+
+#: settings/index.php:601
+msgid "Market external sources"
+msgstr ""
+
+#: settings/index.php:606
+msgid "Allow updates and installations of non-official plugins and themes"
+msgstr ""
+
+#: settings/index.php:618
+#, php-format
+msgid "Last checked on %s"
+msgstr ""
+
+#: settings/index.php:620
+msgid "Never checked"
+msgstr ""
+
+#: settings/index.php:623
+msgid "Check updates"
+msgstr ""
+
+#: settings/locations.php:41
+msgid "Delete location"
+msgstr ""
+
+#: settings/locations.php:137 settings/locations.php:422
+msgid "View more"
+msgstr ""
+
+#: settings/locations.php:141 settings/locations.php:259
+msgid "Edit country"
+msgstr ""
+
+#: settings/locations.php:142
+msgid "Add new country"
+msgstr ""
+
+#: settings/locations.php:143 settings/locations.php:317
+msgid "Edit region"
+msgstr ""
+
+#: settings/locations.php:144
+msgid "Add new region"
+msgstr ""
+
+#: settings/locations.php:145 settings/locations.php:385
+msgid "Edit city"
+msgstr ""
+
+#: settings/locations.php:146
+msgid "Add new city"
+msgstr ""
+
+#: settings/locations.php:147 settings/locations.php:489
+msgid "Import a location"
+msgstr ""
+
+#: settings/locations.php:148
+msgid "No entries has been found"
+msgstr ""
+
+#: settings/locations.php:149
+msgid "No cities has been found for region ID:"
+msgstr ""
+
+#: settings/locations.php:166
+msgid ""
+"Add, edit or delete the countries, regions and cities installed on your "
+"Osclass. <strong>Be careful</strong>: modifying locations can cause your "
+"statistics to be incorrect until they're recalculated. Modify only if you're "
+"sure what you're doing!"
+msgstr ""
+
+#: settings/locations.php:184
+#, php-format
+msgid "Locations - %s"
+msgstr ""
+
+#: settings/locations.php:201
+msgid "Country code should have two characters"
+msgstr ""
+
+#: settings/locations.php:211
+msgid "Country code"
+msgstr ""
+
+#: settings/locations.php:216
+msgid "Add country"
+msgstr ""
+
+#: settings/locations.php:235 settings/locations.php:306
+#: settings/locations.php:366
+msgid "Native name"
+msgstr ""
+
+#: settings/locations.php:239
+msgid "Phone code"
+msgstr ""
+
+#: settings/locations.php:242
+msgid "Without plus sign, example: 420, 85, 43"
+msgstr ""
+
+#: settings/locations.php:245
+msgid "Currency code"
+msgstr ""
+
+#: settings/locations.php:248
+msgid "3 uppercase letters, example: EUR, USD, GBP"
+msgstr ""
+
+#: settings/locations.php:251 settings/locations.php:310
+#: settings/locations.php:378
+msgid "Slug"
+msgstr ""
+
+#: settings/locations.php:254 settings/locations.php:313
+#: settings/locations.php:381
+msgid "The slug has to be a unique string, could be left blank"
+msgstr ""
+
+#: settings/locations.php:285
+msgid "Add region"
+msgstr ""
+
+#: settings/locations.php:345
+msgid "Add city"
+msgstr ""
+
+#: settings/locations.php:370
+msgid "Latitude"
+msgstr ""
+
+#: settings/locations.php:374
+msgid "Longitude"
+msgstr ""
+
+#: settings/locations.php:400
+msgid "Countries"
+msgstr ""
+
+#: settings/locations.php:401
+msgid "Import new"
+msgstr ""
+
+#: settings/locations.php:403 settings/locations.php:439
+#: settings/locations.php:455
+msgid "Remove selected"
+msgstr ""
+
+#: settings/locations.php:437
+msgid "Regions"
+msgstr ""
+
+#: settings/locations.php:453
+msgid "Cities"
+msgstr ""
+
+#: settings/locations.php:470
+msgid ""
+"This action can't be undone. Items associated to this location will be "
+"deleted. Users from this location will be unlinked, but not deleted. Are you "
+"sure you want to continue?"
+msgstr ""
+
+#: settings/locations.php:486
+msgid ""
+"Import a country with it's regions and cities from our database. Already "
+"imported countries aren't shown."
+msgstr ""
+
+#: settings/locations.php:494
+msgid "Select an option"
+msgstr ""
+
+#: settings/locations.php:501
+msgid "No locations available."
+msgstr ""
+
+#: settings/locations.php:507 tools/import.php:54
+msgid "Import"
+msgstr ""
+
+#: settings/mailserver.php:66
+msgid ""
+"Modify the settings of the mail server from which your site's emails are "
+"sent. <strong>Be careful</strong>: these settings can vary depending on your "
+"hosting or server. If you run into any issues, check your hosting's help "
+"section."
+msgstr ""
+
+#: settings/mailserver.php:84
+#, php-format
+msgid "Mail Settings - %s"
+msgstr ""
+
+#: settings/mailserver.php:95
+msgid "Mail Settings"
+msgstr ""
+
+#: settings/mailserver.php:103
+msgid "Server type"
+msgstr ""
+
+#: settings/mailserver.php:106
+msgid "Custom Server"
+msgstr ""
+
+#: settings/mailserver.php:107
+msgid "GMail Server"
+msgstr ""
+
+#: settings/mailserver.php:112
+msgid "Hostname"
+msgstr ""
+
+#: settings/mailserver.php:118
+msgid "Mail from"
+msgstr ""
+
+#: settings/mailserver.php:124
+msgid "Name from"
+msgstr ""
+
+#: settings/mailserver.php:130
+msgid "Server port"
+msgstr ""
+
+#: settings/mailserver.php:148
+msgid "Encryption"
+msgstr ""
+
+#: settings/mailserver.php:151
+msgid "Options: blank, ssl or tls"
+msgstr ""
+
+#: settings/mailserver.php:155
+msgid "Cannot be sure that Apache Module <b>mod_ssl</b> is loaded."
+msgstr ""
+
+#: settings/mailserver.php:159
+msgid ""
+"Apache Module <b>mod_ssl</b> is not loaded, SMTP authentication may not be "
+"functional"
+msgstr ""
+
+#: settings/mailserver.php:165
+msgid "SMTP"
+msgstr ""
+
+#: settings/mailserver.php:168
+msgid "SMTP authentication enabled"
+msgstr ""
+
+#: settings/mailserver.php:172
+msgid "POP"
+msgstr ""
+
+#: settings/mailserver.php:175
+msgid "Use POP before SMTP"
+msgstr ""
+
+#: settings/mailserver.php:180
+msgid "Click to test"
+msgstr ""
+
+#: settings/mailserver.php:182
+msgid "Send test email"
+msgstr ""
+
+#: settings/media.php:38
+msgid "Size is not in the correct format"
+msgstr ""
+
+#: settings/media.php:61
+msgid "Thumbnail size: this field is required"
+msgstr ""
+
+#: settings/media.php:62
+msgid "Thumbnail size: is not in the correct format"
+msgstr ""
+
+#: settings/media.php:65
+msgid "Preview size: this field is required"
+msgstr ""
+
+#: settings/media.php:66
+msgid "Preview size: is not in the correct format"
+msgstr ""
+
+#: settings/media.php:69
+msgid "Normal size: this field is required"
+msgstr ""
+
+#: settings/media.php:70
+msgid "Normal size: is not in the correct format"
+msgstr ""
+
+#: settings/media.php:73
+msgid "Maximum size: this field is required"
+msgstr ""
+
+#: settings/media.php:74
+msgid "Maximum size: this field must only contain numeric characters"
+msgstr ""
+
+#: settings/media.php:152
+msgid ""
+"Manage the options for the images users can upload along with their "
+"listings. You can limit their size, the number of images per ad, include a "
+"watermark, etc."
+msgstr ""
+
+#: settings/media.php:170
+#, php-format
+msgid "Media Settings - %s"
+msgstr ""
+
+#: settings/media.php:180
+msgid "Media Settings"
+msgstr ""
+
+#: settings/media.php:187
+msgid "Image sizes"
+msgstr ""
+
+#: settings/media.php:189
+msgid ""
+"The sizes listed below determine the maximum dimensions in pixels to use "
+"when uploading a image. Format: <b>Width</b> x <b>Height</b>."
+msgstr ""
+
+#: settings/media.php:190
+msgid "Thumbnail size"
+msgstr ""
+
+#: settings/media.php:195
+msgid "Preview size"
+msgstr ""
+
+#: settings/media.php:200
+msgid "Normal size"
+msgstr ""
+
+#: settings/media.php:205
+msgid "Original size"
+msgstr ""
+
+#: settings/media.php:209
+msgid "Keep original image, unaltered after uploading."
+msgstr ""
+
+#: settings/media.php:210
+msgid "Image may occupy more space than usual."
+msgstr ""
+
+#: settings/media.php:215
+msgid "Restrictions"
+msgstr ""
+
+#: settings/media.php:217
+msgid "Force JPEG"
+msgstr ""
+
+#: settings/media.php:221
+msgid "Force JPEG extension."
+msgstr ""
+
+#: settings/media.php:222
+msgid ""
+"Uploaded images will be saved in JPG/JPEG format, it saves space but images "
+"will not have transparent background."
+msgstr ""
+
+#: settings/media.php:228
+msgid "Crop image"
+msgstr ""
+
+#: settings/media.php:232
+msgid "Best image crop"
+msgstr ""
+
+#: settings/media.php:233
+msgid ""
+"Image is cropped in best possible way from center, maximizing cropped area."
+msgstr ""
+
+#: settings/media.php:233 settings/media.php:244
+msgid "No white background will be added to keep the size."
+msgstr ""
+
+#: settings/media.php:239
+msgid "Force aspect"
+msgstr ""
+
+#: settings/media.php:243
+msgid "Force image aspect."
+msgstr ""
+
+#: settings/media.php:244
+msgid "No effect when \"Best image crop\" is enabled."
+msgstr ""
+
+#: settings/media.php:250
+msgid "Maximum size"
+msgstr ""
+
+#: settings/media.php:253
+msgid "Size in KB"
+msgstr ""
+
+#: settings/media.php:255
+#, php-format
+msgid "Maximum size PHP configuration allows: %d KB"
+msgstr ""
+
+#: settings/media.php:261
+msgid "ImageMagick"
+msgstr ""
+
+#: settings/media.php:265
+msgid "Use ImageMagick instead of GD library"
+msgstr ""
+
+#: settings/media.php:270
+msgid "ImageMagick library is not loaded"
+msgstr ""
+
+#: settings/media.php:274
+msgid "It's faster and consumes less resources than GD library."
+msgstr ""
+
+#: settings/media.php:279
+msgid "Canvas background"
+msgstr ""
+
+#: settings/media.php:282
+msgid "White"
+msgstr ""
+
+#: settings/media.php:283
+msgid "Black"
+msgstr ""
+
+#: settings/media.php:286
+msgid "No effect when \"Best crop\" and/or \"Force aspect\" is enabled."
+msgstr ""
+
+#: settings/media.php:290
+msgid "Watermark"
+msgstr ""
+
+#: settings/media.php:292
+msgid "Watermark type"
+msgstr ""
+
+#: settings/media.php:296 users/frm.php:269
+msgid "None"
+msgstr ""
+
+#: settings/media.php:301 settings/media.php:319
+msgid "Text"
+msgstr ""
+
+#: settings/media.php:304
+#, php-format
+msgid ""
+"Freetype library is required. How to <a target=\"_blank\" href=\"%s"
+"\">install/configure</a>"
+msgstr ""
+
+#: settings/media.php:311 settings/media.php:349
+msgid "Image"
+msgstr ""
+
+#: settings/media.php:317
+msgid "Watermark Text Settings"
+msgstr ""
+
+#: settings/media.php:333 settings/media.php:361
+msgid "Position"
+msgstr ""
+
+#: settings/media.php:336 settings/media.php:364
+msgid "Centre"
+msgstr ""
+
+#: settings/media.php:337 settings/media.php:365
+msgid "Top Left"
+msgstr ""
+
+#: settings/media.php:338 settings/media.php:366
+msgid "Top Right"
+msgstr ""
+
+#: settings/media.php:339 settings/media.php:367
+msgid "Bottom Left"
+msgstr ""
+
+#: settings/media.php:340 settings/media.php:368
+msgid "Bottom Right"
+msgstr ""
+
+#: settings/media.php:347
+msgid "Watermark Image Settings"
+msgstr ""
+
+#: settings/media.php:355
+msgid "It has to be a .PNG image"
+msgstr ""
+
+#: settings/media.php:356
+msgid "Osclass doesn't check the watermark image size"
+msgstr ""
+
+#: settings/media.php:379 settings/media.php:410
+msgid "Regenerate images"
+msgstr ""
+
+#: settings/media.php:382
+msgid ""
+"You can regenerate different image dimensions. If you have changed the "
+"dimension of thumbnails, preview or normal images, you might want to "
+"regenerate your images."
+msgstr ""
+
+#: settings/media.php:404
+#, php-format
+msgid ""
+"There is unfinished image regeneration from date %s with batch <b>#%s</b>, "
+"completed on <b>%s%%</b>."
+msgstr ""
+
+#: settings/media.php:405
+#, php-format
+msgid ""
+"Images to be processed: %s, images already done: %s, all images count: %s. "
+"Click on \"Continue regeneration\" to complete this process or \"Reset\" "
+"button to clean data from unfinishe process and start again."
+msgstr ""
+
+#: settings/media.php:406
+msgid "Continue regeneration"
+msgstr ""
+
+#: settings/media.php:407
+msgid "Reset"
+msgstr ""
+
+#: settings/media.php:409
+#, php-format
+msgid ""
+"There is %s images to be processed. It is recommended to increase php "
+"maximum execution time and memory to highest values, in case you have "
+"thousands of images, as this process is extensive. If you get error after "
+"while, simple go back to this page and continue with process, regeneration "
+"will start on latest regenerated image."
+msgstr ""
+
+#: settings/media.php:419
+msgid "Recommendation"
+msgstr ""
+
+#: settings/media.php:422
+msgid ""
+"We highly recommend you have the 'Keep original image' option active when "
+"you use watermarks."
+msgstr ""
+
+#: settings/optimization.php:28
+msgid ""
+"Optimize your website with stylesheets and scripts merge and compression."
+msgstr ""
+
+#: settings/optimization.php:46
+#, php-format
+msgid "Optimization Settings - %s"
+msgstr ""
+
+#: settings/optimization.php:61
+msgid "Optimization Settings"
+msgstr ""
+
+#: settings/optimization.php:64
+msgid "CSS Stylesheets"
+msgstr ""
+
+#: settings/optimization.php:69
+msgid "Merge internal CSS style sheets into one"
+msgstr ""
+
+#: settings/optimization.php:71
+msgid "External stylesheets are not merged."
+msgstr ""
+
+#: settings/optimization.php:77
+msgid "Minify/optimize merged CSS style sheet"
+msgstr ""
+
+#: settings/optimization.php:79 settings/optimization.php:116
+msgid "Comments and redundant whitespaces will be removed"
+msgstr ""
+
+#: settings/optimization.php:85
+msgid "CSS Exclude words"
+msgstr ""
+
+#: settings/optimization.php:88
+msgid ""
+"Banned keywords, in case CSS contains this word in link, will be excluded "
+"from optimization."
+msgstr ""
+
+#: settings/optimization.php:93
+msgid "CSS Exclude pages"
+msgstr ""
+
+#: settings/optimization.php:96
+msgid ""
+"Exclude optimization of CSS style sheets on particular pages. Example: home, "
+"search, item. Optimized scripts are printed before excluded, take it into "
+"consideration regarding script dependencies."
+msgstr ""
+
+#: settings/optimization.php:101
+msgid "JS scripts"
+msgstr ""
+
+#: settings/optimization.php:106
+msgid "Merge internal JS scripts into one"
+msgstr ""
+
+#: settings/optimization.php:108
+msgid "External scripts are not merged."
+msgstr ""
+
+#: settings/optimization.php:114
+msgid "Minify/optimize merged JS scripts"
+msgstr ""
+
+#: settings/optimization.php:122
+msgid "JS Exclude words"
+msgstr ""
+
+#: settings/optimization.php:125
+msgid ""
+"Banned keywords, in case JS script contains this word in link, will be "
+"excluded from optimization."
+msgstr ""
+
+#: settings/optimization.php:130
+msgid "JS Exclude pages"
+msgstr ""
+
+#: settings/optimization.php:133
+msgid ""
+"Exclude optimization of JS scripts on particular pages. Example: home, "
+"search, item"
+msgstr ""
+
+#: settings/optimization.php:147 settings/optimization.php:152
+msgid "Clean up optimized files"
+msgstr ""
+
+#: settings/optimization.php:150
+msgid ""
+"Optimization files are manually cleaned once per week using weekly cron."
+msgstr ""
+
+#: settings/optimization.php:151
+#, php-format
+msgid ""
+"Your optimization folder has size of %s, if you want to cleanup & refresh "
+"optimized CSS & JS files, click on \"Clean up optimized files\" button "
+"bellow."
+msgstr ""
+
+#: settings/permalinks.php:185 settings/permalinks.php:186
+msgid "Listings url: this field is required"
+msgstr ""
+
+#: settings/permalinks.php:189 settings/permalinks.php:190
+msgid "Page url: this field is required"
+msgstr ""
+
+#: settings/permalinks.php:193 settings/permalinks.php:194
+msgid "Categories url: this field is required"
+msgstr ""
+
+#: settings/permalinks.php:197 settings/permalinks.php:198
+msgid "Search url: this field is required"
+msgstr ""
+
+#: settings/permalinks.php:201 settings/permalinks.php:202
+msgid "Search country: this field is required"
+msgstr ""
+
+#: settings/permalinks.php:205 settings/permalinks.php:206
+msgid "Search region: this field is required"
+msgstr ""
+
+#: settings/permalinks.php:209 settings/permalinks.php:210
+msgid "Search city: this field is required"
+msgstr ""
+
+#: settings/permalinks.php:213 settings/permalinks.php:214
+msgid "Search city area: this field is required"
+msgstr ""
+
+#: settings/permalinks.php:217 settings/permalinks.php:218
+msgid "Search category: this field is required"
+msgstr ""
+
+#: settings/permalinks.php:221 settings/permalinks.php:222
+msgid "Search user: this field is required"
+msgstr ""
+
+#: settings/permalinks.php:225 settings/permalinks.php:226
+msgid "Search pattern: this field is required"
+msgstr ""
+
+#: settings/permalinks.php:229 settings/permalinks.php:230
+msgid "Contact url: this field is required"
+msgstr ""
+
+#: settings/permalinks.php:233 settings/permalinks.php:234
+msgid "Feed url: this field is required"
+msgstr ""
+
+#: settings/permalinks.php:237 settings/permalinks.php:238
+msgid "Language url: this field is required"
+msgstr ""
+
+#: settings/permalinks.php:241 settings/permalinks.php:242
+msgid "Listing mark url: this field is required"
+msgstr ""
+
+#: settings/permalinks.php:245 settings/permalinks.php:246
+msgid "Listing send friend url: this field is required"
+msgstr ""
+
+#: settings/permalinks.php:249 settings/permalinks.php:250
+msgid "Listing contact url: this field is required"
+msgstr ""
+
+#: settings/permalinks.php:253 settings/permalinks.php:254
+msgid "New listing url: this field is required"
+msgstr ""
+
+#: settings/permalinks.php:257 settings/permalinks.php:258
+msgid "Activate listing url: this field is required"
+msgstr ""
+
+#: settings/permalinks.php:261 settings/permalinks.php:262
+msgid "Deactivate listing url: this field is required"
+msgstr ""
+
+#: settings/permalinks.php:265 settings/permalinks.php:266
+msgid "Listing renewal url: this field is required"
+msgstr ""
+
+#: settings/permalinks.php:269 settings/permalinks.php:270
+msgid "Edit listing url: this field is required"
+msgstr ""
+
+#: settings/permalinks.php:273 settings/permalinks.php:274
+msgid "Delete listing url: this field is required"
+msgstr ""
+
+#: settings/permalinks.php:277 settings/permalinks.php:278
+msgid "Delete listing resource url: this field is required"
+msgstr ""
+
+#: settings/permalinks.php:281 settings/permalinks.php:282
+msgid "Login url: this field is required"
+msgstr ""
+
+#: settings/permalinks.php:285 settings/permalinks.php:286
+msgid "User dashboard url: this field is required"
+msgstr ""
+
+#: settings/permalinks.php:289 settings/permalinks.php:290
+msgid "Logout url: this field is required"
+msgstr ""
+
+#: settings/permalinks.php:293 settings/permalinks.php:294
+msgid "User register url: this field is required"
+msgstr ""
+
+#: settings/permalinks.php:297 settings/permalinks.php:298
+msgid "Activate user url: this field is required"
+msgstr ""
+
+#: settings/permalinks.php:301 settings/permalinks.php:302
+msgid "Activate alert url: this field is required"
+msgstr ""
+
+#: settings/permalinks.php:305 settings/permalinks.php:306
+msgid "User profile url: this field is required"
+msgstr ""
+
+#: settings/permalinks.php:309 settings/permalinks.php:310
+msgid "User listings url: this field is required"
+msgstr ""
+
+#: settings/permalinks.php:313 settings/permalinks.php:314
+msgid "User alerts url: this field is required"
+msgstr ""
+
+#: settings/permalinks.php:317 settings/permalinks.php:318
+msgid "Recover user url: this field is required"
+msgstr ""
+
+#: settings/permalinks.php:321 settings/permalinks.php:322
+msgid "User forgot url: this field is required"
+msgstr ""
+
+#: settings/permalinks.php:325 settings/permalinks.php:326
+msgid "Change password url: this field is required"
+msgstr ""
+
+#: settings/permalinks.php:329 settings/permalinks.php:330
+msgid "Change email url: this field is required"
+msgstr ""
+
+#: settings/permalinks.php:333 settings/permalinks.php:334
+msgid "Change username url: this field is required"
+msgstr ""
+
+#: settings/permalinks.php:337 settings/permalinks.php:338
+msgid "Change email confirm url: this field is required"
+msgstr ""
+
+#: settings/permalinks.php:355 settings/permalinks.php:359
+#: settings/permalinks.php:426
+msgid "Show rules"
+msgstr ""
+
+#: settings/permalinks.php:356
+msgid "Hide rules"
+msgstr ""
+
+#: settings/permalinks.php:383
+msgid ""
+"Activate this option if you want your site's URLs to be more attractive to "
+"search engines and intelligible for users. <strong>Be careful</strong>: "
+"depending on your hosting service, this might not work correctly."
+msgstr ""
+
+#: settings/permalinks.php:398
+#, php-format
+msgid "Permalinks - %s"
+msgstr ""
+
+#: settings/permalinks.php:409
+msgid "Permalinks"
+msgstr ""
+
+#: settings/permalinks.php:410
+msgid ""
+"By default Osclass uses web URLs which have question marks and lots of "
+"numbers in them. However, Osclass offers you friendly urls. This can improve "
+"the aesthetics, usability, and forward-compatibility of your links"
+msgstr ""
+
+#: settings/permalinks.php:418
+msgid "Friendly urls"
+msgstr ""
+
+#: settings/permalinks.php:421
+msgid "Enable friendly urls"
+msgstr ""
+
+#: settings/permalinks.php:429
+msgid "Listing URL:"
+msgstr ""
+
+#: settings/permalinks.php:433 settings/permalinks.php:442
+#: settings/permalinks.php:451
+#, php-format
+msgid "Accepted keywords: %s"
+msgstr ""
+
+#: settings/permalinks.php:438
+msgid "Page URL:"
+msgstr ""
+
+#: settings/permalinks.php:447
+msgid "Category URL:"
+msgstr ""
+
+#: settings/permalinks.php:456
+msgid "Search prefix URL:"
+msgstr ""
+
+#: settings/permalinks.php:460
+msgid "It always appear before the category, region or city url."
+msgstr ""
+
+#: settings/permalinks.php:465
+msgid "Search URL:"
+msgstr ""
+
+#: settings/permalinks.php:471
+msgid "Search keyword country"
+msgstr ""
+
+#: settings/permalinks.php:477
+msgid "Search keyword region"
+msgstr ""
+
+#: settings/permalinks.php:483
+msgid "Search keyword city"
+msgstr ""
+
+#: settings/permalinks.php:489
+msgid "Search keyword city area"
+msgstr ""
+
+#: settings/permalinks.php:495
+msgid "Search keyword category"
+msgstr ""
+
+#: settings/permalinks.php:501
+msgid "Search keyword user"
+msgstr ""
+
+#: settings/permalinks.php:507
+msgid "Search keyword pattern"
+msgstr ""
+
+#: settings/permalinks.php:519
+msgid "Feed"
+msgstr ""
+
+#: settings/permalinks.php:531
+msgid "Listing mark"
+msgstr ""
+
+#: settings/permalinks.php:537
+msgid "Listing send friend"
+msgstr ""
+
+#: settings/permalinks.php:543
+msgid "Listing contact"
+msgstr ""
+
+#: settings/permalinks.php:549
+msgid "Listing new"
+msgstr ""
+
+#: settings/permalinks.php:555
+msgid "Listing activate"
+msgstr ""
+
+#: settings/permalinks.php:561
+msgid "Listing deactivate"
+msgstr ""
+
+#: settings/permalinks.php:567
+msgid "Listing renew"
+msgstr ""
+
+#: settings/permalinks.php:573
+msgid "Listing edit"
+msgstr ""
+
+#: settings/permalinks.php:579
+msgid "Listing delete"
+msgstr ""
+
+#: settings/permalinks.php:585
+msgid "Listing resource delete"
+msgstr ""
+
+#: settings/permalinks.php:591
+msgid "User login"
+msgstr ""
+
+#: settings/permalinks.php:597
+msgid "User dashboard"
+msgstr ""
+
+#: settings/permalinks.php:603
+msgid "User logout"
+msgstr ""
+
+#: settings/permalinks.php:609
+msgid "User register"
+msgstr ""
+
+#: settings/permalinks.php:615
+msgid "User activate"
+msgstr ""
+
+#: settings/permalinks.php:621
+msgid "User activate alert"
+msgstr ""
+
+#: settings/permalinks.php:633
+msgid "User listings"
+msgstr ""
+
+#: settings/permalinks.php:645
+msgid "User recover"
+msgstr ""
+
+#: settings/permalinks.php:651
+msgid "User forgot"
+msgstr ""
+
+#: settings/permalinks.php:669
+msgid "User change email confirm"
+msgstr ""
+
+#: settings/permalinks.php:685
+msgid "Your .htaccess file"
+msgstr ""
+
+#: settings/permalinks.php:692
+msgid "What your .htaccess file should look like"
+msgstr ""
+
+#: settings/searches.php:75
+msgid ""
+"Save the searches users do on your site. In this way, you can get "
+"information on what they're most interested in. From here, you can manage "
+"the options on how much information you want to save."
+msgstr ""
+
+#: settings/searches.php:93
+#, php-format
+msgid "Latest searches Settings - %s"
+msgstr ""
+
+#: settings/searches.php:104
+msgid "Latest searches Settings"
+msgstr ""
+
+#: settings/searches.php:112
+msgid "Latest searches"
+msgstr ""
+
+#: settings/searches.php:116
+msgid "Save the latest user searches"
+msgstr ""
+
+#: settings/searches.php:117
+msgid "It may be useful to know what queries users make."
+msgstr ""
+
+#: settings/searches.php:122
+msgid "How long queries are stored"
+msgstr ""
+
+#: settings/searches.php:126
+msgid "One hour"
+msgstr ""
+
+#: settings/searches.php:130
+msgid "One day"
+msgstr ""
+
+#: settings/searches.php:134
+msgid "One week"
+msgstr ""
+
+#: settings/searches.php:138
+msgid "Forever"
+msgstr ""
+
+#: settings/searches.php:142
+msgid "Store 1000 queries"
+msgstr ""
+
+#: settings/searches.php:146
+#, php-format
+msgid "Store %s queries"
+msgstr ""
+
+#: settings/searches.php:148
+msgid ""
+"This feature can generate a lot of data. It's recommended to purge this data "
+"periodically."
+msgstr ""
+
+#: settings/spamNbots.php:25
+msgid ""
+"Keep spammers from publishing on your site by configuring reCAPTCHA and "
+"Akismet. Be careful: in order to use these services, you must register on "
+"their sites first and follow their instructions."
+msgstr ""
+
+#: settings/spamNbots.php:43
+#, php-format
+msgid "Spam and bots - %s"
+msgstr ""
+
+#: settings/spamNbots.php:52
+msgid "Spam and bots"
+msgstr ""
+
+#: settings/spamNbots.php:54
+msgid "Akismet"
+msgstr ""
+
+#: settings/spamNbots.php:55
+msgid ""
+"Akismet is a hosted web service that saves you time by automatically "
+"detecting comment and trackback spam. It's hosted on our servers, but we "
+"give you access to it through plugins and our API."
+msgstr ""
+
+#: settings/spamNbots.php:62
+msgid "Akismet API Key"
+msgstr ""
+
+#: settings/spamNbots.php:72
+msgid "This key is valid"
+msgstr ""
+
+#: settings/spamNbots.php:76
+msgid "The key you entered is invalid. Please double-check it"
+msgstr ""
+
+#: settings/spamNbots.php:80
+#, php-format
+msgid ""
+"Akismet is disabled, please enter an API key. <a href=\"%s\" target=\"_blank"
+"\">(Get your key)</a>"
+msgstr ""
+
+#: settings/spamNbots.php:98
+msgid "ReCaptcha v2 tickbox"
+msgstr ""
+
+#: settings/spamNbots.php:99
+#, php-format
+msgid ""
+"ReCaptcha helps prevent automated abuse of your site by using a CAPTCHA to "
+"ensure that only humans perform certain actions. Osclass use reCAPTCHA v2 - "
+"\"I'm not a robot\" tickbox. <a href=\"%s\" target=\"_blank\">Get your API "
+"key</a>"
+msgstr ""
+
+#: settings/spamNbots.php:100
+msgid "To disable recaptcha, remove API keys from inputs and save settings"
+msgstr ""
+
+#: settings/spamNbots.php:109
+msgid "Site key"
+msgstr ""
+
+#: settings/spamNbots.php:115
+msgid "Secret key"
+msgstr ""
+
+#: settings/spamNbots.php:123
+msgid ""
+"If you see the reCAPTCHA form it means that you have correctly entered the "
+"public key"
+msgstr ""
+
+#: stats/comments.php:27 stats/comments.php:164 stats/items.php:35
+#: stats/items.php:229 stats/reports.php:25 stats/reports.php:169
+#: stats/users.php:30 stats/users.php:188
+msgid "Last 10 weeks"
+msgstr ""
+
+#: stats/comments.php:30 stats/comments.php:163 stats/items.php:38
+#: stats/items.php:228 stats/reports.php:28 stats/reports.php:168
+#: stats/users.php:33 stats/users.php:187
+msgid "Last 10 months"
+msgstr ""
+
+#: stats/comments.php:33 stats/comments.php:165 stats/items.php:41
+#: stats/items.php:230 stats/reports.php:31 stats/reports.php:170
+#: stats/users.php:36 stats/users.php:189
+msgid "Last 10 days"
+msgstr ""
+
+#: stats/comments.php:44
+msgid ""
+"See how many comments the listings published on your site have received."
+msgstr ""
+
+#: stats/comments.php:53 stats/items.php:60 stats/reports.php:51
+#: stats/users.php:51
+msgid "Statistics"
+msgstr ""
+
+#: stats/comments.php:60
+#, php-format
+msgid "Comment Statistics - %s"
+msgstr ""
+
+#: stats/comments.php:158
+msgid "Comment Statistics"
+msgstr ""
+
+#: stats/comments.php:178 stats/reports.php:183 stats/users.php:268
+msgid "There are no statistics yet"
+msgstr ""
+
+#: stats/comments.php:188
+msgid "Latest comments on the web"
+msgstr ""
+
+#: stats/comments.php:212 stats/items.php:243 stats/items.php:260
+#: stats/items.php:278 stats/items.php:295 stats/users.php:202
+#: stats/users.php:219 stats/users.php:236
+msgid "There're no statistics yet"
+msgstr ""
+
+#: stats/items.php:52
+msgid ""
+"Quickly find out how many new listings have been published on your site and "
+"how many visits each of the listings gets."
+msgstr ""
+
+#: stats/items.php:70
+#, php-format
+msgid "Listing Statistics - %s"
+msgstr ""
+
+#: stats/items.php:106
+msgid "Items"
+msgstr ""
+
+#: stats/items.php:108
+msgid "Views"
+msgstr ""
+
+#: stats/items.php:114 users/alerts.php:28 users/frm.php:441
+msgid "Alerts"
+msgstr ""
+
+#: stats/items.php:116
+msgid "Subscribers"
+msgstr ""
+
+#: stats/items.php:223
+msgid "Listing Statistics"
+msgstr ""
+
+#: stats/items.php:237
+msgid "New listing"
+msgstr ""
+
+#: stats/items.php:240
+msgid "Number of new listings"
+msgstr ""
+
+#: stats/items.php:254
+msgid "Listings' views"
+msgstr ""
+
+#: stats/items.php:257
+msgid "Total number of listings' views"
+msgstr ""
+
+#: stats/items.php:272
+msgid "New alerts"
+msgstr ""
+
+#: stats/items.php:275
+msgid "Number of new alerts"
+msgstr ""
+
+#: stats/items.php:289
+msgid "New subscribers"
+msgstr ""
+
+#: stats/items.php:292
+msgid "Number of new subscribers"
+msgstr ""
+
+#: stats/reports.php:43
+msgid ""
+"See how many listings from your site have been reported as spam, expired, "
+"duplicate, etc."
+msgstr ""
+
+#: stats/reports.php:61
+#, php-format
+msgid "Report Statistics - %s"
+msgstr ""
+
+#: stats/reports.php:86
+msgid "Duplicated"
+msgstr ""
+
+#: stats/reports.php:87
+msgid "Bad category"
+msgstr ""
+
+#: stats/reports.php:88
+msgid "Offensive"
+msgstr ""
+
+#: stats/reports.php:89
+msgid "Expired"
+msgstr ""
+
+#: stats/reports.php:163
+msgid "Report Statistics"
+msgstr ""
+
+#: stats/reports.php:177
+msgid "Total number of reports"
+msgstr ""
+
+#: stats/users.php:45
+msgid ""
+"Stay up-to-date on the number of users registered on your site. You can also "
+"see a breakdown of the countries and regions where users live among those "
+"available on your site."
+msgstr ""
+
+#: stats/users.php:58
+#, php-format
+msgid "User Statistics - %s"
+msgstr ""
+
+#: stats/users.php:86 stats/users.php:196
+msgid "New users"
+msgstr ""
+
+#: stats/users.php:147 stats/users.php:213
+msgid "Users per country"
+msgstr ""
+
+#: stats/users.php:150 stats/users.php:162
+msgid "Unknown"
+msgstr ""
+
+#: stats/users.php:159 stats/users.php:230
+msgid "Users per region"
+msgstr ""
+
+#: stats/users.php:182
+msgid "User Statistics"
+msgstr ""
+
+#: stats/users.php:246
+msgid "Latest users on the web"
+msgstr ""
+
+#: stats/users.php:253
+msgid "E-Mail"
+msgstr ""
+
+#: stats/users.php:279
+msgid "Avg. items per user"
+msgstr ""
+
+#: stats/users.php:282
+#, php-format
+msgid "%s listings per user"
+msgstr ""
+
+#: tools/backup.php:41
+msgid ""
+"Save a backup of all of your site's information: listings, users and "
+"configuration. You can save a backup on your server or on your computer."
+msgstr ""
+
+#: tools/backup.php:49 tools/category.php:27 tools/import.php:34
+#: tools/locations.php:71 tools/maintenance.php:33 tools/upgrade.php:120
+#: upgrade/index.php:22
+msgid "Tools"
+msgstr ""
+
+#: tools/backup.php:59
+#, php-format
+msgid "Backup - %s"
+msgstr ""
+
+#: tools/backup.php:70
+msgid "Backup"
+msgstr ""
+
+#: tools/backup.php:77
+msgid "Backup folder"
+msgstr ""
+
+#: tools/backup.php:81
+msgid ""
+"<strong>WARNING</strong>: If you don't specify a backup folder, the backup "
+"files will be created in the root of your Osclass installation."
+msgstr ""
+
+#: tools/backup.php:83
+msgid ""
+"This is the folder in which your backups will be created. We recommend that "
+"you choose a non-public path."
+msgstr ""
+
+#: tools/backup.php:88
+msgid "Backup SQL (store on server)"
+msgstr ""
+
+#: tools/backup.php:89
+msgid "Backup SQL (download file)"
+msgstr ""
+
+#: tools/backup.php:90
+msgid "Backup files (store on server)"
+msgstr ""
+
+#: tools/category.php:35
+#, php-format
+msgid "Category stats - %s"
+msgstr ""
+
+#: tools/category.php:46
+msgid "Category stats"
+msgstr ""
+
+#: tools/category.php:47
+msgid ""
+"You can recalculate stats by category, useful if the stats seem to be "
+"incorrect."
+msgstr ""
+
+#: tools/category.php:54
+msgid "Calculate category stats"
+msgstr ""
+
+#: tools/cleanup.php:25
+msgid "Clean up not validated, disabled or spam data in osclass"
+msgstr ""
+
+#: tools/cleanup.php:31
+msgid "Cleanup data"
+msgstr ""
+
+#: tools/cleanup.php:41
+#, php-format
+msgid "Cleanup - %s"
+msgstr ""
+
+#: tools/cleanup.php:67
+msgid "Inactive listings"
+msgstr ""
+
+#: tools/cleanup.php:75
+#, php-format
+msgid ""
+"Remove listings those has not been validated in last %d days. These data are "
+"usually spam/unwanted and are redundant for your installation."
+msgstr ""
+
+#: tools/cleanup.php:76 tools/cleanup.php:97 tools/cleanup.php:118
+#, php-format
+msgid "Total number of listings matching criteria: %s"
+msgstr ""
+
+#: tools/cleanup.php:80 tools/cleanup.php:101 tools/cleanup.php:122
+#: tools/cleanup.php:143 tools/cleanup.php:164 tools/cleanup.php:185
+#: tools/cleanup.php:206 tools/cleanup.php:227
+msgid "Clean up now"
+msgstr ""
+
+#: tools/cleanup.php:88
+msgid "Blocked & Spam listings"
+msgstr ""
+
+#: tools/cleanup.php:96
+msgid ""
+"Remove listings those has been marked as spam, or has been disabled by you "
+"or your moderators."
+msgstr ""
+
+#: tools/cleanup.php:109
+msgid "Expired listings"
+msgstr ""
+
+#: tools/cleanup.php:117
+#, php-format
+msgid ""
+"Remove listings those has expired more than %d days ago and were not removed "
+"or reactivated. These listings are not visible on your site."
+msgstr ""
+
+#: tools/cleanup.php:130
+msgid "Inactive users"
+msgstr ""
+
+#: tools/cleanup.php:138
+#, php-format
+msgid ""
+"Remove users those has registered more than %d days ago did not activated "
+"their account."
+msgstr ""
+
+#: tools/cleanup.php:139 tools/cleanup.php:160
+#, php-format
+msgid "Total number of users matching criteria: %s"
+msgstr ""
+
+#: tools/cleanup.php:151
+msgid "Blocked users"
+msgstr ""
+
+#: tools/cleanup.php:159
+#, php-format
+msgid ""
+"Remove users those has been blocked more than %d days (based on last access "
+"date). This will remove also all listings published by this user."
+msgstr ""
+
+#: tools/cleanup.php:172
+msgid "Inactive comments"
+msgstr ""
+
+#: tools/cleanup.php:180
+#, php-format
+msgid "Remove comments those has not been activated for more than %d days."
+msgstr ""
+
+#: tools/cleanup.php:181 tools/cleanup.php:202
+#, php-format
+msgid "Total number of comments matching criteria: %s"
+msgstr ""
+
+#: tools/cleanup.php:193
+msgid "Blocked comments"
+msgstr ""
+
+#: tools/cleanup.php:201
+msgid "Remove comments those has been blocked by your or your moderators."
+msgstr ""
+
+#: tools/cleanup.php:214
+msgid "Unsubscribed alerts"
+msgstr ""
+
+#: tools/cleanup.php:222
+#, php-format
+msgid ""
+"Remove inactive alerts those has been unsubscribed for more than %d days."
+msgstr ""
+
+#: tools/cleanup.php:223
+#, php-format
+msgid "Total number of alerts matching criteria: %s"
+msgstr ""
+
+#: tools/debug.php:25
+msgid "Check your debug/error log settings and debug output."
+msgstr ""
+
+#: tools/debug.php:33
+msgid "Debug/Error log"
+msgstr ""
+
+#: tools/debug.php:43 tools/info.php:43
+#, php-format
+msgid "Tools - %s"
+msgstr ""
+
+#: tools/debug.php:65
+#, php-format
+msgid "First %s lines shown, download log file to see full content"
+msgstr ""
+
+#: tools/debug.php:77
+msgid "Debug/Error log settings"
+msgstr ""
+
+#: tools/debug.php:79 tools/info.php:162
+msgid "PHP error log"
+msgstr ""
+
+#: tools/debug.php:79 tools/debug.php:80 tools/debug.php:81 tools/info.php:94
+#: tools/info.php:162 tools/info.php:163 tools/info.php:164 tools/info.php:165
+msgid "Enabled"
+msgstr ""
+
+#: tools/debug.php:80 tools/info.php:163
+msgid "PHP errors output to file"
+msgstr ""
+
+#: tools/debug.php:81 tools/info.php:164
+msgid "Database debug mode"
+msgstr ""
+
+#: tools/debug.php:86
+msgid "Enable logs"
+msgstr ""
+
+#: tools/debug.php:88
+msgid ""
+"You can enable error/debug logs in config.php (located in root directory) by "
+"adding following lines"
+msgstr ""
+
+#: tools/debug.php:89
+msgid "enable PHP debugging"
+msgstr ""
+
+#: tools/debug.php:90
+msgid "stores PHP debug into log file"
+msgstr ""
+
+#: tools/debug.php:91
+msgid "enable DB debugging"
+msgstr ""
+
+#: tools/debug.php:102
+msgid "Debug log file"
+msgstr ""
+
+#: tools/debug.php:115
+#, php-format
+msgid ""
+"Debug log file is empty or does not exists, it should be located in %s "
+"folder."
+msgstr ""
+
+#: tools/import.php:26
+#, php-format
+msgid ""
+"Upload registers from other Osclass installations or upload new geographic "
+"information to your site. <strong>Be careful</strong>: don’t use this option "
+"if you're not 100% sure what you're doing."
+msgstr ""
+
+#: tools/import.php:44
+#, php-format
+msgid "Import - %s"
+msgstr ""
+
+#: tools/import.php:61
+msgid "File (.sql)"
+msgstr ""
+
+#: tools/import.php:67
+msgid "Import data"
+msgstr ""
+
+#: tools/info.php:25
+msgid ""
+"Browse configuration information of your server, database, osclass and PHP"
+msgstr ""
+
+#: tools/info.php:33 tools/info.php:73
+msgid "Configuration information"
+msgstr ""
+
+#: tools/info.php:75
+msgid ""
+"This information can be provided when you report an issue via support ticket "
+"or on forums."
+msgstr ""
+
+#: tools/info.php:78
+msgid ""
+"Detail information are not included as it takes more resources to compute. "
+"Click on button bellow to include also details about your website."
+msgstr ""
+
+#: tools/info.php:79
+msgid "Run with details"
+msgstr ""
+
+#: tools/info.php:85 tools/info.php:87
+msgid "Server information"
+msgstr ""
+
+#: tools/info.php:88
+msgid "Server software version"
+msgstr ""
+
+#: tools/info.php:89
+msgid "PHP version"
+msgstr ""
+
+#: tools/info.php:90
+msgid "Memory limit"
+msgstr ""
+
+#: tools/info.php:91
+msgid "Max execution time"
+msgstr ""
+
+#: tools/info.php:92
+msgid "Upload max file size"
+msgstr ""
+
+#: tools/info.php:93
+msgid "Max input vars"
+msgstr ""
+
+#: tools/info.php:94
+msgid "Allow URL Fopen"
+msgstr ""
+
+#: tools/info.php:100
+msgid "Database information"
+msgstr ""
+
+#: tools/info.php:102
+msgid "MySQL version"
+msgstr ""
+
+#: tools/info.php:103
+msgid "MySQL server"
+msgstr ""
+
+#: tools/info.php:104
+msgid "MySQL name"
+msgstr ""
+
+#: tools/info.php:105
+msgid "MySQL user"
+msgstr ""
+
+#: tools/info.php:106
+msgid "Tables prefix"
+msgstr ""
+
+#: tools/info.php:111
+msgid "Size information"
+msgstr ""
+
+#: tools/info.php:114
+msgid "All osclass files"
+msgstr ""
+
+#: tools/info.php:115
+msgid "Includes"
+msgstr ""
+
+#: tools/info.php:116
+msgid "Admin"
+msgstr ""
+
+#: tools/info.php:117
+msgid "Content"
+msgstr ""
+
+#: tools/info.php:122
+msgid "Uploads"
+msgstr ""
+
+#: tools/info.php:125 tools/info.php:227
+msgid "Not available in summary, run configuration information with details"
+msgstr ""
+
+#: tools/info.php:136
+msgid "Osclass information"
+msgstr ""
+
+#: tools/info.php:153
+msgid "Osclass version"
+msgstr ""
+
+#: tools/info.php:154
+msgid "Web URL"
+msgstr ""
+
+#: tools/info.php:155
+msgid "Web path"
+msgstr ""
+
+#: tools/info.php:156
+msgid "Oc-admin URL"
+msgstr ""
+
+#: tools/info.php:157
+msgid "Multisite"
+msgstr ""
+
+#: tools/info.php:157 tools/info.php:159
+msgid "Yes"
+msgstr ""
+
+#: tools/info.php:157 tools/info.php:159
+msgid "No"
+msgstr ""
+
+#: tools/info.php:158
+msgid "Last update check"
+msgstr ""
+
+#: tools/info.php:159
+msgid "Using dev cron"
+msgstr ""
+
+#: tools/info.php:160
+msgid "Current front theme"
+msgstr ""
+
+#: tools/info.php:161
+msgid "Current oc-admin theme"
+msgstr ""
+
+#: tools/info.php:165
+msgid "Cache"
+msgstr ""
+
+#: tools/info.php:180
+msgid "Themes & Plugins information"
+msgstr ""
+
+#: tools/info.php:182
+msgid "All plugins"
+msgstr ""
+
+#: tools/info.php:182 tools/info.php:183 tools/info.php:184 tools/info.php:185
+msgid "plugins"
+msgstr ""
+
+#: tools/info.php:183
+msgid "Enabled plugins"
+msgstr ""
+
+#: tools/info.php:184
+msgid "Disabled plugins"
+msgstr ""
+
+#: tools/info.php:185
+msgid "Not installed plugins"
+msgstr ""
+
+#: tools/info.php:186
+#, fuzzy
+#| msgid "Latest themes"
+msgid "All themes"
+msgstr "Latest themes tranlsation test"
+
+#: tools/info.php:186 tools/info.php:187
+#, fuzzy
+#| msgid "Latest themes"
+msgid "themes"
+msgstr "Latest themes tranlsation test"
+
+#: tools/info.php:187
+#, fuzzy
+#| msgid "Latest themes"
+msgid "Inactive themes"
+msgstr "Latest themes tranlsation test"
+
+#: tools/info.php:192
+msgid "Your information"
+msgstr ""
+
+#: tools/info.php:194
+msgid "Your web browser"
+msgstr ""
+
+#: tools/info.php:199
+msgid "Permissions information"
+msgstr ""
+
+#: tools/info.php:202
+msgid ""
+"In case folder is not readable or writtable, it may be issue when updating "
+"or upgrading osclass, themes or plugins."
+msgstr ""
+
+#: tools/info.php:206
+msgid "Folders those are not readable"
+msgstr ""
+
+#: tools/info.php:209
+msgid "All folders are readable"
+msgstr ""
+
+#: tools/info.php:217
+msgid "Folders those are not writtable"
+msgstr ""
+
+#: tools/info.php:220
+msgid "All folders are writtable"
+msgstr ""
+
+#: tools/locations.php:79
+#, php-format
+msgid "Location stats - %s"
+msgstr ""
+
+#: tools/locations.php:90
+msgid "Locations stats"
+msgstr ""
+
+#: tools/locations.php:93
+msgid "Complete"
+msgstr ""
+
+#: tools/locations.php:97
+msgid ""
+"You can recalculate your location stats. This is useful if you upgrade from "
+"versions older than Osclass 2.4"
+msgstr ""
+
+#: tools/locations.php:105
+msgid "Calculate location stats"
+msgstr ""
+
+#: tools/maintenance.php:27
+msgid ""
+"Show a \"Site in maintenance mode\" message to your users while you're "
+"updating your site or modifying its configuration."
+msgstr ""
+
+#: tools/maintenance.php:40
+#, php-format
+msgid "Maintenance - %s"
+msgstr ""
+
+#: tools/maintenance.php:50
+msgid "Maintenance"
+msgstr ""
+
+#: tools/maintenance.php:55
+msgid ""
+"While in maintenance mode, users can't access your website. Useful if you "
+"need to make changes on your website. Use the following button to toggle "
+"maintenance mode ON/OFF."
+msgstr ""
+
+#: tools/maintenance.php:57
+#, php-format
+msgid "Maintenance mode is: <strong>%s</strong>"
+msgstr ""
+
+#: tools/maintenance.php:61
+msgid "Disable maintenance mode"
+msgstr ""
+
+#: tools/maintenance.php:61
+msgid "Enable maintenance mode"
+msgstr ""
+
+#: tools/upgrade.php:43
+msgid "Checking for updates..."
+msgstr ""
+
+#: tools/upgrade.php:44
+#, php-format
+msgid "Current version: %s"
+msgstr ""
+
+#: tools/upgrade.php:48
+msgid "Congratulations! Your Osclass installation is up to date!"
+msgstr ""
+
+#: tools/upgrade.php:50
+msgid "New version to update:"
+msgstr ""
+
+#: tools/upgrade.php:53
+msgid ""
+"Upgrading your Osclass installation (this could take a while). If upgrade "
+"does not finish in 10 minutes, simply try to refresh page. If you get "
+"successful flash message, everything is alright."
+msgstr ""
+
+#: tools/upgrade.php:75 tools/upgrade.php:78 tools/upgrade.php:88
+msgid "Upgrade has failed with following error:"
+msgstr ""
+
+#: tools/upgrade.php:86
+msgid "Upgrade has failed from timeout"
+msgstr ""
+
+#: tools/upgrade.php:93 tools/upgrade.php:139 upgrade/index.php:30
+#: upgrade/index.php:74
+msgid "Upgrade"
+msgstr ""
+
+#: tools/upgrade.php:111
+msgid ""
+"Check to see if you're using the latest version of Osclass. If you're not, "
+"the system will let you know so you can update and use the newest features."
+msgstr ""
+
+#: tools/upgrade.php:127
+#, php-format
+msgid "Upgrade - %s"
+msgstr ""
+
+#: tools/upgrade.php:147
+#, php-format
+msgid ""
+"Your Osclass installation can be auto-upgraded. Please, back up your "
+"database and the folder oc-content before attempting to upgrade your Osclass "
+"installation. You can also upgrade Osclass manually, more information in the "
+"%s"
+msgstr ""
+
+#: tools/upgrade.php:151
+msgid ""
+"Your Osclass installation can't be auto-upgraded. Files and folders need to "
+"be writable. You can apply write permissions via SSH with the command "
+"\"chmod -R a+w *\" (without quotes) or via an FTP client, it depends on the "
+"program so we can not provide more information. You can also upgrade Osclass "
+"by downloading the upgrade package, unzipping it and replacing the files on "
+"your server with the ones in the package."
+msgstr ""
+
+#: tools/version.php:22
+#, php-format
+msgid "Osclass %s"
+msgstr ""
+
+#: tools/version.php:32
+#, php-format
+msgid "Osclass %s - %s"
+msgstr ""
+
+#: tools/version.php:46
+#, php-format
+msgid "Osclass changelog up to v%s"
+msgstr ""
+
+#: upgrade/index.php:60
+#, php-format
+msgid "There was problem with upgrade, %s has resulted with error."
+msgstr ""
+
+#: upgrade/index.php:79
+msgid "Upgrading your Osclass installation (this could take a while)"
+msgstr ""
+
+#: upgrade/index.php:84
+msgid ""
+"You have uploaded a new version of Osclass, you need to upgrade Osclass for "
+"it to work correctly."
+msgstr ""
+
+#: upgrade/index.php:87
+msgid ""
+"This action cannot be done because it is a demo site. Disable demo mode in "
+"config.php to continue with upgrade."
+msgstr ""
+
+#: upgrade/index.php:88 upgrade/index.php:91
+msgid "Upgrade now"
+msgstr ""
+
+#: users/alerts.php:20
+msgid "Add, edit or delete information associated to alerts."
+msgstr ""
+
+#: users/alerts.php:38
+#, php-format
+msgid "Manage alerts - %s"
+msgstr ""
+
+#: users/alerts.php:137
+msgid "Manage alerts"
+msgstr ""
+
+#: users/alerts.php:160
+msgid "Bulk Actions"
+msgstr ""
+
+#: users/alerts.php:161 users/alerts.php:162 users/alerts.php:163
+#, php-format
+msgid "Are you sure you want to %s the selected alerts?"
+msgstr ""
+
+#: users/alerts.php:206 users/frm.php:499
+msgid "Delete alert"
+msgstr ""
+
+#: users/alerts.php:213 users/frm.php:506
+msgid "Are you sure you want to delete this alert?"
+msgstr ""
+
+#: users/ban.php:21
+msgid ""
+"Add, edit or delete ban rules. Keep in mind that ban rules prevent users to "
+"register, publish or comment on listings."
+msgstr ""
+
+#: users/ban.php:41
+#, php-format
+msgid "Manage ban rules - %s"
+msgstr ""
+
+#: users/ban.php:126
+msgid "Manage ban rules"
+msgstr ""
+
+#: users/ban.php:139
+msgid "Search for a rule"
+msgstr ""
+
+#: users/ban.php:143 users/ban.php:144 users/ban.php:145 users/ban.php:146
+#: users/ban.php:147 users/ban.php:213 users/ban.php:214 users/ban.php:215
+#: users/ban.php:216 users/ban.php:217
+#, php-format
+msgid "%d rules"
+msgstr ""
+
+#: users/ban.php:223
+msgid "Delete rule"
+msgstr ""
+
+#: users/ban.php:229
+msgid "Are you sure you want to delete this ban rule?"
+msgstr ""
+
+#: users/ban_frm.php:30
+msgid "Edit rule"
+msgstr ""
+
+#: users/ban_frm.php:32
+msgid "Update rule"
+msgstr ""
+
+#: users/ban_frm.php:35 users/ban_frm.php:37
+msgid "Add new ban rule"
+msgstr ""
+
+#: users/ban_frm.php:82
+msgid "Ban name / Reason"
+msgstr ""
+
+#: users/ban_frm.php:89
+msgid "IP rule"
+msgstr ""
+
+#: users/ban_frm.php:92
+msgid ""
+"Example: 192.168.10-20.*, 192.*.*.*, 192.*.20.*, 192.*.10-20.1, 192.168.10.1"
+msgstr ""
+
+#: users/ban_frm.php:97
+msgid "E-mail rule"
+msgstr ""
+
+#: users/ban_frm.php:100
+msgid ""
+"Example: *@badsite.com, *@subdomain.badsite.com, *@*badsite.com, *badsite.*, "
+"*badsite*, *.com"
+msgstr ""
+
+#: users/frm.php:39
+msgid "Update user"
+msgstr ""
+
+#: users/frm.php:43 users/frm.php:45
+msgid "Add new user"
+msgstr ""
+
+#: users/frm.php:169
+msgid "Username: this field is required"
+msgstr ""
+
+#: users/frm.php:194
+msgid "The username is available"
+msgstr ""
+
+#: users/frm.php:196
+msgid "The username is NOT available"
+msgstr ""
+
+#: users/frm.php:242
+msgid "Contact info"
+msgstr ""
+
+#: users/frm.php:252
+msgid "Last access"
+msgstr ""
+
+#: users/frm.php:255
+#, php-format
+msgid "%s on %s"
+msgstr ""
+
+#: users/frm.php:263
+msgid "Failed logins"
+msgstr ""
+
+#: users/frm.php:267
+#, php-format
+msgid "%s failed attempts, last one on %s"
+msgstr ""
+
+#: users/frm.php:278
+msgid "Profile picture"
+msgstr ""
+
+#: users/frm.php:285
+msgid "Remove"
+msgstr ""
+
+#: users/frm.php:294
+msgid "ID"
+msgstr ""
+
+#: users/frm.php:316
+msgid "(required)"
+msgstr ""
+
+#: users/frm.php:323
+msgid "Mobile phone"
+msgstr ""
+
+#: users/frm.php:330
+msgid "Land phone"
+msgstr ""
+
+#: users/frm.php:336
+msgid "Website"
+msgstr ""
+
+#: users/frm.php:342
+msgid "About you"
+msgstr ""
+
+#: users/frm.php:344
+msgid "User type"
+msgstr ""
+
+#: users/frm.php:351
+msgid "Additional information"
+msgstr ""
+
+#: users/frm.php:357
+msgid "Location"
+msgstr ""
+
+#: users/frm.php:401
+msgid "(twice, required)"
+msgstr ""
+
+#: users/frm.php:405
+msgid ""
+"If you'd like to change the password, type a new one. Otherwise leave this "
+"blank"
+msgstr ""
+
+#: users/frm.php:452
+#, php-format
+msgid "Alert #%d"
+msgstr ""
+
+#: users/frm.php:455
+#, php-format
+msgid "<b>Pattern:</b> %s"
+msgstr ""
+
+#: users/frm.php:465
+msgid "...More"
+msgstr ""
+
+#: users/frm.php:468
+#, php-format
+msgid "<b>Categories:</b> %s"
+msgstr ""
+
+#: users/index.php:21
+msgid ""
+"Add, edit or delete information associated to registered users. Keep in mind "
+"that deleting a user also deletes all the listings the user published."
+msgstr ""
+
+#: users/index.php:41
+#, php-format
+msgid "Manage users - %s"
+msgstr ""
+
+#: users/index.php:263
+msgid "Manage users"
+msgstr ""
+
+#: users/index.php:273 users/index.php:274 users/index.php:275
+#: users/index.php:276 users/index.php:277
+#, php-format
+msgid "%d Users"
+msgstr ""
+
+#: users/index.php:342
+msgid "Delete user"
+msgstr ""
+
+#: users/index.php:348
+msgid "Are you sure you want to delete this user?"
+msgstr ""
+
+#: users/settings.php:21
+msgid ""
+"Manage the options related to users on your site. Here, you can decide if "
+"users must register or if email confirmation is necessary, among other "
+"options."
+msgstr ""
+
+#: users/settings.php:39
+#, php-format
+msgid "User Settings - %s"
+msgstr ""
+
+#: users/settings.php:48
+msgid "User Settings"
+msgstr ""
+
+#: users/settings.php:60
+msgid "Users enabled"
+msgstr ""
+
+#: users/settings.php:67
+msgid "Anyone can register"
+msgstr ""
+
+#: users/settings.php:74
+msgid "Users need to validate their account"
+msgstr ""
+
+#: users/settings.php:80
+msgid "Admin notifications"
+msgstr ""
+
+#: users/settings.php:84
+msgid "When a new user is registered"
+msgstr ""
+
+#: users/settings.php:90
+msgid "Admin toolbar"
+msgstr ""
+
+#: users/settings.php:94
+msgid "Enable admin toolbar in front page"
+msgstr ""
+
+#: users/settings.php:100
+msgid "TinyMCE"
+msgstr ""
+
+#: users/settings.php:104
+msgid ""
+"Enable TinyMCE on user profile - additional information textarea in front/"
+"back office"
+msgstr ""
+
+#: users/settings.php:110
+msgid "Profile pictures"
+msgstr ""
+
+#: users/settings.php:114
+msgid "Enable users to upload their profile picture"
+msgstr ""
+
+#: users/settings.php:120
+msgid "Profile picture size"
+msgstr ""
+
+#: users/settings.php:123
+msgid ""
+"The size listed below determine the optimal dimensions in pixels to use when "
+"uploading a profile picture. Format: <b>Width</b> x <b>Height</b>."
+msgstr ""
+
+#: users/settings.php:128
+msgid "Username generator"
+msgstr ""
+
+#: users/settings.php:131
+msgid "Use user ID"
+msgstr ""
+
+#: users/settings.php:132
+msgid "Create slug from name"
+msgstr ""
+
+#: users/settings.php:135
+msgid ""
+"Generator is not used, when user enters username in registration or profile "
+"form (when available)."
+msgstr ""
+
+#: users/settings.php:140
+msgid "Username blacklist"
+msgstr ""
+
+#: users/settings.php:144
+msgid "List of terms not allowed in usernames, separated by commas"
+msgstr ""

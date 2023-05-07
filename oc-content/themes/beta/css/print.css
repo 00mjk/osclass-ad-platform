@@ -1,0 +1,8 @@
+body {background:#fff;}
+header, footer, #bread, .item-bx-pager, .bx-controls, #piracy, #pick-color, #listing .related, #listing .data .connect-pre a.open-form, #listing .data .connect, #listing .data .connect-after,
+.flash-box, .banner-theme, #listing .data .item-share, .main-head, .main-data > .loc a.direction, #listing .side > div#comment, .mobile-item, #listing .item .item-prem-lab,
+#listing .data .connect-pre .row.mob i, #scroll-to-top, #listing .data .lab.box-user {display:none!important;}
+
+!.main-data > .img, .main-data > .loc {display:block!important;}
+body#body-item {padding-top:0!important;}
+#listing .data .connect-pre {border-bottom:none;margin-bottom:0;padding-bottom:0;}
